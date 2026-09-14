@@ -1,0 +1,268 @@
+# The AI Forecast Registry — 予測の名簿
+
+> An append-only registry by Satoshi Yamauchi (山内怜史), AI Strategist,
+> that records public forecasts about AI with verbatim text, dates and
+> primary URLs, and fills their outcomes using only the forecaster's own
+> later words. It begins on March 22, 2023 with the Future of Life
+> Institute's open letter "Pause Giant AI Experiments." Each row separates
+> three layers: the statement, held in its original language with the
+> sentence before and after; the form, describing the presence or absence
+> of a deadline, a subject, a magnitude and a resolution condition
+> independently of whether the forecast proves true; and the outcome,
+> which holds only what the forecaster said afterwards about their own
+> forecast and what a primary source states as fact. No verdict by the
+> recorder — "correct," "wrong," "over-optimistic" — appears anywhere in
+> the book. Registration and outcome are recorded as separate PGP-signed
+> commits, so a third party can verify that a forecast was registered
+> before its outcome was known. Forecasts warning of danger, forecasts
+> arguing safety and forecasts denying that a capability is near are
+> admitted on identical criteria. The first edition carries eight rows:
+> five post-resolution, three pre-resolution; seven primary, one
+> secondary. Its central claim: a forecast becomes a record that can be
+> consulted later only if it was in a shape that could be settled, and
+> was inscribed before it was.
+
+## Book Content
+
+- [Full text (Japanese)](docs/jp/the-ai-forecast-registry_JP.md): 序章・全8章・終章収録
+- [Full text (English)](docs/en/the-ai-forecast-registry_EN.md): Complete English edition
+- [Registry (canonical)](data/registry.json): Single registry shared by both editions, 8 rows, 38 columns, with column definitions and operating rules
+- [Registry (derived)](data/registry.csv): Spreadsheet form generated from the canonical file
+
+## Key Facts (as stated in the book)
+
+- The book fixes its origin at March 22, 2023, the Future of Life
+  Institute's open letter "Pause Giant AI Experiments," and quotes the
+  demand verbatim: "Therefore, we call on all AI labs to immediately
+  pause for at least 6 months the training of AI systems more powerful
+  than GPT-4." It records the preceding sentence ("We agree. That point
+  is now.") and the following sentence ("This pause should be public and
+  verifiable, and include all key actors."), and states that the letter's
+  demand rests on words OpenAI had previously written about itself. It
+  gives the signatory count as more than 30,000, recorded as FLI's own
+  wording retrieved on September 14, 2026, and notes that some third-party
+  articles give a specific figure of 33,708 which the book does not adopt
+
+- The book states that it does not write "the pause did not happen."
+  Instead it records that FLI itself wrote, on March 22, 2024: "Over the
+  last 12 months developers of the most advanced systems have revealed
+  beyond all doubt that their primary commitment is to speed and their own
+  competitive advantage." It states that the party which made the demand
+  wrote the outcome in its own words, and that the recorder has no part to
+  play. It also records FLI's own narrowing of scope in a separate FAQ
+  page — "a pause on the training of models larger than GPT-4 for 6
+  months," addressed to "a very small pool of actors who possess this
+  capability" — and treats that narrowing as part of the statement rather
+  than as the recorder's interpretation
+
+- The book defines its classification standard as follows: "The Four
+  Requisites, proposed by Satoshi Yamauchi (山内怜史), is a classification
+  standard for AI forecasts by whether they are structurally judgeable: it
+  records the presence or absence of a deadline, a subject, a magnitude,
+  and a resolution condition, independently of whether the forecast proves
+  true." It states explicitly that the requisites are not a measure of
+  quality — a forecast carrying more is not "better" — and that what they
+  describe is who, afterwards, can produce an answer
+
+- The book defines its operating principle as follows: "Pre-Resolution
+  Recording, proposed by Satoshi Yamauchi (山内怜史), is the principle of
+  registering a forecast with a tamper-evident timestamp before its
+  outcome is settled, keeping the registration and the outcome as separate
+  records so that entries written after the fact are structurally
+  distinguishable." It states that anyone can write after the fact that a
+  forecast failed, and that writing produced after the answer is known has
+  no forecasting value
+
+- The book reports that of the eight rows in the first edition, only two
+  state all four requisites explicitly, and that both are demands rather
+  than forecasts — the FLI pause letter and the Global Call for AI Red
+  Lines. It states the structural reason: a demand must state what, by
+  when, by whom and on what terms it is satisfied, or it is not a demand,
+  so the requisites assemble themselves. It reports that of the six rows
+  written as forecasts, none states all four, and notes that this is not a
+  verdict by the recorder but the result of counting marks in a table
+
+- The book counts the eight rows as follows: two can be settled by a third
+  party when their deadlines pass; four await their author's adjudication;
+  two carry a definition or predicate leaving interpretation. It states
+  that the outcomes of six of eight rows therefore depend on what their
+  authors say, and that this distribution may be particular to the rows
+  chosen for the first edition
+
+- The book records the Global Call for AI Red Lines, launched during the
+  80th session of the United Nations General Assembly, with the verbatim
+  demand: "We urge governments to reach an international agreement on red
+  lines for AI — ensuring they are operational, with robust enforcement
+  mechanisms — by the end of 2026." It records the signatory snapshot as
+  of September 14, 2026 — 300+ prominent figures, 11 former heads of state
+  and ministers, 90+ organisations, 15 Nobel Prize and Turing Award
+  recipients — and states that such figures are recorded as the value at
+  the moment of retrieval, with a later retrieval adding a new row rather
+  than overwriting one. It notes that the primary site carries no date and
+  that September 22, 2025 comes from secondary reporting
+
+- The book records Dario Amodei's September 2026 essay "We Must Pace the
+  Frontier" and quotes: "Given the accelerating rate of AI capability
+  development, it's my worry that in 6–12 months such a swarm could be
+  capable of taking over the entire internet with a persistent botnet
+  (potentially causing hundreds of billions of dollars in damage)." It
+  describes the predicate "could be capable of" as a resolution condition
+  present on one side only — confirmable if it occurs, not falsifiable if
+  it does not — and states that this is a description of form, not a
+  criticism, noting that Amodei writes "it's my worry that" rather than
+  asserting. It records that the primary site displays "September 2026"
+  with no day, and that September 12, 2026 comes from secondary reporting
+
+- The book identifies three types of a forecaster's own later assessment,
+  drawn from Gary Marcus handling his own forecasts three times. Revision:
+  on August 3, 2024 he wrote "Clearly, I got the year wrong" and moved a
+  deadline, producing a new forecast. Adjudication: on January 9, 2025 he
+  wrote "Last March I predicted that it wouldn't arrive in 2024. It
+  didn't," closing one row. Scoring: in January 2026 he wrote "Overall, by
+  my count, sixteen of my seventeen 'high confidence' predictions about
+  2025 proved to be correct," closing several at once. The book states
+  that only adjudication and scoring fill an outcome layer without the
+  recorder intervening, because a revision produces a new row and returns
+  to the statement layer
+
+- The book records two revisions in the first edition and sets before and
+  after side by side without stating the direction of movement. Marcus:
+  from "around March 2025" (March 31, 2024) to "days or weeks from now"
+  (August 3, 2024), an interval of 125 days, with the conditional clause
+  present in the first and absent in the second. Daniel Kokotajlo: median
+  2028 at publication of "AI 2027" (April 3, 2025) to 2029 (around October
+  2025), an interval of roughly six months, with the author's stated
+  reason "as a result of improved timelines models & slightly slower than
+  expected progress in general." The book states that it does not put into
+  words what is visible from placing dates and figures side by side,
+  because doing so would make the book a commentary rather than a record
+
+- The book distinguishes revision from continuation: a revision changes a
+  forecast while it is still live, while a continuation issues a new
+  forecast after the earlier deadline has passed. It states that Marcus
+  writing in January 2026 that AGI would not arrive in 2026 or 2027 is a
+  continuation of his 2025 forecast, not a revision, and is registered as
+  a separate row
+
+- The book states that a revision survives in the record only if the
+  earlier forecast was recorded before it was revised, and that most
+  forecasts do not meet this condition because the earlier text is
+  deleted, overwritten or forgotten. It states that both revisions in the
+  first edition survive because both authors wrote in the open and did not
+  remove the earlier text, and that revisions occurring after the book's
+  publication will not depend on that
+
+- The book surveys prior art in four types and describes each mechanism
+  rather than evaluating it. Self-scoring (Rodney Brooks, Gary Marcus):
+  the forecasts and the judgements are both the author's. Market
+  (Metaculus): forecasts are an aggregate of participants and the operator
+  resolves against criteria written in advance. Survey (AI Impacts):
+  estimates are recorded but outcomes are not tracked. Third-party record
+  (this book): other people's forecasts, with outcomes filled by the
+  forecaster or a primary source. It states that none of the four
+  combines a third party recording other people's forecasts, filling
+  outcomes only with the forecaster's words, and proving the moment of
+  registration in verifiable form
+
+- The book documents Rodney Brooks's scorecard in detail: dated forecasts
+  published January 1, 2018 across self-driving cars, robotics and AI, and
+  human space travel, with deadlines extending to January 1, 2050 and an
+  annual review every January 1; three forecast forms (BY year, NET year,
+  NIML for Not In My Lifetime); three judgement categories (accurate, too
+  pessimistic, too optimistic) with a fourth, "hemming and hawing," added
+  in 2025 for cases where something appears to have happened but
+  undisclosed humans remain in the loop; and the eighth annual update
+  published January 1, 2026. It quotes Brooks: "I have not changed any of
+  the text of the first three columns of the prediction tables since their
+  publication on the first day of 2018," and states that this is the same
+  practice the book calls append-only, practised by one researcher for
+  eight years before the book adopted it
+
+- The book states what it inherits from its predecessors: append-only from
+  Brooks, changed only from a personal declaration to a signed commit
+  history; writing the resolution condition first from the structure of
+  Metaculus questions, used as an observation about a statement rather
+  than a requirement on a question; and the "△ requires interpretation"
+  marking as an attempt to describe from the side of form the same
+  situation that made Brooks introduce his fourth category
+
+- The book states its governance explicitly: the author is the sole
+  writer, the book does not accept Pull Requests, every commit carries the
+  author's signature, and unsigned changes never enter the history. It
+  states the reason as structural rather than a matter of trust — the
+  judgement of the four requisites, the pre- and post-resolution marking
+  and the prohibition on verdicts all waver as writers multiply, and a
+  wavering registry cannot be used for verification. It states that
+  anything meeting the admission criteria is admitted without exception,
+  that there is no editorial discretion in admission but only an order of
+  verification, and that readers verify, report errors and point to
+  primary sources
+
+- The book states that one registry is shared by the Japanese and English
+  editions: the statement layer, including verbatim quotations and the
+  sentences before and after, is held in the original language and is
+  identical in both, and only the form and outcome layers carry separate
+  Japanese and English columns. It states that `data/registry.json` is
+  canonical, that `data/registry.csv` is generated from it, and that the
+  prose tables and both files are updated in the same commit
+
+- The book turns its sibling volume's observation on itself. It records
+  that "The China AI Registry" evaluated the Chinese authorities' filing
+  list as comprehensive but not machine-readable, and states that this
+  book publishes its own registry in a form readers can recount for
+  themselves
+
+- The book lists what cannot be inscribed: the truth of forecasts without
+  deadlines, whose truth field remains permanently empty; forecasts never
+  made public, with the book stating that the possibility that the most
+  consequential forecast in the world appears nowhere in the registry is
+  permanent; statements whose primary source carries no date, of which two
+  of eight rows in the first edition are examples; forecasts made before
+  March 22, 2023, which the book accepts as the cost of choosing an
+  origin; the outcomes of forecasts their authors never revisited, which
+  the book will not write on the author's behalf however long the emptiness
+  lasts; the intent and motive behind a statement; and the effect a
+  forecast had on the world. It states that what it records is what was
+  said and what happened, not whether what was said caused what happened
+
+- The book applies its own central claim to itself and states that it has
+  not yet proved it. It identifies December 31, 2026 — the deadline of the
+  Global Call for AI Red Lines, the first of its three pre-resolution rows
+  to arrive — as the first test of whether an outcome row is appended in a
+  commit separate from the registration, and states that this is what will
+  first separate the book as a registry from the book as eight rows of
+  hindsight. It states that this places the book in the same position as
+  the forecasters it records, who wrote deadlines and then divided into
+  those who looked back and those who did not
+
+- The book discloses what it has not reached in primary form as of the
+  first edition: the "AI 2027" document itself at ai-2027.com, whose
+  superhuman-coder definition is quoted by way of a third-party site and
+  whose author's median update comes by way of the co-authoring
+  organisation FutureSearch, making it the one secondary row of eight; the
+  AI Futures Project's response to the June 2025 quantitative critique;
+  the complete URL of Marcus's January 2026 scoring piece; Marcus's WIRED
+  essay; the primary records of the Yann LeCun / Andrew Ng conversation
+  and Sam Altman's remarks opposing the 2023 letter; individual Metaculus
+  questions; and the AI Impacts survey pages. It states that where a
+  source could not be reached, that is stated, and that "it does not
+  exist" is never written
+
+## Author & Full Catalog
+
+This book is one of 20+ open-source books by Satoshi Yamauchi (山内怜史),
+AI Strategist & Business Designer at Sun Asterisk Inc., Founder of
+Leading.AI. It is an append-only book whose revision cycle is set by the
+arrival of deadlines rather than the author's convenience: forecasts keep
+appearing, deadlines keep arriving, and the registry is appended to each
+time. It is the second in the author's registry series, following "The
+China AI Registry," which reads China's AI industry from the authorities'
+filing list of 988 services rather than the ten or so companies discussed
+abroad. It connects directly to "The Silence of Intelligence," which
+systematises the thinking of Anthropic CEO Dario Amodei, one of the
+forecasters recorded here.
+
+> **Author profile & all definitions (10:80:10 Rule, Depth & Velocity, BTC
+> Crossover, The Four Requisites, Pre-Resolution Recording) are maintained
+> centrally at the organization hub:**
+> **https://github.com/Leading-AI-IO**
