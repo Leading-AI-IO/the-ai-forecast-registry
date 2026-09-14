@@ -111,6 +111,7 @@ The epilogue lists what could not be recorded: the truth of forecasts without de
 | --- | --- | --- |
 | [the-ai-forecast-registry_JP.md](./docs/jp/the-ai-forecast-registry_JP.md) | 🇯🇵 Japanese | Full text (Japanese edition) |
 | [the-ai-forecast-registry_EN.md](./docs/en/the-ai-forecast-registry_EN.md) | 🇺🇸 English | Full text (English edition) |
+| [RUNBOOK.md](./docs/RUNBOOK.md) | 🇯🇵 Japanese | Update runbook. The author is the sole writer to the registry; this publishes the procedure they follow |
 
 ---
 

@@ -122,6 +122,7 @@ Future of Life Instituteの書簡について、本書は「停止は実現し�
 | --- | --- | --- |
 | [the-ai-forecast-registry_JP.md](./docs/jp/the-ai-forecast-registry_JP.md) | 🇯🇵 日本語 | 本文（日本語版） |
 | [the-ai-forecast-registry_EN.md](./docs/en/the-ai-forecast-registry_EN.md) | 🇺🇸 English | 本文（英語版） |
+| [RUNBOOK.md](./docs/RUNBOOK.md) | 🇯🇵 日本語 | 更新手順書。台帳に書くのは著者一人であり、その運用手順を公開している |
 
 ---
 

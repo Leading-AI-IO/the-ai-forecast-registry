@@ -28,6 +28,7 @@
 - [Full text (English)](docs/en/the-ai-forecast-registry_EN.md): Complete English edition
 - [Registry (canonical)](data/registry.json): Single registry shared by both editions, 8 rows, 38 columns, with column definitions and operating rules
 - [Registry (derived)](data/registry.csv): Spreadsheet form generated from the canonical file
+- [Update runbook](docs/RUNBOOK.md): Japanese-only. The operational procedure the sole author follows to add, revise, and append outcomes to rows, published so readers can verify how the registry is maintained, not itself a source of Key Facts below
 
 ## Key Facts (as stated in the book)
 
