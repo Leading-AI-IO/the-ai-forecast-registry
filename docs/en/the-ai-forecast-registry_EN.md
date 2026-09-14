@@ -2,6 +2,15 @@
 
 > **"A forecast becomes a record only if it was written down before anyone knew the answer."**
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
+[![Rows](https://img.shields.io/badge/Rows-8-informational)](data/registry.csv)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--14-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
+
+![cover](../../assets/ogp_design.png)
+
+<br/>
+
 ---
 
 # Prologue: On 22 March 2023, six months were demanded
