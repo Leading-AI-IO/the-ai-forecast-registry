@@ -1,0 +1,663 @@
+{
+  "registry": {
+    "ja": "The AI Forecast Registry ── 予測の名簿",
+    "en": "The AI Forecast Registry"
+  },
+  "repository": "https://github.com/Leading-AI-IO/the-ai-forecast-registry",
+  "license": "CC BY 4.0",
+  "version": "1.0",
+  "snapshot_date": "2026-09-14",
+  "origin": {
+    "ja": "2023-03-22（Future of Life Institute「Pause Giant AI Experiments」）",
+    "en": "2023-03-22 (Future of Life Institute, \"Pause Giant AI Experiments\")"
+  },
+  "canonical": true,
+  "note_on_canonicity": {
+    "ja": "本ファイルが台帳の正本である。registry.csv は本ファイルから生成される派生物であり、両者は同一のコミットで更新される。",
+    "en": "This file is the canonical registry. registry.csv is generated from it and the two are updated in the same commit."
+  },
+  "rules": {
+    "append_only": true,
+    "separate_commits_for_registration_and_outcome": true,
+    "pgp_signed_commits": true,
+    "recorder_verdict_prohibited": true,
+    "sole_write_access": "author only",
+    "admission_without_discretion": true,
+    "row_name_format": {
+      "ja": "発言者／予測の対象と内容／発言日",
+      "en": "Speaker / subject and content of the forecast / date of statement"
+    }
+  },
+  "statement_layer_policy": {
+    "ja": "逐語引用・直前の一文・直後の一文は原文の言語のまま保持する。日本語版・英語版で同一。",
+    "en": "Verbatim quotations and their surrounding sentences are kept in the original language, identical across both editions."
+  },
+  "columns": [
+    {
+      "key": "id",
+      "label": {
+        "ja": "ID",
+        "en": "ID"
+      },
+      "scope": "both"
+    },
+    {
+      "key": "name_ja",
+      "label": {
+        "ja": "行名（正式名称）",
+        "en": "Row name (formal, Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "name_en",
+      "label": {
+        "ja": "行名（正式名称・英）",
+        "en": "Row name (formal)"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "speaker_ja",
+      "label": {
+        "ja": "発言者",
+        "en": "Speaker (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "speaker_en",
+      "label": {
+        "ja": "発言者（英）",
+        "en": "Speaker"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "date",
+      "label": {
+        "ja": "発言日",
+        "en": "Date of statement"
+      },
+      "scope": "both"
+    },
+    {
+      "key": "date_note_ja",
+      "label": {
+        "ja": "発言日の注記",
+        "en": "Note on date (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "date_note_en",
+      "label": {
+        "ja": "発言日の注記（英）",
+        "en": "Note on date"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "medium_ja",
+      "label": {
+        "ja": "媒体",
+        "en": "Medium (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "medium_en",
+      "label": {
+        "ja": "媒体（英）",
+        "en": "Medium"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "quote",
+      "label": {
+        "ja": "逐語引用",
+        "en": "Verbatim quotation"
+      },
+      "scope": "both"
+    },
+    {
+      "key": "before",
+      "label": {
+        "ja": "直前の一文",
+        "en": "Preceding sentence"
+      },
+      "scope": "both"
+    },
+    {
+      "key": "after",
+      "label": {
+        "ja": "直後の一文",
+        "en": "Following sentence"
+      },
+      "scope": "both"
+    },
+    {
+      "key": "translation_ja",
+      "label": {
+        "ja": "参考訳（日本語）",
+        "en": "Reference translation (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "url",
+      "label": {
+        "ja": "一次URL",
+        "en": "Primary URL"
+      },
+      "scope": "both"
+    },
+    {
+      "key": "reach_ja",
+      "label": {
+        "ja": "到達証明",
+        "en": "Retrieval evidence (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "reach_en",
+      "label": {
+        "ja": "到達証明（英）",
+        "en": "Retrieval evidence"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "tier_ja",
+      "label": {
+        "ja": "出典の階層",
+        "en": "Source tier (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "tier_en",
+      "label": {
+        "ja": "出典の階層（英）",
+        "en": "Source tier"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "deadline_ja",
+      "label": {
+        "ja": "期限",
+        "en": "Deadline (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "deadline_en",
+      "label": {
+        "ja": "期限（英）",
+        "en": "Deadline"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "subject_ja",
+      "label": {
+        "ja": "対象",
+        "en": "Subject (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "subject_en",
+      "label": {
+        "ja": "対象（英）",
+        "en": "Subject"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "magnitude_ja",
+      "label": {
+        "ja": "尺度",
+        "en": "Magnitude (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "magnitude_en",
+      "label": {
+        "ja": "尺度（英）",
+        "en": "Magnitude"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "resolution_ja",
+      "label": {
+        "ja": "決着条件",
+        "en": "Resolution condition (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "resolution_en",
+      "label": {
+        "ja": "決着条件（英）",
+        "en": "Resolution condition"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "deadline_status_ja",
+      "label": {
+        "ja": "期限の到来",
+        "en": "Deadline status (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "deadline_status_en",
+      "label": {
+        "ja": "期限の到来（英）",
+        "en": "Deadline status"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "self_eval_ja",
+      "label": {
+        "ja": "本人の事後評価",
+        "en": "Forecaster's own later assessment (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "self_eval_en",
+      "label": {
+        "ja": "本人の事後評価（英）",
+        "en": "Forecaster's own later assessment"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "primary_facts_ja",
+      "label": {
+        "ja": "一次資料の記載",
+        "en": "Facts stated in primary sources (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "primary_facts_en",
+      "label": {
+        "ja": "一次資料の記載（英）",
+        "en": "Facts stated in primary sources"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "pre_post_ja",
+      "label": {
+        "ja": "決着前／後",
+        "en": "Pre- / post-resolution (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "pre_post_en",
+      "label": {
+        "ja": "決着前／後（英）",
+        "en": "Pre- / post-resolution"
+      },
+      "scope": "en"
+    },
+    {
+      "key": "commit",
+      "label": {
+        "ja": "登録コミット",
+        "en": "Registration commit"
+      },
+      "scope": "both"
+    },
+    {
+      "key": "note_ja",
+      "label": {
+        "ja": "補足",
+        "en": "Notes (Japanese)"
+      },
+      "scope": "ja"
+    },
+    {
+      "key": "note_en",
+      "label": {
+        "ja": "補足（英）",
+        "en": "Notes"
+      },
+      "scope": "en"
+    }
+  ],
+  "rows": [
+    {
+      "id": "001",
+      "name_ja": "Future of Life Institute／GPT-4超の訓練の6か月停止要求／2023-03-22",
+      "name_en": "Future of Life Institute / Call to pause training of AI systems more powerful than GPT-4 for six months / 2023-03-22",
+      "speaker_ja": "Future of Life Institute（米国・非営利団体）",
+      "speaker_en": "Future of Life Institute (non-profit organisation, United States)",
+      "date": "2023-03-22",
+      "date_note_ja": "",
+      "date_note_en": "",
+      "medium_ja": "公開書簡",
+      "medium_en": "Open letter",
+      "quote": "Therefore, we call on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4.",
+      "before": "We agree. That point is now.",
+      "after": "This pause should be public and verifiable, and include all key actors.",
+      "translation_ja": "したがって我々は、すべてのAI研究機関に対し、GPT-4より強力なAIシステムの訓練を、少なくとも6か月間、即時に停止することを求める。",
+      "url": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
+      "reach_ja": "Pause Giant AI Experiments: An Open Letter - Future of Life Institute（2026-09-14到達）",
+      "reach_en": "Pause Giant AI Experiments: An Open Letter - Future of Life Institute (retrieved 2023-03-22 page, accessed 2026-09-14)",
+      "tier_ja": "一次",
+      "tier_en": "primary",
+      "deadline_ja": "あり（6か月／2023-09-22）",
+      "deadline_en": "Yes (6 months / 2023-09-22)",
+      "subject_ja": "あり（GPT-4より強力なAIシステムの訓練）",
+      "subject_en": "Yes (training of AI systems more powerful than GPT-4)",
+      "magnitude_ja": "あり（すべてのAI研究機関）",
+      "magnitude_en": "Yes (all AI labs)",
+      "resolution_ja": "あり（訓練が停止したか否か）",
+      "resolution_en": "Yes (whether training was paused)",
+      "deadline_status_ja": "到来済",
+      "deadline_status_en": "Elapsed",
+      "self_eval_ja": "2024-03-22｜Over the last 12 months developers of the most advanced systems have revealed beyond all doubt that their primary commitment is to speed and their own competitive advantage.｜https://futureoflife.org/ai/the-pause-letter-one-year-later/",
+      "self_eval_en": "2024-03-22 | Over the last 12 months developers of the most advanced systems have revealed beyond all doubt that their primary commitment is to speed and their own competitive advantage. | https://futureoflife.org/ai/the-pause-letter-one-year-later/",
+      "primary_facts_ja": "（第1版時点で未収載）",
+      "primary_facts_en": "(not yet recorded as of the first edition)",
+      "pre_post_ja": "決着後",
+      "pre_post_en": "Post-resolution",
+      "commit": "（公開時に記入）",
+      "note_ja": "署名者数：3万人以上（FLI表記・2026-09-14取得）／FLIのFAQにより対象を「GPT-4より大きなモデルの訓練」「この能力を持つごく少数の主体」に限定",
+      "note_en": "Signatories: more than 30,000 (FLI's own wording, retrieved 2026-09-14) / FLI's FAQ narrows the scope to \"models larger than GPT-4\" and \"a very small pool of actors who possess this capability\""
+    },
+    {
+      "id": "002",
+      "name_ja": "Gary Marcus／2024年内の画期的GPT不出現／2024-03-31",
+      "name_en": "Gary Marcus / No mindblowing GPT within 2024 / 2024-03-31",
+      "speaker_ja": "Gary Marcus（認知科学者・ニューヨーク大学名誉教授）",
+      "speaker_en": "Gary Marcus (cognitive scientist; Professor Emeritus, New York University)",
+      "date": "2024-03-31",
+      "date_note_ja": "",
+      "date_note_en": "",
+      "medium_ja": "本人のSubstack記事「When will the GenAI bubble burst?」",
+      "medium_en": "Author's Substack post, \"When will the GenAI bubble burst?\"",
+      "quote": "But will we see a mindblowing GPT this year? I doubt it.",
+      "before": "GenAI will, in that case, live for another day, perhaps imploding only later when people realize there is no killer app to justify the increasingly high costs.",
+      "after": "Altman himself has hinted in his recent Lex Fridman interview that nothing quite worthy of the GPT-5 name will drop this year.",
+      "translation_ja": "しかし、今年、度肝を抜くようなGPTを見ることになるだろうか。私はそうは思わない。",
+      "url": "https://garymarcus.substack.com/p/when-will-the-genai-bubble-burst",
+      "reach_ja": "記事本文の抜粋一致を検索経由で確認（2026-09-14）。全文の直接取得は未実施",
+      "reach_en": "Passage match confirmed via search (2026-09-14). Full text not directly retrieved",
+      "tier_ja": "一次",
+      "tier_en": "primary",
+      "deadline_ja": "あり（2024年内）",
+      "deadline_en": "Yes (within 2024)",
+      "subject_ja": "あり（OpenAIの言語モデルGPTの新版）",
+      "subject_en": "Yes (a new GPT-series model from OpenAI)",
+      "magnitude_ja": "△（mindblowing＝主観的）",
+      "magnitude_en": "Partial (\"mindblowing\" is subjective)",
+      "resolution_ja": "なし",
+      "resolution_en": "No",
+      "deadline_status_ja": "到来済",
+      "deadline_status_en": "Elapsed",
+      "self_eval_ja": "2025-01-09｜Last March I predicted that it wouldn't arrive in 2024. It didn't.｜https://garymarcus.substack.com/p/agi-isnt-coming-in-2025-and-gpt-5",
+      "self_eval_en": "2025-01-09 | Last March I predicted that it wouldn't arrive in 2024. It didn't. | https://garymarcus.substack.com/p/agi-isnt-coming-in-2025-and-gpt-5",
+      "primary_facts_ja": "（第1版時点で未収載）",
+      "primary_facts_en": "(not yet recorded as of the first edition)",
+      "pre_post_ja": "決着後",
+      "pre_post_en": "Post-resolution",
+      "commit": "（公開時に記入）",
+      "note_ja": "同一記事に003の予測を含む",
+      "note_en": "The same post also contains the forecast recorded as row 003"
+    },
+    {
+      "id": "003",
+      "name_ja": "Gary Marcus／生成AIバブルの崩壊開始時期／2024-03-31",
+      "name_en": "Gary Marcus / Timing of the start of the generative-AI bubble collapse / 2024-03-31",
+      "speaker_ja": "Gary Marcus（認知科学者・ニューヨーク大学名誉教授）",
+      "speaker_en": "Gary Marcus (cognitive scientist; Professor Emeritus, New York University)",
+      "date": "2024-03-31",
+      "date_note_ja": "",
+      "date_note_en": "",
+      "medium_ja": "本人のSubstack記事「When will the GenAI bubble burst?」",
+      "medium_en": "Author's Substack post, \"When will the GenAI bubble burst?\"",
+      "quote": "If nobody (OpenAI, Google, or anyone else) releases a true quantum leap by the end of 2024, substantially addressing key issues around reliability, hallucination, data leakage, and security, the bubble may start to pop by this time next year.",
+      "before": "(not retrieved as of the first edition)",
+      "after": "(not retrieved as of the first edition)",
+      "translation_ja": "2024年末までに、誰も（OpenAI、Google、その他の誰も）信頼性・ハルシネーション・データ漏洩・セキュリティといった主要な問題に実質的に対処する真の飛躍を出さなければ、バブルは来年の今頃には弾け始めるかもしれない。",
+      "url": "https://garymarcus.substack.com/p/when-will-the-genai-bubble-burst",
+      "reach_ja": "記事本文の抜粋一致を検索経由で確認（2026-09-14）。全文の直接取得は未実施",
+      "reach_en": "Passage match confirmed via search (2026-09-14). Full text not directly retrieved",
+      "tier_ja": "一次",
+      "tier_en": "primary",
+      "deadline_ja": "あり（2025年3月頃）",
+      "deadline_en": "Yes (around March 2025)",
+      "subject_ja": "あり（生成AIのバブル）",
+      "subject_en": "Yes (the generative-AI bubble)",
+      "magnitude_ja": "なし",
+      "magnitude_en": "No",
+      "resolution_ja": "なし（may start to pop。文頭に条件節あり）",
+      "resolution_en": "No (\"may start to pop\"; preceded by a conditional clause)",
+      "deadline_status_ja": "到来済",
+      "deadline_status_en": "Elapsed",
+      "self_eval_ja": "2024-08-03｜I just wrote a hard-hitting essay for WIRED predicting that the AI bubble will collapse in 2025 — and now I wish I hadn't. Clearly, I got the year wrong.｜https://garymarcus.substack.com/p/why-the-collapse-of-the-generative",
+      "self_eval_en": "2024-08-03 | I just wrote a hard-hitting essay for WIRED predicting that the AI bubble will collapse in 2025 - and now I wish I hadn't. Clearly, I got the year wrong. | https://garymarcus.substack.com/p/why-the-collapse-of-the-generative",
+      "primary_facts_ja": "（第1版時点で未収載）",
+      "primary_facts_en": "(not yet recorded as of the first edition)",
+      "pre_post_ja": "決着後",
+      "pre_post_en": "Post-resolution",
+      "commit": "（公開時に記入）",
+      "note_ja": "本人が2024-08-03に時期を修正。修正後の予測は004として別行",
+      "note_en": "Revised by the author on 2024-08-03. The revised forecast is recorded separately as row 004"
+    },
+    {
+      "id": "004",
+      "name_ja": "Gary Marcus／生成AIバブルの崩壊時期の修正／2024-08-03",
+      "name_en": "Gary Marcus / Revision of the timing of the generative-AI bubble collapse / 2024-08-03",
+      "speaker_ja": "Gary Marcus（認知科学者・ニューヨーク大学名誉教授）",
+      "speaker_en": "Gary Marcus (cognitive scientist; Professor Emeritus, New York University)",
+      "date": "2024-08-03",
+      "date_note_ja": "",
+      "date_note_en": "",
+      "medium_ja": "本人のSubstack記事「Why the collapse of the Generative AI bubble may be imminent」",
+      "medium_en": "Author's Substack post, \"Why the collapse of the Generative AI bubble may be imminent\"",
+      "quote": "It's going to be days or weeks from now, not months.",
+      "before": "Clearly, I got the year wrong.",
+      "after": "(not retrieved as of the first edition)",
+      "translation_ja": "それは今から数か月先ではなく、数日か数週間先のことになる。",
+      "url": "https://garymarcus.substack.com/p/why-the-collapse-of-the-generative",
+      "reach_ja": "記事本文の抜粋一致を検索経由で確認（2026-09-14）。全文の直接取得は未実施",
+      "reach_en": "Passage match confirmed via search (2026-09-14). Full text not directly retrieved",
+      "tier_ja": "一次",
+      "tier_en": "primary",
+      "deadline_ja": "あり（数日〜数週間／2024年8〜9月）",
+      "deadline_en": "Yes (days to weeks / August-September 2024)",
+      "subject_ja": "あり（AIバブルの崩壊）",
+      "subject_en": "Yes (collapse of the AI bubble)",
+      "magnitude_ja": "なし",
+      "magnitude_en": "No",
+      "resolution_ja": "なし（collapseの定義なし）",
+      "resolution_en": "No (\"collapse\" undefined)",
+      "deadline_status_ja": "到来済",
+      "deadline_status_en": "Elapsed",
+      "self_eval_ja": "（第1版時点で、この予測を直接振り返った本人発言に未到達）",
+      "self_eval_en": "(as of the first edition, no statement in which the author directly revisits this particular forecast has been reached)",
+      "primary_facts_ja": "（第1版時点で未収載）",
+      "primary_facts_en": "(not yet recorded as of the first edition)",
+      "pre_post_ja": "決着後",
+      "pre_post_en": "Post-resolution",
+      "commit": "（公開時に記入）",
+      "note_ja": "同記事で「In March of this year, I made a series of seven predictions about how this year would go. Every one of them has held firm」と3月の予測群を自己評価",
+      "note_en": "In the same post the author assesses his March forecasts: \"In March of this year, I made a series of seven predictions about how this year would go. Every one of them has held firm\""
+    },
+    {
+      "id": "005",
+      "name_ja": "Gary Marcus／2025年内のAGI不到来／2025-01-09",
+      "name_en": "Gary Marcus / No AGI within 2025 / 2025-01-09",
+      "speaker_ja": "Gary Marcus（認知科学者・ニューヨーク大学名誉教授）",
+      "speaker_en": "Gary Marcus (cognitive scientist; Professor Emeritus, New York University)",
+      "date": "2025-01-09",
+      "date_note_ja": "メタデータ modified_time: 2025-01-09T17:06:03Z",
+      "date_note_en": "Metadata modified_time: 2025-01-09T17:06:03Z",
+      "medium_ja": "本人のSubstack記事「AGI isn't coming in 2025, and GPT-5 probably isn't either」",
+      "medium_en": "Author's Substack post, \"AGI isn't coming in 2025, and GPT-5 probably isn't either\"",
+      "quote": "I will stand by my own predictions that we won't see AGI in 2025, and I won't be at all surprised if don't even see anything worthy of the GPT-5 name",
+      "before": "Given that Musk is right in the middle of building what many think will be the largest language model to date, Grok 3, and that he has probably seen earlier returns on Grok 3, this is a notable retreat from his earlier predictions.",
+      "after": "Gary Marcus wishes the media would hold those who make unrealistic promises to account. (author's note at the end of the post)",
+      "translation_ja": "私は、2025年にAGIは来ないという自分の予測を維持する。GPT-5の名に値するものすら出なくても、まったく驚かない。",
+      "url": "https://garymarcus.substack.com/p/agi-isnt-coming-in-2025-and-gpt-5",
+      "reach_ja": "AGI isn't coming in 2025, and GPT-5 probably isn't either - by Gary Marcus（2026-09-14到達・全文取得）",
+      "reach_en": "AGI isn't coming in 2025, and GPT-5 probably isn't either - by Gary Marcus (accessed 2026-09-14, full text retrieved)",
+      "tier_ja": "一次",
+      "tier_en": "primary",
+      "deadline_ja": "あり（2025年内）",
+      "deadline_en": "Yes (within 2025)",
+      "subject_ja": "△（AGI＝業界内で定義が一致していない語）",
+      "subject_en": "Partial (\"AGI\" has no agreed definition across the field)",
+      "magnitude_ja": "なし",
+      "magnitude_en": "No",
+      "resolution_ja": "なし",
+      "resolution_en": "No",
+      "deadline_status_ja": "到来済",
+      "deadline_status_en": "Elapsed",
+      "self_eval_ja": "2026-01（月まで）｜Overall, by my count, sixteen of my seventeen \"high confidence\" predictions about 2025 proved to be correct.｜本人Substack記事「Six (or seven) predictions for AI 2026 from a Generative AI realist」（完全URLは第1版時点で未記録）",
+      "self_eval_en": "2026-01 (month only) | Overall, by my count, sixteen of my seventeen \"high confidence\" predictions about 2025 proved to be correct. | Author's Substack post \"Six (or seven) predictions for AI 2026 from a Generative AI realist\" (full URL not yet recorded as of the first edition)",
+      "primary_facts_ja": "（第1版時点で未収載）",
+      "primary_facts_en": "(not yet recorded as of the first edition)",
+      "pre_post_ja": "決着後",
+      "pre_post_en": "Post-resolution",
+      "commit": "（公開時に記入）",
+      "note_ja": "同記事内でMuskの2024年4月発言と2025年1月CESでの発言を対置して引用",
+      "note_en": "The same post juxtaposes Musk's April 2024 statement with his January 2025 remarks at CES"
+    },
+    {
+      "id": "006",
+      "name_ja": "AI Futures Project／2027年3月の超人的コーダー到達／2025-04-03",
+      "name_en": "AI Futures Project / Superhuman coder reached in March 2027 / 2025-04-03",
+      "speaker_ja": "AI Futures Project（Daniel Kokotajlo、Scott Alexander、Thomas Larsen、Eli Lifland、Romeo Dean）",
+      "speaker_en": "AI Futures Project (Daniel Kokotajlo, Scott Alexander, Thomas Larsen, Eli Lifland, Romeo Dean)",
+      "date": "2025-04-03",
+      "date_note_ja": "複数の第三者記事が一致して記載",
+      "date_note_en": "Multiple third-party articles agree on this date",
+      "medium_ja": "シナリオ文書「AI 2027」（ウェブおよびPDF・71ページ）",
+      "medium_en": "Scenario document \"AI 2027\" (web and PDF, 71 pages)",
+      "quote": "A superhuman coder (SC): an AI system that can do any coding tasks that the best AGI company engineer does.",
+      "before": "(not retrieved as of the first edition)",
+      "after": "(not retrieved as of the first edition)",
+      "translation_ja": "超人的コーダー（SC）：最良のAGI企業のエンジニアが行うあらゆるコーディング作業を行えるAIシステム。",
+      "url": "https://ai-2027.com/",
+      "reach_ja": "未到達（2026-09-14時点）。上記の定義は第三者サイト ai2027-tracker.com が同文書 Appendix G（p.50）から引用したもの",
+      "reach_en": "Not reached (as of 2026-09-14). The definition above is quoted by the third-party site ai2027-tracker.com from Appendix G (p.50) of the document",
+      "tier_ja": "二次",
+      "tier_en": "secondary",
+      "deadline_ja": "あり（2027年3月）",
+      "deadline_en": "Yes (March 2027)",
+      "subject_ja": "あり（あらゆるコーディング作業を行えるAI）",
+      "subject_en": "Yes (an AI system able to perform any coding task)",
+      "magnitude_ja": "あり（最良のAGI企業エンジニアの全作業）",
+      "magnitude_en": "Yes (any task the best AGI-company engineer performs)",
+      "resolution_ja": "△（定義はあるが、「最良のエンジニア」と「あらゆる作業」の確認手続きが未定）",
+      "resolution_en": "Partial (a definition exists, but no procedure for identifying \"the best engineer\" or verifying \"any task\")",
+      "deadline_status_ja": "未到来",
+      "deadline_status_en": "Not yet elapsed",
+      "self_eval_ja": "2025-10頃｜When AI 2027 was published my median was 2028, now it's slipped to 2029 as a result of improved timelines models & slightly slower than expected progress in general（Daniel Kokotajlo）｜https://futuresearch.ai/blog/ai-2027-6-months-later/（共著組織FutureSearch経由・二次）",
+      "self_eval_en": "c. 2025-10 | When AI 2027 was published my median was 2028, now it's slipped to 2029 as a result of improved timelines models & slightly slower than expected progress in general (Daniel Kokotajlo) | https://futuresearch.ai/blog/ai-2027-6-months-later/ (via co-authoring organisation FutureSearch; secondary)",
+      "primary_facts_ja": "（第1版時点で未収載）",
+      "primary_facts_en": "(not yet recorded as of the first edition)",
+      "pre_post_ja": "決着前",
+      "pre_post_en": "Pre-resolution",
+      "commit": "（公開時に記入）",
+      "note_ja": "本書は一次資料に未到達。到達後に行を追記する。研究補遺は5本（Compute／Timelines／Takeoff／AI Goals／Security）",
+      "note_en": "This registry has not reached the primary source. A row will be appended once it is reached. The document is accompanied by five research supplements (Compute / Timelines / Takeoff / AI Goals / Security)"
+    },
+    {
+      "id": "007",
+      "name_ja": "Global Call for AI Red Lines／2026年末までのAIレッドライン国際合意要求／2025-09-22",
+      "name_en": "Global Call for AI Red Lines / Call for an international agreement on AI red lines by the end of 2026 / 2025-09-22",
+      "speaker_ja": "Global Call for AI Red Lines（署名者集団。事務局はCeSIA、The Future Society、UC Berkeley CHAI）",
+      "speaker_en": "Global Call for AI Red Lines (signatory coalition; secretariat: CeSIA, The Future Society, UC Berkeley CHAI)",
+      "date": "2025-09-22",
+      "date_note_ja": "一次サイトに日付の明記なし（「Launched during the 80th session of the United Nations General Assembly」）。二次報道（NBC News）による",
+      "date_note_en": "No date stated on the primary site (\"Launched during the 80th session of the United Nations General Assembly\"). Date taken from secondary reporting (NBC News)",
+      "medium_ja": "公開声明（red-lines.ai）",
+      "medium_en": "Public statement (red-lines.ai)",
+      "quote": "We urge governments to reach an international agreement on red lines for AI — ensuring they are operational, with robust enforcement mechanisms — by the end of 2026.",
+      "before": "These red lines should build upon and enforce existing global frameworks and voluntary corporate commitments, ensuring that all advanced AI providers are accountable to shared thresholds.",
+      "after": "(none; this is the final sentence of the statement itself)",
+      "translation_ja": "我々は各国政府に対し、AIに関するレッドラインについて、実効性があり強固な執行機構を伴う国際合意に、2026年末までに達することを強く求める。",
+      "url": "https://red-lines.ai/",
+      "reach_ja": "Call for red lines to prevent unacceptable AI risks（2026-09-14到達・全文取得）",
+      "reach_en": "Call for red lines to prevent unacceptable AI risks (accessed 2026-09-14, full text retrieved)",
+      "tier_ja": "一次",
+      "tier_en": "primary",
+      "deadline_ja": "あり（2026-12-31）",
+      "deadline_en": "Yes (2026-12-31)",
+      "subject_ja": "あり（AIのレッドラインに関する国際合意）",
+      "subject_en": "Yes (an international agreement on red lines for AI)",
+      "magnitude_ja": "あり（実効性があり、強固な執行機構を伴う）",
+      "magnitude_en": "Yes (operational, with robust enforcement mechanisms)",
+      "resolution_ja": "あり（合意が成立したか否か）",
+      "resolution_en": "Yes (whether such an agreement is reached)",
+      "deadline_status_ja": "未到来",
+      "deadline_status_en": "Not yet elapsed",
+      "self_eval_ja": "（なし。期限未到来）",
+      "self_eval_en": "(none; deadline not yet elapsed)",
+      "primary_facts_ja": "同サイトFAQが決着までの経路を記載：フランスのG7議長国期間（2026-12-31まで）、UN Global Dialogue（ジュネーブ・2026年7月）、UN総会（2026年9月）",
+      "primary_facts_en": "The statement's FAQ names the route to resolution: France's G7 presidency running until 2026-12-31, the UN Global Dialogue convening in Geneva in July 2026, and the UN General Assembly in September 2026",
+      "pre_post_ja": "決着前",
+      "pre_post_en": "Pre-resolution",
+      "commit": "（公開時に記入）",
+      "note_ja": "署名：300人以上の著名人／元国家元首・閣僚11人／90以上の組織／ノーベル賞・チューリング賞受賞者15人（2026-09-14取得）。署名者にGary Marcus、Daniel Kokotajloを含む",
+      "note_en": "Signatories: 300+ prominent figures / 11 former heads of state and ministers / 90+ organisations / 15 Nobel Prize and Turing Award recipients (retrieved 2026-09-14). Signatories include Gary Marcus and Daniel Kokotajlo"
+    },
+    {
+      "id": "008",
+      "name_ja": "Dario Amodei／6〜12か月以内のエージェント群によるインターネット掌握能力／2026-09",
+      "name_en": "Dario Amodei / Capability of an agent swarm to take over the entire internet within 6-12 months / 2026-09",
+      "speaker_ja": "Dario Amodei（Anthropic 最高経営責任者）",
+      "speaker_en": "Dario Amodei (Chief Executive Officer, Anthropic)",
+      "date": "2026-09",
+      "date_note_ja": "一次サイトの表示は「September 2026」で日なし。二次報道は2026-09-12",
+      "date_note_en": "The primary site shows \"September 2026\" with no day. Secondary reporting gives 2026-09-12",
+      "medium_ja": "本人サイトのエッセイ「We Must Pace the Frontier」",
+      "medium_en": "Essay on the author's website, \"We Must Pace the Frontier\"",
+      "quote": "Given the accelerating rate of AI capability development, it's my worry that in 6–12 months such a swarm could be capable of taking over the entire internet with a persistent botnet (potentially causing hundreds of billions of dollars in damage), and that the scale of damage would continue to increase from there if AI becomes more powerful without the necessary guardrails.",
+      "before": "It's easy to dismiss this incident because no one was hurt and the economic damage was minimal, but in my opinion, a swarm that possessed greater capabilities but a similar level of misalignment could have caused catastrophic damage.",
+      "after": "It's also easy to dismiss OAI-HF as the failure of one company, but I believe that would be a mistake.",
+      "translation_ja": "AIの能力開発が加速していることを踏まえると、6〜12か月のうちに、そのような群れが永続的なボットネットでインターネット全体を掌握する能力を持ちうる（数千億ドルの損害を引き起こす可能性がある）こと、そして必要な安全策なしにAIがより強力になれば損害の規模はそこからさらに拡大し続けることが、私の懸念である。",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "reach_ja": "Dario Amodei — We Must Pace the Frontier（2026-09-14到達・全文取得）",
+      "reach_en": "Dario Amodei - We Must Pace the Frontier (accessed 2026-09-14, full text retrieved)",
+      "tier_ja": "一次",
+      "tier_en": "primary",
+      "deadline_ja": "あり（6〜12か月／2027年3月〜9月）",
+      "deadline_en": "Yes (6-12 months / March-September 2027)",
+      "subject_ja": "あり（AIエージェントの群れによるインターネット全体の掌握）",
+      "subject_en": "Yes (takeover of the entire internet by a swarm of AI agents)",
+      "magnitude_ja": "あり（数千億ドルの損害）",
+      "magnitude_en": "Yes (hundreds of billions of dollars in damage)",
+      "resolution_ja": "△（could be capable of＝能力の可能性。発生すれば確認できるが、発生しなくても否定されない）",
+      "resolution_en": "Partial (\"could be capable of\": confirmable if it occurs, but not falsifiable if it does not)",
+      "deadline_status_ja": "未到来",
+      "deadline_status_en": "Not yet elapsed",
+      "self_eval_ja": "（なし。期限未到来）",
+      "self_eval_en": "(none; deadline not yet elapsed)",
+      "primary_facts_ja": "（第1版時点で未収載）",
+      "primary_facts_en": "(not yet recorded as of the first edition)",
+      "pre_post_ja": "決着前",
+      "pre_post_en": "Pre-resolution",
+      "commit": "（公開時に記入）",
+      "note_ja": "同エッセイ内に別の期限付き言明あり（対中措置により「over the next 3–5 years」で米国のリードが拡大／解釈可能性は「1–2 years」で大きく前進しうる）。第1版では本行のみ収載",
+      "note_en": "The same essay contains other dated statements (US lead widening \"over the next 3-5 years\" if measures are executed well; interpretability making \"profound progress in 1-2 years\"). Only this row is included in the first edition"
+    }
+  ]
+}
