@@ -2,15 +2,6 @@
 
 > **"A forecast becomes a record only if it was written down before anyone knew the answer."**
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Rows](https://img.shields.io/badge/Rows-8-informational)](data/registry.csv)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--14-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
-
-![cover](../../assets/ogp_design.png)
-
-<br/>
-
 ---
 
 # Prologue: On 22 March 2023, six months were demanded
@@ -88,7 +79,7 @@ Without that distinction, this book would be indistinguishable from a book writt
 
 **The author is the only person who writes to this registry.** The book is published in the open, but being public and being writable by anyone are different things. Raising a row, appending an outcome, issuing a correction — all are done by the author alone. Every commit carries the author's signature, and unsigned changes never enter the history. What readers can do is verify the registry, report errors, and point to the location of primary sources. Whether and when a source becomes a row is decided by the author after direct verification. **The discipline of this registry is preserved by there being a single writer.**
 
-**It is also published in machine-readable form.** The registry is available as `registry_en.csv` and `registry_en.json` in the same repository. This book's sibling volume, *The China AI Registry*, examined the filing list of generative-AI services published by the Chinese authorities and observed that the list was comprehensive but not machine-readable. This book turns that observation on itself, and publishes in a form readers can recount for themselves.
+**It is also published in machine-readable form.** The registry is available as `data/registry.json` (canonical) and `data/registry.csv` (derived) in the same repository. This book's sibling volume, *The China AI Registry*, examined the filing list of generative-AI services published by the Chinese authorities and observed that the list was comprehensive but not machine-readable. This book turns that observation on itself, and publishes in a form readers can recount for themselves.
 
 ## What is in scope, and what is not
 
@@ -150,7 +141,7 @@ There is one reason for keeping the layers apart. **Mixed together, it becomes i
 >
 > **予測の四要件とは**、山内 怜史（Satoshi Yamauchi）が提唱している、AIをめぐる予測を判定可能な形式を備えているかで分類する基準である。期限・対象・尺度・決着条件の四つの有無を、予測の真偽とは独立に記述する。
 >
-> First published: September 2026, first commit of this repository (commit hash: to be filled at publication)
+> First published: September 2026, commit `4140d2de52ffceb1c1be9c55006cb7b48a35d9fd` of this repository
 
 **Deadline.** By when? "By 2027," "this year," "within six months." A forecast with a deadline gets its answer when the day arrives. A forecast without one can always be deferred.
 
@@ -208,7 +199,7 @@ Each row carries one further field. **At the moment the row entered this registr
 >
 > **決着前記録とは**、山内 怜史（Satoshi Yamauchi）が提唱している、予測を帰結が確定する前に改竄不能な時刻証明とともに登録する原則である。登録と帰結の追記を別の記録単位とし、事後に書かれた記録と構造的に区別する。
 >
-> First published: September 2026, first commit of this repository (commit hash: to be filled at publication)
+> First published: September 2026, commit `4140d2de52ffceb1c1be9c55006cb7b48a35d9fd` of this repository
 
 Why the distinction is needed.
 
@@ -260,7 +251,7 @@ The constraint makes the book restrictive. There will be moments where something
 
 **Figures that change over time** are recorded with their retrieval date. A later retrieval adds a row rather than overwriting one.
 
-These columns match `registry_en.csv` and `registry_en.json` exactly. The prose tables and the machine-readable files are updated in the same commit.
+These columns match `data/registry.json` and `data/registry.csv` exactly. The prose tables and the machine-readable files are updated in the same commit.
 
 ### References
 
@@ -394,10 +385,10 @@ If the registry appears at any moment to carry only one side, the cause is the o
 | Forecaster's own later assessment | 2024-03-22 "Over the last 12 months developers of the most advanced systems have revealed beyond all doubt that their primary commitment is to speed and their own competitive advantage." https://futureoflife.org/ai/the-pause-letter-one-year-later/ |
 | Facts stated in primary sources | (not yet recorded as of the first edition) |
 | Pre- / post-resolution | Post-resolution |
-| Registration commit | (to be filled at publication) |
+| Registration commit | `313532b884c57be431528c8aab84605739fbdf5b` |
 | Notes | Signatories: more than 30,000 (FLI's wording, retrieved 2026-09-14) / scope narrowed by FLI's FAQ |
 
-Every row in Chapter 4 carries these same columns. Columns omitted from the prose for space can be found in `registry_en.csv`.
+Every row in Chapter 4 carries these same columns. Columns omitted from the prose for space can be found in `data/registry.csv`.
 
 **On row numbers and row names.** Each row carries a sequential number and a row name. The row opened in this chapter is **001 "Future of Life Institute / Call to pause training of AI systems more powerful than GPT-4 for six months / 2023-03-22."**
 
@@ -426,7 +417,7 @@ The formal name is long. Referring to the same row repeatedly makes prose unread
 
 **A new chapter returns to the full form.** A reader who begins mid-book still meets the complete name once within that chapter.
 
-The registry itself, `registry_en.csv`, `registry_en.json`, and any citation outside this book always use the full form. **The in-chapter form is a convenience of prose, not an identifier.**
+The registry itself, `data/registry.json`, `data/registry.csv`, and any citation outside this book always use the full form. **The in-chapter form is a convenience of prose, not an identifier.**
 
 ### Listing several rows
 
@@ -610,7 +601,7 @@ Everything from the prologue to Chapter 3 was preparation for reading it. Chapte
 
 ## How to read the registry
 
-Every row carries all the columns defined in Chapter 1. In the prose, each row is shown as one table. The order of columns matches `registry_en.csv`.
+Every row carries all the columns defined in Chapter 1. In the prose, each row is shown as one table. The order of columns matches `data/registry.csv`.
 
 Rows are referred to by number and formal name together, the formal name taking the shape "Speaker / subject and content of the forecast / date of statement."
 
@@ -661,7 +652,7 @@ Post-resolution 5, pre-resolution 3. Primary 7, secondary 1.
 | Forecaster's own later assessment | 2024-03-22 ｜ Over the last 12 months developers of the most advanced systems have revealed beyond all doubt that their primary commitment is to speed and their own competitive advantage. ｜ https://futureoflife.org/ai/the-pause-letter-one-year-later/ |
 | Facts stated in primary sources | (not yet recorded as of the first edition) |
 | Pre- / post-resolution | Post-resolution |
-| Registration commit | (to be filled at publication) |
+| Registration commit | `313532b884c57be431528c8aab84605739fbdf5b` |
 | Notes | Signatories: more than 30,000 (FLI's own wording, retrieved 2026-09-14) / FLI's FAQ narrows the scope to "models larger than GPT-4" and "a very small pool of actors who possess this capability" |
 
 ### 002 "Gary Marcus / No mindblowing GPT within 2024 / 2024-03-31"
@@ -688,7 +679,7 @@ Post-resolution 5, pre-resolution 3. Primary 7, secondary 1.
 | Forecaster's own later assessment | 2025-01-09 ｜ Last March I predicted that it wouldn't arrive in 2024. It didn't. ｜ https://garymarcus.substack.com/p/agi-isnt-coming-in-2025-and-gpt-5 |
 | Facts stated in primary sources | (not yet recorded as of the first edition) |
 | Pre- / post-resolution | Post-resolution |
-| Registration commit | (to be filled at publication) |
+| Registration commit | `313532b884c57be431528c8aab84605739fbdf5b` |
 | Notes | The same post also contains the forecast recorded as row 003 |
 
 ### 003 "Gary Marcus / Timing of the start of the generative-AI bubble collapse / 2024-03-31"
@@ -715,7 +706,7 @@ Post-resolution 5, pre-resolution 3. Primary 7, secondary 1.
 | Forecaster's own later assessment | 2024-08-03 ｜ I just wrote a hard-hitting essay for WIRED predicting that the AI bubble will collapse in 2025 - and now I wish I hadn't. Clearly, I got the year wrong. ｜ https://garymarcus.substack.com/p/why-the-collapse-of-the-generative |
 | Facts stated in primary sources | (not yet recorded as of the first edition) |
 | Pre- / post-resolution | Post-resolution |
-| Registration commit | (to be filled at publication) |
+| Registration commit | `313532b884c57be431528c8aab84605739fbdf5b` |
 | Notes | Revised by the author on 2024-08-03. The revised forecast is recorded separately as row 004 |
 
 ### 004 "Gary Marcus / Revision of the timing of the generative-AI bubble collapse / 2024-08-03"
@@ -742,7 +733,7 @@ Post-resolution 5, pre-resolution 3. Primary 7, secondary 1.
 | Forecaster's own later assessment | (as of the first edition, no statement in which the author directly revisits this particular forecast has been reached) |
 | Facts stated in primary sources | (not yet recorded as of the first edition) |
 | Pre- / post-resolution | Post-resolution |
-| Registration commit | (to be filled at publication) |
+| Registration commit | `313532b884c57be431528c8aab84605739fbdf5b` |
 | Notes | In the same post the author assesses his March forecasts: "In March of this year, I made a series of seven predictions about how this year would go. Every one of them has held firm" |
 
 ### 005 "Gary Marcus / No AGI within 2025 / 2025-01-09"
@@ -769,7 +760,7 @@ Post-resolution 5, pre-resolution 3. Primary 7, secondary 1.
 | Forecaster's own later assessment | 2026-01 (month only) ｜ Overall, by my count, sixteen of my seventeen "high confidence" predictions about 2025 proved to be correct. ｜ Author's Substack post "Six (or seven) predictions for AI 2026 from a Generative AI realist" (full URL not yet recorded as of the first edition) |
 | Facts stated in primary sources | (not yet recorded as of the first edition) |
 | Pre- / post-resolution | Post-resolution |
-| Registration commit | (to be filled at publication) |
+| Registration commit | `313532b884c57be431528c8aab84605739fbdf5b` |
 | Notes | The same post juxtaposes Musk's April 2024 statement with his January 2025 remarks at CES |
 
 ### 006 "AI Futures Project / Superhuman coder reached in March 2027 / 2025-04-03"
@@ -796,7 +787,7 @@ Post-resolution 5, pre-resolution 3. Primary 7, secondary 1.
 | Forecaster's own later assessment | c. 2025-10 ｜ When AI 2027 was published my median was 2028, now it's slipped to 2029 as a result of improved timelines models & slightly slower than expected progress in general (Daniel Kokotajlo) ｜ https://futuresearch.ai/blog/ai-2027-6-months-later/ (via co-authoring organisation FutureSearch; secondary) |
 | Facts stated in primary sources | (not yet recorded as of the first edition) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit | (to be filled at publication) |
+| Registration commit | `313532b884c57be431528c8aab84605739fbdf5b` |
 | Notes | This registry has not reached the primary source. A row will be appended once it is reached. The document is accompanied by five research supplements (Compute / Timelines / Takeoff / AI Goals / Security) |
 
 ### 007 "Global Call for AI Red Lines / Call for an international agreement on AI red lines by the end of 2026 / 2025-09-22"
@@ -823,7 +814,7 @@ Post-resolution 5, pre-resolution 3. Primary 7, secondary 1.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | The statement's FAQ names the route to resolution: France's G7 presidency running until 2026-12-31, the UN Global Dialogue convening in Geneva in July 2026, and the UN General Assembly in September 2026 |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit | (to be filled at publication) |
+| Registration commit | `313532b884c57be431528c8aab84605739fbdf5b` |
 | Notes | Signatories: 300+ prominent figures / 11 former heads of state and ministers / 90+ organisations / 15 Nobel Prize and Turing Award recipients (retrieved 2026-09-14). Signatories include Gary Marcus and Daniel Kokotajlo |
 
 ### 008 "Dario Amodei / Capability of an agent swarm to take over the entire internet within 6-12 months / 2026-09"
@@ -850,7 +841,7 @@ Post-resolution 5, pre-resolution 3. Primary 7, secondary 1.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of the first edition) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit | (to be filled at publication) |
+| Registration commit | `313532b884c57be431528c8aab84605739fbdf5b` |
 | Notes | The same essay contains other dated statements (US lead widening "over the next 3-5 years" if measures are executed well; interpretability making "profound progress in 1-2 years"). Only this row is included in the first edition |
 
 ---
@@ -859,10 +850,12 @@ Post-resolution 5, pre-resolution 3. Primary 7, secondary 1.
 
 The eight rows of this chapter are emitted, from the same data, into two further files.
 
-- `registry_en.csv` — openable in a spreadsheet. First line column names, subsequent lines the rows. Encoded UTF-8 with BOM
-- `registry_en.json` — for reading from a program. The column definitions and the operating rules of the registry precede the rows
+- `data/registry.json` — **the canonical registry.** For reading from a program. Column definitions and operating rules precede the rows, and every column label carries both a Japanese and an English form
+- `data/registry.csv` — openable in a spreadsheet. Generated from the canonical file. First line column names, subsequent lines the rows. Encoded UTF-8 with BOM
 
-The prose tables and the two files **are updated in the same commit.** A state in which one is newer than the other does not exist under this book's operating rules. A reader may open `registry_en.csv` without reading the prose at all.
+**There is one registry, shared by the Japanese and English editions.** The statement layer — verbatim quotation and the sentences before and after — is held in the original language and is identical in both. Only the form and outcome layers carry separate Japanese and English columns. A reader arriving from either edition opens the same file and cites the same row.
+
+The prose tables and the two files **are updated in the same commit.** A state in which one is newer than the other does not exist under this book's operating rules. A reader may open `data/registry.csv` without reading the prose at all.
 
 ## The procedure for appending
 
@@ -873,7 +866,7 @@ When a row is added, the author works in this order.
 3. Fill the form layer by looking only at the verbatim text: presence or absence of deadline, subject, magnitude, resolution condition
 4. Leave the outcome layer empty at registration, as a rule. Empty if the deadline has not passed. Empty also if the deadline has passed but the author's later assessment has not been reached
 5. Mark pre- or post-resolution
-6. Update `registry_en.csv`, `registry_en.json` and the prose table together, and record them as the **registration commit**, signed
+6. Update `data/registry.json`, regenerate `data/registry.csv` from it, and update the prose tables in both editions together, recording them as the **registration commit**, signed
 7. When the outcome becomes known, append a row filling the outcome layer, recorded separately as the **outcome commit**
 
 The separation of steps 4 and 7 is the implementation of pre-resolution recording.
@@ -1282,7 +1275,7 @@ This book is built so that it can be used by a reader who does not trust it.
 
 **Check that outcomes were appended in separate commits.** When a row registered as pre-resolution later receives its outcome, that appending is a commit distinct from the registration. Comparing the dates of the two commits shows that the forecast was recorded before its outcome.
 
-None of this requires reading the book. `registry_en.csv` and the GitHub history suffice. **The prose of this book explains how to read the registry; it is not the basis of the registry's reliability.** The basis is the history.
+None of this requires reading the book. `data/registry.csv` and the GitHub history suffice. **The prose of this book explains how to read the registry; it is not the basis of the registry's reliability.** The basis is the history.
 
 ## Report errors
 
@@ -1312,7 +1305,7 @@ A forecast placed in the open with a date attached may be registered as a row by
 
 This book is published in Japanese and in English. The two are not a translation of one another.
 
-**The statement layer is in the original language in both editions.** A statement made in English is recorded in English; one made in Japanese, in Japanese. Translations sit in a separate field and are not treated as quotations. The registry itself carries the same rows in both.
+**The statement layer is in the original language in both editions.** A statement made in English is recorded in English; one made in Japanese, in Japanese. Translations sit in a separate field and are not treated as quotations. **The registry itself is a single file shared by both editions**: `data/registry.json` and `data/registry.csv` are not split by language, and the form and outcome layers carry both Japanese and English columns.
 
 **The form and outcome layers are written in parallel, not in translation.** The judgement of the four requisites, the pre- and post-resolution marking, and the location of the author's later assessment carry the same content in either language.
 

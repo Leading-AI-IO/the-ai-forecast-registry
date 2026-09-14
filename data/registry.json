@@ -375,7 +375,7 @@
       "primary_facts_en": "(not yet recorded as of the first edition)",
       "pre_post_ja": "決着後",
       "pre_post_en": "Post-resolution",
-      "commit": "（公開時に記入）",
+      "commit": "313532b884c57be431528c8aab84605739fbdf5b",
       "note_ja": "署名者数：3万人以上（FLI表記・2026-09-14取得）／FLIのFAQにより対象を「GPT-4より大きなモデルの訓練」「この能力を持つごく少数の主体」に限定",
       "note_en": "Signatories: more than 30,000 (FLI's own wording, retrieved 2026-09-14) / FLI's FAQ narrows the scope to \"models larger than GPT-4\" and \"a very small pool of actors who possess this capability\""
     },
@@ -415,7 +415,7 @@
       "primary_facts_en": "(not yet recorded as of the first edition)",
       "pre_post_ja": "決着後",
       "pre_post_en": "Post-resolution",
-      "commit": "（公開時に記入）",
+      "commit": "313532b884c57be431528c8aab84605739fbdf5b",
       "note_ja": "同一記事に003の予測を含む",
       "note_en": "The same post also contains the forecast recorded as row 003"
     },
@@ -455,7 +455,7 @@
       "primary_facts_en": "(not yet recorded as of the first edition)",
       "pre_post_ja": "決着後",
       "pre_post_en": "Post-resolution",
-      "commit": "（公開時に記入）",
+      "commit": "313532b884c57be431528c8aab84605739fbdf5b",
       "note_ja": "本人が2024-08-03に時期を修正。修正後の予測は004として別行",
       "note_en": "Revised by the author on 2024-08-03. The revised forecast is recorded separately as row 004"
     },
@@ -495,7 +495,7 @@
       "primary_facts_en": "(not yet recorded as of the first edition)",
       "pre_post_ja": "決着後",
       "pre_post_en": "Post-resolution",
-      "commit": "（公開時に記入）",
+      "commit": "313532b884c57be431528c8aab84605739fbdf5b",
       "note_ja": "同記事で「In March of this year, I made a series of seven predictions about how this year would go. Every one of them has held firm」と3月の予測群を自己評価",
       "note_en": "In the same post the author assesses his March forecasts: \"In March of this year, I made a series of seven predictions about how this year would go. Every one of them has held firm\""
     },
@@ -535,7 +535,7 @@
       "primary_facts_en": "(not yet recorded as of the first edition)",
       "pre_post_ja": "決着後",
       "pre_post_en": "Post-resolution",
-      "commit": "（公開時に記入）",
+      "commit": "313532b884c57be431528c8aab84605739fbdf5b",
       "note_ja": "同記事内でMuskの2024年4月発言と2025年1月CESでの発言を対置して引用",
       "note_en": "The same post juxtaposes Musk's April 2024 statement with his January 2025 remarks at CES"
     },
@@ -575,7 +575,7 @@
       "primary_facts_en": "(not yet recorded as of the first edition)",
       "pre_post_ja": "決着前",
       "pre_post_en": "Pre-resolution",
-      "commit": "（公開時に記入）",
+      "commit": "313532b884c57be431528c8aab84605739fbdf5b",
       "note_ja": "本書は一次資料に未到達。到達後に行を追記する。研究補遺は5本（Compute／Timelines／Takeoff／AI Goals／Security）",
       "note_en": "This registry has not reached the primary source. A row will be appended once it is reached. The document is accompanied by five research supplements (Compute / Timelines / Takeoff / AI Goals / Security)"
     },
@@ -615,7 +615,7 @@
       "primary_facts_en": "The statement's FAQ names the route to resolution: France's G7 presidency running until 2026-12-31, the UN Global Dialogue convening in Geneva in July 2026, and the UN General Assembly in September 2026",
       "pre_post_ja": "決着前",
       "pre_post_en": "Pre-resolution",
-      "commit": "（公開時に記入）",
+      "commit": "313532b884c57be431528c8aab84605739fbdf5b",
       "note_ja": "署名：300人以上の著名人／元国家元首・閣僚11人／90以上の組織／ノーベル賞・チューリング賞受賞者15人（2026-09-14取得）。署名者にGary Marcus、Daniel Kokotajloを含む",
       "note_en": "Signatories: 300+ prominent figures / 11 former heads of state and ministers / 90+ organisations / 15 Nobel Prize and Turing Award recipients (retrieved 2026-09-14). Signatories include Gary Marcus and Daniel Kokotajlo"
     },
@@ -655,7 +655,7 @@
       "primary_facts_en": "(not yet recorded as of the first edition)",
       "pre_post_ja": "決着前",
       "pre_post_en": "Pre-resolution",
-      "commit": "（公開時に記入）",
+      "commit": "313532b884c57be431528c8aab84605739fbdf5b",
       "note_ja": "同エッセイ内に別の期限付き言明あり（対中措置により「over the next 3–5 years」で米国のリードが拡大／解釈可能性は「1–2 years」で大きく前進しうる）。第1版では本行のみ収載",
       "note_en": "The same essay contains other dated statements (US lead widening \"over the next 3-5 years\" if measures are executed well; interpretability making \"profound progress in 1-2 years\"). Only this row is included in the first edition"
     }

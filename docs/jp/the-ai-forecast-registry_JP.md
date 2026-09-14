@@ -3,15 +3,6 @@
 > **"A forecast becomes a record only if it was written down before anyone knew the answer."** <br>
 > （予測は、答えを誰も知らないうちに書き留められていたときだけ、記録になる）
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Rows](https://img.shields.io/badge/Rows-8-informational)](data/registry.csv)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--14-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
-
-![cover](../../assets/ogp_design.png)
-
-<br/>
-
 ---
 
 # 序章: 2023年3月22日、6か月が要求された
@@ -91,7 +82,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 
 **台帳に書くのは、著者一人である。** 本書は公開の場に置かれているが、公開されていることと、誰でも書けることは別である。行を起こすのも、帰結を追記するのも、訂正を加えるのも、著者だけが行う。すべてのコミットは著者の署名を持ち、署名のない変更は履歴に残らない。読者ができるのは、台帳を検証すること、誤りを指摘すること、一次資料の所在を知らせることである。読者が知らせた資料を行にするかどうか、いつ行にするかは、著者が一次確認のうえで決める。台帳の規律は、書き手が一人であることによって保たれる。
 
-**機械可読の形でも置く。** 本書の台帳は、本文中の表としてだけでなく、`registry.csv` および `registry.json` として同じリポジトリに置く。本書の兄弟にあたる『The China AI Registry』は、中国当局が公開する生成AIの登録名簿を扱ったが、その名簿は「網羅的だが、機械可読ではない」と評した。本書は、その評価を自分に向ける。読者が自分で数え直せる形で置く。
+**機械可読の形でも置く。** 本書の台帳は、本文中の表としてだけでなく、`data/registry.json`（正本）および `data/registry.csv`（派生）として同じリポジトリに置く。本書の兄弟にあたる『The China AI Registry』は、中国当局が公開する生成AIの登録名簿を扱ったが、その名簿は「網羅的だが、機械可読ではない」と評した。本書は、その評価を自分に向ける。読者が自分で数え直せる形で置く。
 
 ## 本書が扱う層と、扱わない層
 
@@ -155,7 +146,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 >
 > **The Four Requisites**, proposed by Satoshi Yamauchi (山内 怜史), is a classification standard for AI forecasts by whether they are structurally judgeable: it records the presence or absence of a deadline, a subject, a magnitude, and a resolution condition, independently of whether the forecast proves true.
 >
-> 初出：2026年9月、本リポジトリ第1コミット（コミットハッシュ：公開時に記入）
+> 初出：2026年9月、本リポジトリ commit `12143521340336ee761ccb3da336cf3d89e7e1a`
 
 四つの要件を、順に開く。
 
@@ -215,7 +206,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 >
 > **Pre-Resolution Recording**, proposed by Satoshi Yamauchi (山内 怜史), is the principle of registering a forecast with a tamper-evident timestamp before its outcome is settled, keeping the registration and the outcome as separate records so that entries written after the fact are structurally distinguishable.
 >
-> 初出：2026年9月、本リポジトリ第1コミット（コミットハッシュ：公開時に記入）
+> 初出：2026年9月、本リポジトリ commit `12143521340336ee761ccb3da336cf3d89e7e1a`
 
 なぜこの区別が必要か。
 
@@ -270,7 +261,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 
 **動的に変わる数値**（署名者数、予測市場の現在値など）は、取得日を添えて記録する。後日また取得した場合は、新しい行を追加する。
 
-この表の形は、本書の `registry.csv` および `registry.json` と一致する。本文の表と機械可読ファイルは、同じコミットで更新される。
+この表の形は、本書の `data/registry.json` および `data/registry.csv` と一致する。本文の表と機械可読ファイルは、同じコミットで更新される。
 
 ### 参考文献
 
@@ -365,7 +356,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 
 **決着前／後**：**決着後。** 本書への登録は2026年9月であり、期限到来（2023年9月）と本人の事後評価（2024年3月）はいずれもそれより前である。
 
-**登録コミット**：公開時に記入。
+**登録コミット**：`313532b884c57be431528c8aab84605739fbdf5b`。
 
 ## この行が示していること
 
@@ -411,10 +402,10 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 | 本人の事後評価 | 2024-03-22 "Over the last 12 months developers of the most advanced systems have revealed beyond all doubt that their primary commitment is to speed and their own competitive advantage." https://futureoflife.org/ai/the-pause-letter-one-year-later/ |
 | 一次資料の記載 | （第1版時点で未収載） |
 | 決着前／後 | 決着後 |
-| 登録コミット | （公開時に記入） |
+| 登録コミット | `313532b884c57be431528c8aab84605739fbdf5b` |
 | 補足 | 署名者数：3万人以上（FLI表記・2026-09-14取得）／FAQによる対象の限定あり |
 
-第4章の各行は、この表と同じ列を持つ。ただし本文では紙幅の都合で列を省くことがある。省いた列は `registry.csv` で確認できる。
+第4章の各行は、この表と同じ列を持つ。ただし本文では紙幅の都合で列を省くことがある。省いた列は `data/registry.csv` で確認できる。
 
 **行番号と行名について。** 各行には通し番号と、行名が付く。第2章で開いたこの行は **001「Future of Life Institute／GPT-4超の訓練の6か月停止要求／2023-03-22」** である。
 
@@ -683,7 +674,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 | 本人の事後評価 | 2024-03-22｜Over the last 12 months developers of the most advanced systems have revealed beyond all doubt that their primary commitment is to speed and their own competitive advantage.｜https://futureoflife.org/ai/the-pause-letter-one-year-later/ |
 | 一次資料の記載 | （第1版時点で未収載） |
 | 決着前／後 | 決着後 |
-| 登録コミット | （公開時に記入） |
+| 登録コミット | `313532b884c57be431528c8aab84605739fbdf5b` |
 | 補足 | 署名者数：3万人以上（FLI表記・2026-09-14取得）／FLIのFAQにより対象を「GPT-4より大きなモデルの訓練」「この能力を持つごく少数の主体」に限定 |
 
 ### 002「Gary Marcus／2024年内の画期的GPT不出現／2024-03-31」
@@ -711,7 +702,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 | 本人の事後評価 | 2025-01-09｜Last March I predicted that it wouldn't arrive in 2024. It didn't.｜https://garymarcus.substack.com/p/agi-isnt-coming-in-2025-and-gpt-5 |
 | 一次資料の記載 | （第1版時点で未収載） |
 | 決着前／後 | 決着後 |
-| 登録コミット | （公開時に記入） |
+| 登録コミット | `313532b884c57be431528c8aab84605739fbdf5b` |
 | 補足 | 同一記事に003の予測を含む |
 
 ### 003「Gary Marcus／生成AIバブルの崩壊開始時期／2024-03-31」
@@ -739,7 +730,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 | 本人の事後評価 | 2024-08-03｜I just wrote a hard-hitting essay for WIRED predicting that the AI bubble will collapse in 2025 — and now I wish I hadn't. Clearly, I got the year wrong.｜https://garymarcus.substack.com/p/why-the-collapse-of-the-generative |
 | 一次資料の記載 | （第1版時点で未収載） |
 | 決着前／後 | 決着後 |
-| 登録コミット | （公開時に記入） |
+| 登録コミット | `313532b884c57be431528c8aab84605739fbdf5b` |
 | 補足 | 本人が2024-08-03に時期を修正。修正後の予測は004として別行 |
 
 ### 004「Gary Marcus／生成AIバブルの崩壊時期の修正／2024-08-03」
@@ -767,7 +758,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 | 本人の事後評価 | （第1版時点で、この予測を直接振り返った本人発言に未到達） |
 | 一次資料の記載 | （第1版時点で未収載） |
 | 決着前／後 | 決着後 |
-| 登録コミット | （公開時に記入） |
+| 登録コミット | `313532b884c57be431528c8aab84605739fbdf5b` |
 | 補足 | 同記事で「In March of this year, I made a series of seven predictions about how this year would go. Every one of them has held firm」と3月の予測群を自己評価 |
 
 ### 005「Gary Marcus／2025年内のAGI不到来／2025-01-09」
@@ -795,7 +786,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 | 本人の事後評価 | 2026-01（月まで）｜Overall, by my count, sixteen of my seventeen "high confidence" predictions about 2025 proved to be correct.｜本人Substack記事「Six (or seven) predictions for AI 2026 from a Generative AI realist」（完全URLは第1版時点で未記録） |
 | 一次資料の記載 | （第1版時点で未収載） |
 | 決着前／後 | 決着後 |
-| 登録コミット | （公開時に記入） |
+| 登録コミット | `313532b884c57be431528c8aab84605739fbdf5b` |
 | 補足 | 同記事内でMuskの2024年4月発言と2025年1月CESでの発言を対置して引用 |
 
 ### 006「AI Futures Project／2027年3月の超人的コーダー到達／2025-04-03」
@@ -823,7 +814,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 | 本人の事後評価 | 2025-10頃｜When AI 2027 was published my median was 2028, now it's slipped to 2029 as a result of improved timelines models & slightly slower than expected progress in general（Daniel Kokotajlo）｜https://futuresearch.ai/blog/ai-2027-6-months-later/（共著組織FutureSearch経由・二次） |
 | 一次資料の記載 | （第1版時点で未収載） |
 | 決着前／後 | 決着前 |
-| 登録コミット | （公開時に記入） |
+| 登録コミット | `313532b884c57be431528c8aab84605739fbdf5b` |
 | 補足 | 本書は一次資料に未到達。到達後に行を追記する。研究補遺は5本（Compute／Timelines／Takeoff／AI Goals／Security） |
 
 ### 007「Global Call for AI Red Lines／2026年末までのAIレッドライン国際合意要求／2025-09-22」
@@ -851,7 +842,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 | 本人の事後評価 | （なし。期限未到来） |
 | 一次資料の記載 | 同サイトFAQが決着までの経路を記載：フランスのG7議長国期間（2026-12-31まで）、UN Global Dialogue（ジュネーブ・2026年7月）、UN総会（2026年9月） |
 | 決着前／後 | 決着前 |
-| 登録コミット | （公開時に記入） |
+| 登録コミット | `313532b884c57be431528c8aab84605739fbdf5b` |
 | 補足 | 署名：300人以上の著名人／元国家元首・閣僚11人／90以上の組織／ノーベル賞・チューリング賞受賞者15人（2026-09-14取得）。署名者にGary Marcus、Daniel Kokotajloを含む |
 
 ### 008「Dario Amodei／6〜12か月以内のエージェント群によるインターネット掌握能力／2026-09」
@@ -879,7 +870,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 | 本人の事後評価 | （なし。期限未到来） |
 | 一次資料の記載 | （第1版時点で未収載） |
 | 決着前／後 | 決着前 |
-| 登録コミット | （公開時に記入） |
+| 登録コミット | `313532b884c57be431528c8aab84605739fbdf5b` |
 | 補足 | 同エッセイ内に別の期限付き言明あり（対中措置により「over the next 3–5 years」で米国のリードが拡大／解釈可能性は「1–2 years」で大きく前進しうる）。第1版では本行のみ収載 |
 
 ---
@@ -888,10 +879,12 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 
 この章の8行は、同一のデータから次の2ファイルにも出力されている。
 
-- `registry.csv` ── 表計算ソフトで開ける形式。1行目が列名、2行目以降が各行。文字コードはUTF-8（BOM付き）
-- `registry.json` ── プログラムから読む形式。列の定義と、台帳の運用規則を先頭に含む
+- `data/registry.json` ── **台帳の正本。** プログラムから読む形式。列の定義と運用規則を先頭に含み、列ラベルは日英の両方を持つ
+- `data/registry.csv` ── 表計算ソフトで開ける形式。正本から生成される派生物。1行目が列名、2行目以降が各行。文字コードはUTF-8（BOM付き）
 
-本文の表と2ファイルは、**同じコミットで更新される。** どちらか一方だけが新しい状態は、本書の運用上、存在しない。読者は本文を読まずに `registry.csv` だけを開いてもよい。そのために、列名はすべて日本語で、本文の表と一致させている。
+**台帳は日本語版・英語版で1本である。** 発言層（逐語引用・直前と直後の一文）は原文の言語のまま両版で同一であり、形式層と帰結層の記述だけが日英の両方の列を持つ。どちらの版から来た読者も、同じファイルを開き、同じ行を引用する。
+
+本文の表と2ファイルは、**同じコミットで更新される。** どちらか一方だけが新しい状態は、本書の運用上、存在しない。読者は本文を読まずに `data/registry.csv` だけを開いてもよい。
 
 ## 追記の手順
 
@@ -902,7 +895,7 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 3. 形式層の欄を、逐語だけを見て埋める。期限・対象・尺度・決着条件の有無
 4. 帰結層は、登録時点では原則として空欄にする。期限が未到来なら空欄。期限が到来済でも、本人の事後評価に到達していなければ空欄
 5. 決着前／後を記す
-6. `registry.csv`・`registry.json`・本文の表を同時に更新し、**登録のコミット**として署名付きで記録する
+6. `data/registry.json` を更新し、そこから `data/registry.csv` を生成し、本文の表（日英）を同時に更新して、**登録のコミット**として署名付きで記録する
 7. 帰結が判明したら、帰結層の欄を埋めた行を追記し、**帰結のコミット**として別に記録する
 
 手順4と7が分かれていることが、決着前記録の実装である。
@@ -1322,7 +1315,7 @@ AI Impactsは、機械学習の研究者を対象に、AIの到達時期につ�
 
 **帰結の追記が別のコミットであることを確認する。** 決着前として登録された行に、後から帰結が追記されたとき、その追記は登録とは別のコミットになっている。二つのコミットの日付を比べれば、予測が帰結より前に記録されていたことが分かる。
 
-これらは、本書を読まなくてもできる。`registry.csv` とGitHubの履歴だけで足りる。**本書の本文は、台帳の読み方を説明しているだけであって、台帳の信頼性の根拠ではない。** 根拠は履歴にある。
+これらは、本書を読まなくてもできる。`data/registry.csv` とGitHubの履歴だけで足りる。**本書の本文は、台帳の読み方を説明しているだけであって、台帳の信頼性の根拠ではない。** 根拠は履歴にある。
 
 ## 誤りを指摘する
 
@@ -1352,7 +1345,7 @@ AI Impactsは、機械学習の研究者を対象に、AIの到達時期につ�
 
 本書は日本語と英語で公開される。二つは翻訳の関係ではない。
 
-**発言層は、どちらの版でも原文の言語のままである。** 英語の発言は英語で、日本語の発言は日本語で記録される。訳は「参考訳」の欄に別に置かれ、引用としては扱われない。したがって、台帳そのもの——`registry.csv` と `registry.json`——は、日本語版と英語版で同一である。
+**発言層は、どちらの版でも原文の言語のままである。** 英語の発言は英語で、日本語の発言は日本語で記録される。訳は「参考訳」の欄に別に置かれ、引用としては扱われない。したがって、**台帳そのものは日英で1本である。** `data/registry.json` と `data/registry.csv` は版ごとに分かれておらず、形式層と帰結層の記述が日英の両方の列を持つ。
 
 **形式層と帰結層の記述は、二言語で並立する。** 四要件の判定、決着前／後の区分、本人の事後評価の所在は、どちらの言語でも同じ内容が書かれている。
 
