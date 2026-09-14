@@ -1,8 +1,11 @@
 # The AI Forecast Registry — 更新手順書
 
+このファイルは公開されている。台帳に書くのは著者一人であり（README「Governance」参照）、その一人が実際にどの手順で追記・訂正を行っているかを、読者が検証できる状態に置くためである。本書が読者に求める検証可能性を、著者自身の運用手順にも適用している。
+
 **対象リポジトリ**：`https://github.com/Leading-AI-IO/the-ai-forecast-registry`
-**ローカルパス**：`C:\Users\SatoshiYamauchi\the-ai-forecast-registry`
+**ローカルパス**：環境依存のため各自のクローン先を用いる
 **署名鍵**：`3DD95BA9EC194524`（`Satoshi Yamauchi <s3atoshi@gmail.com>`・ed25519）
+この鍵IDと公開鍵は GitHub の著者アカウントに登録済みであり、`https://github.com/Leading-AI-IO/the-ai-forecast-registry/commits/main` の各コミットの `Verified` バッジと照合できる。秘密鍵はここに含まれない。
 **最終更新**：2026-09-15（v1.0・8行）
 
 ---
@@ -23,7 +26,7 @@
 ## 0. 作業前の確認（毎回）
 
 ```powershell
-cd "$HOME\the-ai-forecast-registry"
+cd <リポジトリのクローン先>
 git pull
 git status
 ```
@@ -308,7 +311,7 @@ gpg --export-secret-keys --armor 3DD95BA9EC194524 > backup-private-key.asc
 失効証明書の場所（鍵が漏洩した場合に鍵を無効化するためのもの）：
 
 ```
-C:\Users\SatoshiYamauchi\.gnupg\openpgp-revocs.d\5C29A160024D620F297E0EC33DD95BA9EC194524.rev
+<GnuPGホームディレクトリ>\openpgp-revocs.d\5C29A160024D620F297E0EC33DD95BA9EC194524.rev
 ```
 
 このファイルも同様に保管する。
