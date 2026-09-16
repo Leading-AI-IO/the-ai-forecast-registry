@@ -927,7 +927,7 @@ Primary 9, secondary 1.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-09-16) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit | `c90b814d48feebab1f43f7af81de5f9af07cc10d` |
 | Notes | This is the text of remarks as prepared for delivery; it has not been checked against what was actually said at the event. The same remarks contain another statement (plans to introduce, the following week with Rep. Greg Casar, legislation permanently banning the development of superintelligence). Only the hope for treaty negotiations is included in this row |
 
 (Added on September 16, 2026)
@@ -956,7 +956,7 @@ Primary 9, secondary 1.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-09-16) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit | `c90b814d48feebab1f43f7af81de5f9af07cc10d` |
 | Notes | The preceding sentence is the section heading placed immediately before the quotation. The same report contains another dated statement ("Within three years, if we make the right choices, the most promising AI tools will be broadly deployed ..."). Only the 12-to-18-month statement is included in this row |
 
 ---
