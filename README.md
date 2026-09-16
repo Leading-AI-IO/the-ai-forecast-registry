@@ -5,7 +5,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Rows](https://img.shields.io/badge/Rows-8-informational)](data/registry.csv)
+[![Rows](https://img.shields.io/badge/Rows-10-informational)](data/registry.csv)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--14-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
 
 <p align="left">
@@ -122,6 +122,7 @@ Future of Life Instituteの書簡について、本書は「停止は実現し�
 | --- | --- | --- |
 | [the-ai-forecast-registry_JP.md](./docs/jp/the-ai-forecast-registry_JP.md) | 🇯🇵 日本語 | 本文（日本語版） |
 | [the-ai-forecast-registry_EN.md](./docs/en/the-ai-forecast-registry_EN.md) | 🇺🇸 English | 本文（英語版） |
+| [RUNBOOK.md](./docs/RUNBOOK.md) | 🇯🇵 日本語 | 更新手順書。台帳に書くのは著者一人であり、その運用手順を公開している |
 
 ---
 
@@ -133,9 +134,18 @@ Future of Life Instituteの書簡について、本書は「停止は実現し�
 
 **次の検証点は2026年12月31日である。** 第1版の決着前3行のうち最初に期限が来るのが、Global Call for AI Red Linesの「2026年末までの国際合意」である。その日が過ぎたとき、帰結の行が登録とは別のコミットで追記されるかどうか。**それが、本書が台帳であるか、8行の回顧記事であるかを最初に分ける。**
 
+（2026年9月16日訂正）
+
+上の段落の「次の検証点は2026年12月31日である」は、2026年9月16日の時点で事実ではなくなった。
+同日に009「Bernie Sanders／米中首脳会談での先端AI開発停止と超知能禁止の条約交渉への期待／2026-09-15」を追記し、その期限が「next week」、すなわち2026年9月21日から27日の週だからである。
+元の段落は第1版の記述として残す。
+
+次の検証点は、2026年9月21日から27日の週である。
+
 | 版 | 日付 | 内容 |
 | --- | --- | --- |
 | **v1.0** | 2026-09-14 | 初版公開（8行／決着後5・決着前3／一次7・二次1） |
+| — | 2026-09-16 | 009・010を登録（10行／決着後5・決着前5／一次9・二次1）。版は据え置き |
 
 ---
 

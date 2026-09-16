@@ -107,6 +107,10 @@ The sentence before and the sentence after each quotation are recorded wherever 
 
 All sources in this book were reached directly by the author on or before 14 September 2026. Where a source could not be reached, that is stated. **"It does not exist" is never written.**
 
+(Added on September 16, 2026)
+
+However, the sources for rows 009 and 010, added on 16 September 2026, were reached directly by the author on that date.
+
 ### References
 
 - Future of Life Institute, "Pause Giant AI Experiments: An Open Letter," 22 March 2023. https://futureoflife.org/open-letter/pause-giant-ai-experiments/
@@ -462,6 +466,8 @@ One thing first. This chapter does not say which forecasts proved correct. It sa
 | 006 | AI Futures Project / Superhuman coder reached in March 2027 / 2025-04-03 | ○ | ○ | ○ | △ | Pre |
 | 007 | Global Call for AI Red Lines / Call for an international agreement on AI red lines by the end of 2026 / 2025-09-22 | ○ | ○ | ○ | ○ | Pre |
 | 008 | Dario Amodei / Capability of an agent swarm to take over the entire internet within 6-12 months / 2026-09 | ○ | ○ | ○ | △ | Pre |
+| (Added on September 16, 2026)<br>009 | Bernie Sanders / Hope that a treaty pausing advanced AI development and banning superintelligence will be negotiated at the US-China summit / 2026-09-15 | ○ | ○ | ○ | △ | Pre |
+| (Added on September 16, 2026)<br>010 | Bill Gates / Decisions in the next 12 to 18 months that determine who benefits from AI / 2026-09-15 | ○ | ○ | × | × | Pre |
 
 ○ = explicitly present　△ = present but requiring interpretation　× = not stated
 
@@ -556,6 +562,44 @@ Of eight rows, only two can be confirmed as answered by recorder and reader alik
 
 This distribution may be particular to the eight rows chosen for the first edition. It may change as rows accumulate. This book updates the table each time rows are added. What the numbers do is answered by the registry.
 
+(Added on September 16, 2026)
+
+On 16 September 2026, the following two rows were added.
+
+- 009 "Bernie Sanders / Hope that a treaty pausing advanced AI development and banning superintelligence will be negotiated at the US-China summit / 2026-09-15"
+- 010 "Bill Gates / Decisions in the next 12 to 18 months that determine who benefits from AI / 2026-09-15"
+
+Row 009 has a deadline (next week), a subject (negotiation of a treaty between the US and Chinese leaders), and a magnitude (a pause on advanced AI development and a ban on superintelligence).
+But its predicate is "hope that ... will negotiate."
+If a treaty is concluded, that can be confirmed; whether negotiation took place depends on what is disclosed about the summit.
+In form it is close to a demand, but its resolution condition leaves room for interpretation.
+
+Row 010 has a deadline (12 to 18 months) and a subject (decisions about how AI is built, funded, and deployed).
+But its predicate is "will determine whether," and it does not say what should be checked when the deadline arrives.
+
+After the addition, the distribution is as follows.
+
+**Rows a third party can settle when the deadline passes — 2 (unchanged)**
+
+- 001 "Future of Life Institute / Call to pause training of AI systems more powerful than GPT-4 for six months"
+- 007 "Global Call for AI Red Lines / Call for an international agreement on AI red lines by the end of 2026"
+
+**Rows awaiting their author's adjudication — 5**
+
+- 002 "Gary Marcus / No mindblowing GPT within 2024"
+- 003 "Gary Marcus / Timing of the start of the generative-AI bubble collapse"
+- 004 "Gary Marcus / Revision of the timing of the generative-AI bubble collapse"
+- 005 "Gary Marcus / No AGI within 2025"
+- 010 "Bill Gates / Decisions in the next 12 to 18 months that determine who benefits from AI"
+
+**Rows where a definition or predicate leaves interpretation — 3**
+
+- 006 "AI Futures Project / Superhuman coder reached in March 2027"
+- 008 "Dario Amodei / Capability of an agent swarm to take over the entire internet within 6-12 months"
+- 009 "Bernie Sanders / Hope that a treaty pausing advanced AI development and banning superintelligence will be negotiated at the US-China summit"
+
+Of ten rows, the number a third party can confirm as answered remains two.
+
 ## What form shows
 
 The table in this chapter does not show the quality of forecasts. It shows **who can answer them.**
@@ -623,6 +667,19 @@ Rows are referred to by number and formal name together, the formal name taking 
 | 008 | Dario Amodei / Capability of an agent swarm to take over the entire internet within 6-12 months / 2026-09 | primary | Pre-resolution |
 
 Post-resolution 5, pre-resolution 3. Primary 7, secondary 1.
+
+(Added on September 16, 2026)
+
+## Rows added after the first edition
+
+| ID | Row name (formal) | Source | At registration |
+|---|---|---|---|
+| 009 | Bernie Sanders / Hope that a treaty pausing advanced AI development and banning superintelligence will be negotiated at the US-China summit / 2026-09-15 | primary | Pre-resolution |
+| 010 | Bill Gates / Decisions in the next 12 to 18 months that determine who benefits from AI / 2026-09-15 | primary | Pre-resolution |
+
+As of 16 September 2026, the registry holds ten rows.
+Post-resolution 5, pre-resolution 5.
+Primary 9, secondary 1.
 
 ---
 
@@ -844,11 +901,74 @@ Post-resolution 5, pre-resolution 3. Primary 7, secondary 1.
 | Registration commit | `313532b884c57be431528c8aab84605739fbdf5b` |
 | Notes | The same essay contains other dated statements (US lead widening "over the next 3-5 years" if measures are executed well; interpretability making "profound progress in 1-2 years"). Only this row is included in the first edition |
 
+(Added on September 16, 2026)
+
+### 009 "Bernie Sanders / Hope that a treaty pausing advanced AI development and banning superintelligence will be negotiated at the US-China summit / 2026-09-15"
+
+| Column | Content |
+|---|---|
+| ID | 009 |
+| Row name (formal) | Bernie Sanders / Hope that a treaty pausing advanced AI development and banning superintelligence will be negotiated at the US-China summit / 2026-09-15 |
+| Speaker | Bernie Sanders (U.S. Senator, Independent, Vermont) |
+| Date of statement | 2026-09-15 |
+| Note on date |  |
+| Medium | Speech (Pro-Human Assembly, Washington). Published on the senator's office website as remarks as prepared for delivery |
+| Verbatim quotation | That is why I very much hope that at their AI summit next week, President Trump will negotiate a comprehensive treaty with President Xi to establish a pause on advanced AI development and a ban on superintelligence. |
+| Preceding sentence | It will be humanity’s problem. |
+| Following sentence | History offers us a powerful lesson. |
+| Primary URL | https://www.sanders.senate.gov/press-releases/prepared-remarks-sanders-regulating-ai-is-as-american-as-apple-pie/ |
+| Retrieval evidence | PREPARED REMARKS: Sanders: Regulating AI “is as American as apple pie.” (accessed 2026-09-16, full text retrieved) |
+| Source tier | primary |
+| Deadline | Yes ("next week" / the week of 2026-09-21 to 09-27; the date of the summit is not stated in the primary source) |
+| Subject | Yes (negotiation of a comprehensive treaty between President Trump and President Xi) |
+| Magnitude | Yes (a comprehensive treaty establishing a pause on advanced AI development and a ban on superintelligence) |
+| Resolution condition | Partial ("hope that ... will negotiate": confirmable if a treaty is concluded, but whether negotiation took place depends on what is disclosed about the summit) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-09-16) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | This is the text of remarks as prepared for delivery; it has not been checked against what was actually said at the event. The same remarks contain another statement (plans to introduce, the following week with Rep. Greg Casar, legislation permanently banning the development of superintelligence). Only the hope for treaty negotiations is included in this row |
+
+(Added on September 16, 2026)
+
+### 010 "Bill Gates / Decisions in the next 12 to 18 months that determine who benefits from AI / 2026-09-15"
+
+| Column | Content |
+|---|---|
+| ID | 010 |
+| Row name (formal) | Bill Gates / Decisions in the next 12 to 18 months that determine who benefits from AI / 2026-09-15 |
+| Speaker | Bill Gates (Chair, Gates Foundation) |
+| Date of statement | 2026-09-15 |
+| Note on date | No date is displayed on the primary site. The page metadata (modified time) is 2026-09-15. Secondary reporting (Forbes JAPAN) gives publication on September 15, 2026, U.S. time |
+| Medium | Introduction to the annual "2026 Goalkeepers Report" (signed by Bill Gates) |
+| Verbatim quotation | I believe that the decisions made in the next 12 to 18 months—about how AI is built, funded, and deployed—will determine whether this technology primarily benefits the people who already have the most or reaches those who have the least. |
+| Preceding sentence | Left to the market, AI will be designed by and for the richest people in the world. |
+| Following sentence | We can harness AI for good. |
+| Primary URL | https://goalkeepers.gatesfoundation.org/report/2026-report/ |
+| Retrieval evidence | Goalkeepers 2026 Report (accessed 2026-09-16, full text retrieved) |
+| Source tier | primary |
+| Deadline | Yes (12 to 18 months / September 2027 to March 2028) |
+| Subject | Yes (decisions about how AI is built, funded, and deployed) |
+| Magnitude | No |
+| Resolution condition | No ("will determine whether": a statement that the decisions will determine the outcome; no state to be checked when the deadline arrives is specified) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-09-16) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | The preceding sentence is the section heading placed immediately before the quotation. The same report contains another dated statement ("Within three years, if we make the right choices, the most promising AI tools will be broadly deployed ..."). Only the 12-to-18-month statement is included in this row |
+
 ---
 
 ## The machine-readable files
 
-The eight rows of this chapter are emitted, from the same data, into two further files.
+(Corrected on September 16, 2026)
+
+"The eight rows of this chapter" was changed to "The rows of this chapter."
+Rows 009 and 010 were added, so the number of rows is no longer eight.
+
+The rows of this chapter are emitted, from the same data, into two further files.
 
 - `data/registry.json` — **the canonical registry.** For reading from a program. Column definitions and operating rules precede the rows, and every column label carries both a Japanese and an English form
 - `data/registry.csv` — openable in a spreadsheet. Generated from the canonical file. First line column names, subsequent lines the rows. Encoded UTF-8 with BOM
@@ -1246,6 +1366,10 @@ Without these predecessors, this book's design would not exist. This chapter is 
 
 Anyone who has read this far holds eight rows and the tools for reading them.
 
+(Added on September 16, 2026)
+
+As of 16 September 2026, the registry holds ten rows.
+
 This chapter takes those tools outside the book. The registry begins at eight rows and grows. But what a reader carries away is not a number of rows. It is **one habit for reading forecasts.**
 
 ---
@@ -1337,6 +1461,11 @@ The epilogue lists what could not. It is not a catalogue of the book's defects. 
 
 **Statements whose primary source carries no date.** Two of the eight rows in the first edition — 007 "Global Call for AI Red Lines / Call for an international agreement on AI red lines by the end of 2026 / 2025-09-22" and 008 "Dario Amodei / Capability of an agent swarm to take over the entire internet within 6-12 months / 2026-09" — carry no date in the speaker's own primary source. This book records the date from secondary reporting alongside, but that is not primary. Where the speaker did not write a date, this book cannot fix one.
 
+(Added on September 16, 2026)
+
+Row 010 "Bill Gates / Decisions in the next 12 to 18 months that determine who benefits from AI / 2026-09-15", added on 16 September 2026, also carries no date in the body of its primary source.
+This book records the date given in the page metadata alongside the date from secondary reporting.
+
 **Forecasts made before 22 March 2023.** This book chose that day as its origin. Many public forecasts about the future of AI precede it, and none of them enters this registry. Without an origin the registry cannot begin; with an origin, what lies before it is severed. This book accepted the cost.
 
 **The outcomes of forecasts their authors never revisited.** The deadline of 004 "Gary Marcus / Revision of the timing of the generative-AI bubble collapse / 2024-08-03" has passed, but this book has not reached any statement in which the author directly revisits it. If the author does not look back, the outcome layer stays empty. **This book does not write in the author's place.** However many years the emptiness lasts, that does not change.
@@ -1355,6 +1484,10 @@ What follows is not a forecast by this book that these things will occur. It is 
 
 **For reporting and research.** A table in which verbatim text, dates and primary URLs are assembled, and the moment of registration is attested by signature, is available in machine-readable form. An article quoting a forecast can cite it. A researcher studying forecasting accuracy can begin from it. While the table holds eight rows, that use is limited. As rows accumulate, it widens.
 
+(Added on September 16, 2026)
+
+As of 16 September 2026, the table holds ten rows.
+
 **For the forecasters themselves.** Their forecast is recorded in their own words, with no verdict attached. If they later look back, those words enter the outcome layer. If they do not, an emptiness remains. **How a forecaster treated their own forecast becomes, itself, the record.** That may work to their advantage or against it. This book says neither.
 
 ## This book is a test case for its own proposition
@@ -1366,6 +1499,16 @@ The core proposition of this book was placed in the prologue.
 Apply it to the book itself.
 
 The first edition carries eight rows, three of them pre-resolution. The first deadline to arrive is that of 007 "Global Call for AI Red Lines / Call for an international agreement on AI red lines by the end of 2026," on 31 December 2026. When that day has passed, will an outcome row be appended in a commit separate from the registration? That is the first thing that will separate this book as a registry from this book as eight rows of hindsight.
+
+(Corrected on September 16, 2026)
+
+In the paragraph above, "The first deadline to arrive is that of 007" ceased to be true as of 16 September 2026.
+On that date, row 009 "Bernie Sanders / Hope that a treaty pausing advanced AI development and banning superintelligence will be negotiated at the US-China summit / 2026-09-15" was added, and its deadline is "next week," that is, the week of 21 to 27 September 2026.
+The original paragraph is kept as the first-edition text, and the correction is recorded here.
+
+The first deadline to arrive is now that of row 009.
+The first test of this book against its own proposition has moved forward from 31 December 2026 to that week.
+When that deadline passes, whether an outcome is appended in a commit separate from the registration will be asked here for the first time.
 
 In other words, **this book has not yet proved its own proposition.** Proof occurs row by row, in the course of pre-resolution rows acquiring their outcomes. What the first edition can show is only that the registry is placed in a shape where that course is possible.
 

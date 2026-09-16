@@ -4,7 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Rows](https://img.shields.io/badge/Rows-8-informational)](data/registry.csv)
+[![Rows](https://img.shields.io/badge/Rows-10-informational)](data/registry.csv)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--14-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
 
 <p align="left">
@@ -111,6 +111,7 @@ The epilogue lists what could not be recorded: the truth of forecasts without de
 | --- | --- | --- |
 | [the-ai-forecast-registry_JP.md](./docs/jp/the-ai-forecast-registry_JP.md) | 🇯🇵 Japanese | Full text (Japanese edition) |
 | [the-ai-forecast-registry_EN.md](./docs/en/the-ai-forecast-registry_EN.md) | 🇺🇸 English | Full text (English edition) |
+| [RUNBOOK.md](./docs/RUNBOOK.md) | 🇯🇵 Japanese | Update runbook. The author is the sole writer to the registry; this publishes the procedure they follow |
 
 ---
 
@@ -122,9 +123,18 @@ This is an **append-only** open-source book. A row, once recorded, is never dele
 
 **The next test is 31 December 2026.** Of the three pre-resolution rows in the first edition, the first deadline to arrive is the Global Call for AI Red Lines' "international agreement by the end of 2026." When that day has passed, will an outcome row be appended in a commit separate from the registration? **That is the first thing that will separate this book as a registry from this book as eight rows of hindsight.**
 
+(Corrected on September 16, 2026)
+
+In the paragraph above, "The next test is 31 December 2026" ceased to be true as of 16 September 2026.
+On that date, row 009 "Bernie Sanders / Hope that a treaty pausing advanced AI development and banning superintelligence will be negotiated at the US-China summit / 2026-09-15" was added, and its deadline is "next week," that is, the week of 21 to 27 September 2026.
+The original paragraph is kept as the first-edition text.
+
+The next test is the week of 21 to 27 September 2026.
+
 | Version | Date | Contents |
 | --- | --- | --- |
 | **v1.0** | 2026-09-14 | First edition (8 rows / 5 post-resolution, 3 pre-resolution / 7 primary, 1 secondary) |
+| — | 2026-09-16 | Registered rows 009 and 010 (10 rows / 5 post-resolution, 5 pre-resolution / 9 primary, 1 secondary). Version unchanged |
 
 ---
 

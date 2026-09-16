@@ -21,13 +21,19 @@
 > secondary. Its central claim: a forecast becomes a record that can be
 > consulted later only if it was in a shape that could be settled, and
 > was inscribed before it was.
+>
+> (Added on September 16, 2026)
+> On September 16, 2026, rows 009 and 010 were registered. The registry
+> now carries ten rows: five post-resolution, five pre-resolution; nine
+> primary, one secondary.
 
 ## Book Content
 
 - [Full text (Japanese)](docs/jp/the-ai-forecast-registry_JP.md): 序章・全8章・終章収録
 - [Full text (English)](docs/en/the-ai-forecast-registry_EN.md): Complete English edition
-- [Registry (canonical)](data/registry.json): Single registry shared by both editions, 8 rows, 38 columns, with column definitions and operating rules
+- [Registry (canonical)](data/registry.json): Single registry shared by both editions, 10 rows as of September 16, 2026 (8 in the first edition), 38 columns, with column definitions and operating rules
 - [Registry (derived)](data/registry.csv): Spreadsheet form generated from the canonical file
+- [Update runbook](docs/RUNBOOK.md): Japanese-only. The operational procedure the sole author follows to add, revise, and append outcomes to rows, published so readers can verify how the registry is maintained, not itself a source of Key Facts below
 
 ## Key Facts (as stated in the book)
 
@@ -234,6 +240,19 @@
   hindsight. It states that this places the book in the same position as
   the forecasters it records, who wrote deadlines and then divided into
   those who looked back and those who did not
+
+- (Added on September 16, 2026) On September 16, 2026, the book registered row 009 "Bernie
+  Sanders / Hope that a treaty pausing advanced AI development and
+  banning superintelligence will be negotiated at the US-China summit /
+  2026-09-15" and row 010 "Bill Gates / Decisions in the next 12 to 18
+  months that determine who benefits from AI / 2026-09-15," both from
+  primary sources reached that day and both pre-resolution. It records
+  row 009's deadline as "next week," the week of September 21 to 27,
+  2026, which makes it the first pre-resolution row to reach its
+  deadline, ahead of the Global Call for AI Red Lines. It classifies
+  row 009 as a row whose predicate leaves interpretation and row 010 as
+  a row awaiting its author's adjudication, so that of ten rows, two
+  can still be settled by a third party
 
 - The book discloses what it has not reached in primary form as of the
   first edition: the "AI 2027" document itself at ai-2027.com, whose
