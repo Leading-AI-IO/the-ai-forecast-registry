@@ -182,6 +182,7 @@ This book is cross-connected with the following open-source projects.
 | **Will AI Break the Planet**        | Tens of trillions in infrastructure investment and the irreversible line | [GitHub](https://github.com/Leading-AI-IO/will-ai-break-the-planet)       |
 | **The Forward Deployed Shift**      | Where value sits once AI has finished "building" | [GitHub](https://github.com/Leading-AI-IO/the-forward-deployed-shift)     |
 | **Earned AI Model Optionality**     | You can choose your AI model — if you built the ability to choose | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)    |
+| **the Japan Breach Registry 2026** | The Japan Breach Registry 2026 | [GitHub](https://github.com/Leading-AI-IO/the-japan-breach-registry-2026)  |
 
 ---
 
