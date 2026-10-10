@@ -193,6 +193,7 @@ Future of Life Instituteの書簡について、本書は「停止は実現し�
 | **Will AI Break the Planet**        | 数十兆円のインフラ投資と、地球温暖化の「不可逆ライン」 | [GitHub](https://github.com/Leading-AI-IO/will-ai-break-the-planet)       |
 | **The Forward Deployed Shift**      | 成果実装 ── FDEが示す、AIで「作る」が終わった世界の価値のありか | [GitHub](https://github.com/Leading-AI-IO/the-forward-deployed-shift)     |
 | **Earned AI Model Optionality**     | AIモデルは選べる。選べるのは、選べるようにした企業だけだ | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)    |
+| **the Japan Breach Registry 2026** | 2026年秋、日本の企業・組織を襲った個人情報漏えいの波 ── 事実台帳から分かる客観的分析結果。 | [GitHub](https://github.com/Leading-AI-IO/the-japan-breach-registry-2026)  |
 
 ---
 
