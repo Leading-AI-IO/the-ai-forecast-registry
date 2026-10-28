@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
 [![Rows](https://img.shields.io/badge/Rows-23-informational)](data/registry.csv)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--14-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--29-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="80%">
