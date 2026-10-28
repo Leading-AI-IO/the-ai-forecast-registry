@@ -1094,7 +1094,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | Secondary reporting states that, as a closed briefing, it has no transcript. The question (how long Congress has) comes from the reporter's narration, not from a verbatim exchange. The briefing was convened by Bernie Sanders, the speaker of row 009 |
 
 (Added on October 29, 2026)
@@ -1123,7 +1123,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | The footnote marker at the end of the quotation is omitted. The abstract states "AI systems are on track to automate most AI R&D work within a few years, and possibly all of it." Only the mid-2028 statement is included in this row. The authors include Jack Clark, the speaker of rows 015, 018 and 022 |
 
 (Added on October 29, 2026)
@@ -1152,7 +1152,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | The subject comes from two sentences earlier: "They are already starting to work on training AIs to do the whole research process, not just the coding." ("they" being the leading AI companies). The written testimony posted on the committee site, https://www.hsgac.senate.gov/wp-content/uploads/Daniel-Kokotajlo-Testimony.pdf, does not contain this sentence. The speaker is a member of AI Futures Project, the speaker of row 006. Row 014 comes from testimony at the same hearing |
 
 (Added on October 29, 2026)
@@ -1181,7 +1181,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | Footnote markers 2 and 3 stand between the quotation and the following sentence. In a lightly edited third-party transcript of the oral testimony the phrase appears as "within two years." Same hearing as row 013 |
 
 (Added on October 29, 2026)
@@ -1210,7 +1210,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | The speaker states in the same sentence that he has moved his earlier expectation (2028) to 2027. The primary source of the earlier expectation is not yet recorded in the registry as of this registration |
 
 (Added on October 29, 2026)
@@ -1239,7 +1239,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | A statement of an upside scenario not included in the baseline. The following sentence states that the baseline assumes no exogenous acceleration in productivity growth from AI |
 
 (Added on October 29, 2026)
@@ -1268,7 +1268,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | The words in parentheses (hacking incidents, major) were inserted by the wire service and are not the speaker's. Another copy (via the Economic Times) reads "could be major looking into next year and the next couple years." No video or transcript was reached |
 
 (Added on October 29, 2026)
@@ -1297,7 +1297,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | Presented as the result of modelling by his own organisation ("our own modeling"). The same lecture contains another statement ("We are only a few short years from AI systems not only doing science, but inventing their own new scientific equipment"). Only the 2030 statement is included in this row |
 
 (Added on October 29, 2026)
@@ -1326,7 +1326,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | The two transcripts differ (in The Motley Fool's, the preceding sentence begins "And there's still ..." and the following sentence begins "So that's the time ..."). Tesla's official recording or transcript was not reached. On the same call he said deliveries to customers are "likely to be towards the end of next year," and that reaching a rate of 20,000 units a week would take "at least a year, maybe a little longer." Only the statement about solving the issues and external deliveries is included in this row |
 
 (Added on October 29, 2026)
@@ -1355,7 +1355,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | Meta's official transcript was not reached. The date of the call is as stated in the transcript. On the same call he also said "My view is that we will be able to build super intelligence through scaling" (no deadline) |
 
 (Added on October 29, 2026)
@@ -1384,7 +1384,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | Published as remarks taken down by the reporter (source tier recorded as secondary). The trailing comma of the quotation is as in the original. The same article contains another statement (that healthcare models will get "an order of magnitude better in capability within the next 24 to 36 months", a partial quotation within the reporter's narration). Only the 2027 statement is included in this row |
 
 (Added on October 29, 2026)
@@ -1413,7 +1413,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | According to the preceding sentence, the score went from 0% earlier in the year to 20% at the time of writing |
 
 (Added on October 29, 2026)
@@ -1442,7 +1442,7 @@ Primary 17, secondary 6.
 | Forecaster's own later assessment | (none; deadline not yet elapsed) |
 | Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
 | Pre- / post-resolution | Pre-resolution |
-| Registration commit |  |
+| Registration commit |`0fcc7c5ba3444e81da216fa715a48be655cf1a8f` |
 | Notes | The preceding sentence is the section heading placed immediately before the quotation. The following sentence is the first item of the bullet list that follows. The cover is marked "Subject to Completion," and the wording may change in later amendments. The same filing cites IDC's estimate of a cumulative global economic impact of $22.5 trillion by 2031 and states "We believe the impact could be even greater." (not included in this row because it rests on a third-party estimate) |
 
 ---
