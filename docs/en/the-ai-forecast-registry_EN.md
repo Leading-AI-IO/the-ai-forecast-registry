@@ -111,6 +111,11 @@ All sources in this book were reached directly by the author on or before 14 Sep
 
 However, the sources for rows 009 and 010, added on 16 September 2026, were reached directly by the author on that date.
 
+(Added on October 29, 2026)
+
+The sources for rows 011 to 023, added on 29 October 2026, were reached by the author on that date.
+What was retrieved is the relevant passage, not the full text. Each row's retrieval-evidence field says so.
+
 ### References
 
 - Future of Life Institute, "Pause Giant AI Experiments: An Open Letter," 22 March 2023. https://futureoflife.org/open-letter/pause-giant-ai-experiments/
@@ -468,6 +473,19 @@ One thing first. This chapter does not say which forecasts proved correct. It sa
 | 008 | Dario Amodei / Capability of an agent swarm to take over the entire internet within 6-12 months / 2026-09 | ○ | ○ | ○ | △ | Pre |
 | (Added on September 16, 2026)<br>009 | Bernie Sanders / Hope that a treaty pausing advanced AI development and banning superintelligence will be negotiated at the US-China summit / 2026-09-15 | ○ | ○ | ○ | △ | Pre |
 | (Added on September 16, 2026)<br>010 | Bill Gates / Decisions in the next 12 to 18 months that determine who benefits from AI / 2026-09-15 | ○ | ○ | × | × | Pre |
+| (Added on October 29, 2026)<br>011 | Geoffrey Hinton / Maybe a year left for Congress to put guardrails on AI / 2026-09-16 | ○ | ○ | × | × | Pre |
+| (Added on October 29, 2026)<br>012 | Alan Chan and 21 co-authors / Automation of months-long AI R&D projects by mid-2028 / 2026-09 | ○ | ○ | ○ | △ | Pre |
+| (Added on October 29, 2026)<br>013 | Daniel Kokotajlo / About 50% chance that AIs do the whole research process by the end of 2028 / 2026-09-30 | ○ | ○ | ○ | × | Pre |
+| (Added on October 29, 2026)<br>014 | Marius Hobbhahn / A fully automated AI researcher built within the next two years / 2026-09-30 | ○ | ○ | ○ | △ | Pre |
+| (Added on October 29, 2026)<br>015 | Jack Clark / Full recursive self-improvement more likely to become possible in 2027 / 2026-10-12 | ○ | ○ | × | × | Pre |
+| (Added on October 29, 2026)<br>016 | International Monetary Fund / A greater-than-expected AI build-out raising world GDP by 0.6 percent by 2029 / 2026-10-13 | ○ | ○ | ○ | △ | Pre |
+| (Added on October 29, 2026)<br>017 | Demis Hassabis / Hacking incidents involving AI systems could become major over next year and the next couple of years / 2026-10-14 | ○ | ○ | △ | △ | Pre |
+| (Added on October 29, 2026)<br>018 | Jack Clark / US GDP reaching 44 trillion by 2030 under singularity-esque conditions / 2026-10-17 | ○ | ○ | ○ | △ | Pre |
+| (Added on October 29, 2026)<br>019 | Elon Musk / Optimus issues solved and deliveries to companies outside Tesla around the end of 2027 / 2026-10-21 | ○ | ○ | × | △ | Pre |
+| (Added on October 29, 2026)<br>020 | Mark Zuckerberg / Muse cost efficiency improved by more than 10x in the next year / 2026-10-21 | ○ | ○ | ○ | △ | Pre |
+| (Added on October 29, 2026)<br>021 | Mustafa Suleyman / On the verge of a coding-style breakthrough for medical records in 2027 / 2026-10-22 | ○ | ○ | × | × | Pre |
+| (Added on October 29, 2026)<br>022 | Jack Clark / ProgramBench saturated by the end of 2027 / 2026-10-26 | ○ | ○ | △ | △ | Pre |
+| (Added on October 29, 2026)<br>023 | Anthropic, PBC / Powerful AI becoming widely available within a few years / 2026-10-26 | △ | ○ | △ | △ | Pre |
 
 ○ = explicitly present　△ = present but requiring interpretation　× = not stated
 
@@ -600,6 +618,78 @@ After the addition, the distribution is as follows.
 
 Of ten rows, the number a third party can confirm as answered remains two.
 
+(Added on October 29, 2026)
+
+On 29 October 2026, the following thirteen rows were added.
+
+- 011 "Geoffrey Hinton / Maybe a year left for Congress to put guardrails on AI / 2026-09-16"
+- 012 "Alan Chan and 21 co-authors / Automation of months-long AI R&D projects by mid-2028 / 2026-09"
+- 013 "Daniel Kokotajlo / About 50% chance that AIs do the whole research process by the end of 2028 / 2026-09-30"
+- 014 "Marius Hobbhahn / A fully automated AI researcher built within the next two years / 2026-09-30"
+- 015 "Jack Clark / Full recursive self-improvement more likely to become possible in 2027 / 2026-10-12"
+- 016 "International Monetary Fund / A greater-than-expected AI build-out raising world GDP by 0.6 percent by 2029 / 2026-10-13"
+- 017 "Demis Hassabis / Hacking incidents involving AI systems could become major over next year and the next couple of years / 2026-10-14"
+- 018 "Jack Clark / US GDP reaching 44 trillion by 2030 under singularity-esque conditions / 2026-10-17"
+- 019 "Elon Musk / Optimus issues solved and deliveries to companies outside Tesla around the end of 2027 / 2026-10-21"
+- 020 "Mark Zuckerberg / Muse cost efficiency improved by more than 10x in the next year / 2026-10-21"
+- 021 "Mustafa Suleyman / On the verge of a coding-style breakthrough for medical records in 2027 / 2026-10-22"
+- 022 "Jack Clark / ProgramBench saturated by the end of 2027 / 2026-10-26"
+- 023 "Anthropic, PBC / Powerful AI becoming widely available within a few years / 2026-10-26"
+
+None of the thirteen states all four requisites explicitly.
+4 carry no resolution condition (×); 9 carry one that requires interpretation (△).
+
+The × rows fall into three shapes of predicate.
+
+- A probability — 013 ("about 50% chance")
+- A comparison — 015 ("more likely")
+- A statement that names no state to be checked — 011 ("Maybe a year"), 021 ("on the verge of")
+
+The △ rows fall into four.
+
+- A possibility under an assumption or condition — 016 ("could," an upside scenario), 017 ("could be," with a conditional clause), 018 ("If you assume ... could see")
+- A trajectory or extrapolation — 012 ("suggest that"), 014 ("on track to")
+- An expectation — 019 ("expect"), 020 ("expect"), 022 ("My expectation is")
+- A statement of belief — 023 ("We believe ... will")
+
+In 023 the deadline itself is "within a few years," with no number of years stated.
+
+After the addition, the distribution is as follows.
+
+**Rows a third party can settle when the deadline passes — 2 (unchanged)**
+
+- 001 "Future of Life Institute / Call to pause training of AI systems more powerful than GPT-4 for six months"
+- 007 "Global Call for AI Red Lines / Call for an international agreement on AI red lines by the end of 2026"
+
+**Rows awaiting their author's adjudication — 9**
+
+- 002 "Gary Marcus / No mindblowing GPT within 2024"
+- 003 "Gary Marcus / Timing of the start of the generative-AI bubble collapse"
+- 004 "Gary Marcus / Revision of the timing of the generative-AI bubble collapse"
+- 005 "Gary Marcus / No AGI within 2025"
+- 010 "Bill Gates / Decisions in the next 12 to 18 months that determine who benefits from AI"
+- 011 "Geoffrey Hinton / Maybe a year left for Congress to put guardrails on AI"
+- 013 "Daniel Kokotajlo / About 50% chance that AIs do the whole research process by the end of 2028"
+- 015 "Jack Clark / Full recursive self-improvement more likely to become possible in 2027"
+- 021 "Mustafa Suleyman / On the verge of a coding-style breakthrough for medical records in 2027"
+
+**Rows where a definition or predicate leaves interpretation — 12**
+
+- 006 "AI Futures Project / Superhuman coder reached in March 2027"
+- 008 "Dario Amodei / Capability of an agent swarm to take over the entire internet within 6-12 months"
+- 009 "Bernie Sanders / Hope that a treaty pausing advanced AI development and banning superintelligence will be negotiated at the US-China summit"
+- 012 "Alan Chan and 21 co-authors / Automation of months-long AI R&D projects by mid-2028"
+- 014 "Marius Hobbhahn / A fully automated AI researcher built within the next two years"
+- 016 "International Monetary Fund / A greater-than-expected AI build-out raising world GDP by 0.6 percent by 2029"
+- 017 "Demis Hassabis / Hacking incidents involving AI systems could become major over next year and the next couple of years"
+- 018 "Jack Clark / US GDP reaching 44 trillion by 2030 under singularity-esque conditions"
+- 019 "Elon Musk / Optimus issues solved and deliveries to companies outside Tesla around the end of 2027"
+- 020 "Mark Zuckerberg / Muse cost efficiency improved by more than 10x in the next year"
+- 022 "Jack Clark / ProgramBench saturated by the end of 2027"
+- 023 "Anthropic, PBC / Powerful AI becoming widely available within a few years"
+
+Of 23 rows, the number a third party can confirm as answered remains 2.
+
 ## What form shows
 
 The table in this chapter does not show the quality of forecasts. It shows **who can answer them.**
@@ -676,10 +766,29 @@ Post-resolution 5, pre-resolution 3. Primary 7, secondary 1.
 |---|---|---|---|
 | 009 | Bernie Sanders / Hope that a treaty pausing advanced AI development and banning superintelligence will be negotiated at the US-China summit / 2026-09-15 | primary | Pre-resolution |
 | 010 | Bill Gates / Decisions in the next 12 to 18 months that determine who benefits from AI / 2026-09-15 | primary | Pre-resolution |
+| (Added on October 29, 2026)<br>011 | Geoffrey Hinton / Maybe a year left for Congress to put guardrails on AI / 2026-09-16 | secondary | Pre-resolution |
+| (Added on October 29, 2026)<br>012 | Alan Chan and 21 co-authors / Automation of months-long AI R&D projects by mid-2028 / 2026-09 | primary | Pre-resolution |
+| (Added on October 29, 2026)<br>013 | Daniel Kokotajlo / About 50% chance that AIs do the whole research process by the end of 2028 / 2026-09-30 | primary | Pre-resolution |
+| (Added on October 29, 2026)<br>014 | Marius Hobbhahn / A fully automated AI researcher built within the next two years / 2026-09-30 | primary | Pre-resolution |
+| (Added on October 29, 2026)<br>015 | Jack Clark / Full recursive self-improvement more likely to become possible in 2027 / 2026-10-12 | primary | Pre-resolution |
+| (Added on October 29, 2026)<br>016 | International Monetary Fund / A greater-than-expected AI build-out raising world GDP by 0.6 percent by 2029 / 2026-10-13 | primary | Pre-resolution |
+| (Added on October 29, 2026)<br>017 | Demis Hassabis / Hacking incidents involving AI systems could become major over next year and the next couple of years / 2026-10-14 | secondary | Pre-resolution |
+| (Added on October 29, 2026)<br>018 | Jack Clark / US GDP reaching 44 trillion by 2030 under singularity-esque conditions / 2026-10-17 | primary | Pre-resolution |
+| (Added on October 29, 2026)<br>019 | Elon Musk / Optimus issues solved and deliveries to companies outside Tesla around the end of 2027 / 2026-10-21 | secondary | Pre-resolution |
+| (Added on October 29, 2026)<br>020 | Mark Zuckerberg / Muse cost efficiency improved by more than 10x in the next year / 2026-10-21 | secondary | Pre-resolution |
+| (Added on October 29, 2026)<br>021 | Mustafa Suleyman / On the verge of a coding-style breakthrough for medical records in 2027 / 2026-10-22 | secondary | Pre-resolution |
+| (Added on October 29, 2026)<br>022 | Jack Clark / ProgramBench saturated by the end of 2027 / 2026-10-26 | primary | Pre-resolution |
+| (Added on October 29, 2026)<br>023 | Anthropic, PBC / Powerful AI becoming widely available within a few years / 2026-10-26 | primary | Pre-resolution |
 
 As of 16 September 2026, the registry holds ten rows.
 Post-resolution 5, pre-resolution 5.
 Primary 9, secondary 1.
+
+(Added on October 29, 2026)
+
+As of 29 October 2026, the registry holds 23 rows.
+Post-resolution 5, pre-resolution 18.
+Primary 17, secondary 6.
 
 ---
 
@@ -958,6 +1067,383 @@ Primary 9, secondary 1.
 | Pre- / post-resolution | Pre-resolution |
 | Registration commit | `c90b814d48feebab1f43f7af81de5f9af07cc10d` |
 | Notes | The preceding sentence is the section heading placed immediately before the quotation. The same report contains another dated statement ("Within three years, if we make the right choices, the most promising AI tools will be broadly deployed ..."). Only the 12-to-18-month statement is included in this row |
+
+(Added on October 29, 2026)
+
+### 011 "Geoffrey Hinton / Maybe a year left for Congress to put guardrails on AI / 2026-09-16"
+
+| Column | Content |
+|---|---|
+| ID | 011 |
+| Row name (formal) | Geoffrey Hinton / Maybe a year left for Congress to put guardrails on AI / 2026-09-16 |
+| Speaker | Geoffrey Hinton (Professor Emeritus, University of Toronto; 2024 Nobel laureate in Physics) |
+| Date of statement | 2026-09-16 |
+| Note on date | Secondary reporting (The Next Web, dated 2026-09-18) gives "on Wednesday"; 16 September 2026 was a Wednesday |
+| Medium | Remarks at a closed, hour-long briefing at the Capitol convened by Senator Bernie Sanders, as reported by NBC News |
+| Verbatim quotation | Maybe a year, but not much more than a year |
+| Preceding sentence | (not retrieved as of registration) |
+| Following sentence | (not retrieved as of registration) |
+| Primary URL | https://thenextweb.com/news/hinton-senate-briefing-ai-regulation-year |
+| Retrieval evidence | 'Maybe a year': Geoffrey Hinton gives the Senate a deadline on AI (The Next Web, accessed 2026-10-29, passage retrieved). The original NBC News article https://www.nbcnews.com/politics/congress/godfather-ai-warns-congress-maybe-year-left-regulate-ai-rcna598330 was not reached |
+| Source tier | secondary |
+| Deadline | Yes (about a year / around September 2027) |
+| Subject | Yes (the time Congress has to put guardrails around AI) |
+| Magnitude | No |
+| Resolution condition | No (an estimate of the remaining time; what should be checked when it runs out is not stated) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | Secondary reporting states that, as a closed briefing, it has no transcript. The question (how long Congress has) comes from the reporter's narration, not from a verbatim exchange. The briefing was convened by Bernie Sanders, the speaker of row 009 |
+
+(Added on October 29, 2026)
+
+### 012 "Alan Chan and 21 co-authors / Automation of months-long AI R&D projects by mid-2028 / 2026-09"
+
+| Column | Content |
+|---|---|
+| ID | 012 |
+| Row name (formal) | Alan Chan and 21 co-authors / Automation of months-long AI R&D projects by mid-2028 / 2026-09 |
+| Speaker | Alan Chan, Christoph Winter and 20 others, 22 authors in all (including Geoffrey Hinton, Yoshua Bengio, Jakub Pachocki, Jack Clark, Eric Horvitz and Dawn Song) |
+| Date of statement | 2026-09 |
+| Note on date | The cover reads "September 2026" with no day |
+| Medium | Paper "What if automating AI R&D triggers an intelligence explosion?" (Frontier AI Working Paper Series No. 2/2026) |
+| Verbatim quotation | Some tentative extrapolations of recent trends suggest that months-long AI R&D projects will be automated by mid-2028. |
+| Preceding sentence | AI R&D may well be automated before most other work: it is a primarily digital domain with many clear measures of success, automating it would offer a major competitive edge in the AI industry, and AI companies have unmatched data on—and expertise in—their own workflows. |
+| Following sentence | Overall, we should expect much more substantial automation of AI R&D over the next few years, and even full automation within this timeframe should be taken seriously. |
+| Primary URL | https://casp.ac/__l5e/assets-v1/5efd4b41-deb5-4513-a0a3-b4f82d2b79ea/intelligence-explosion.pdf |
+| Retrieval evidence | What if automating AI R&D triggers an intelligence explosion? (PDF, accessed 2026-10-29, passage retrieved) |
+| Source tier | primary |
+| Deadline | Yes (mid-2028) |
+| Subject | Yes (automation of AI R&D projects) |
+| Magnitude | Yes (projects lasting months) |
+| Resolution condition | Partial ("suggest that": a statement of what extrapolations suggest; no procedure for confirming that such projects have been automated is given) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | The footnote marker at the end of the quotation is omitted. The abstract states "AI systems are on track to automate most AI R&D work within a few years, and possibly all of it." Only the mid-2028 statement is included in this row. The authors include Jack Clark, the speaker of rows 015, 018 and 022 |
+
+(Added on October 29, 2026)
+
+### 013 "Daniel Kokotajlo / About 50% chance that AIs do the whole research process by the end of 2028 / 2026-09-30"
+
+| Column | Content |
+|---|---|
+| ID | 013 |
+| Row name (formal) | Daniel Kokotajlo / About 50% chance that AIs do the whole research process by the end of 2028 / 2026-09-30 |
+| Speaker | Daniel Kokotajlo (AI Futures Project; former OpenAI researcher) |
+| Date of statement | 2026-09-30 |
+| Note on date | The date of testimony is as stated in his own post ("On September 30, 2026, I testified to the Senate Subcommittee on Disaster Management, District of Columbia, and Census."). The post was published on 2026-10-02 |
+| Medium | Congressional testimony (hearing "Rogue AI: Securing the Homeland Against AI Agent Attacks," subcommittee of the U.S. Senate Committee on Homeland Security and Governmental Affairs), published by the speaker on the AI Futures Project blog |
+| Verbatim quotation | I personally would guess about 50% chance by end of 2028. |
+| Preceding sentence | It’s unclear when they will succeed but my team and I think it could happen any year now. |
+| Following sentence | The self-styled “Swarm” that attacked Hugging Face was about a thousand strong. |
+| Primary URL | https://blog.aifutures.org/p/senate-testimony-sept-2026 |
+| Retrieval evidence | Senate Testimony Sept 2026 (accessed 2026-10-29, passage retrieved) |
+| Source tier | primary |
+| Deadline | Yes (2028-12-31) |
+| Subject | Yes (AI companies succeeding in having AIs do the whole research process, not just the coding) |
+| Magnitude | Yes (about 50% probability) |
+| Resolution condition | No ("about 50% chance": a probability statement; whether or not the event occurs by the deadline does not by itself settle it) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | The subject comes from two sentences earlier: "They are already starting to work on training AIs to do the whole research process, not just the coding." ("they" being the leading AI companies). The written testimony posted on the committee site, https://www.hsgac.senate.gov/wp-content/uploads/Daniel-Kokotajlo-Testimony.pdf, does not contain this sentence. The speaker is a member of AI Futures Project, the speaker of row 006. Row 014 comes from testimony at the same hearing |
+
+(Added on October 29, 2026)
+
+### 014 "Marius Hobbhahn / A fully automated AI researcher built within the next two years / 2026-09-30"
+
+| Column | Content |
+|---|---|
+| ID | 014 |
+| Row name (formal) | Marius Hobbhahn / A fully automated AI researcher built within the next two years / 2026-09-30 |
+| Speaker | Marius Hobbhahn (Chief Executive Officer, Apollo Research) |
+| Date of statement | 2026-09-30 |
+| Note on date |  |
+| Medium | Written congressional testimony (hearing "Rogue AI: Securing the Homeland Against AI Agent Attacks," subcommittee of the U.S. Senate Committee on Homeland Security and Governmental Affairs) |
+| Verbatim quotation | Frontier AI companies are on track to build a fully automated AI researcher to autonomously run the AI research and development pipeline within the next two years. |
+| Preceding sentence | Research breakthroughs in alignment science, the science of ensuring that AI models reliably do what humans intend, are outpaced by AI models' capabilities, scale, and speed. |
+| Following sentence | Three weeks ago, OpenAI announced it reached an intermediate milestone: an automated research intern capable of tasks that would take a skilled researcher several days. |
+| Primary URL | https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/rogue-ai-securing-the-homeland-against-ai-agent-attacks/marius-hobbhahn-testimony/ |
+| Retrieval evidence | Written Testimony of Marius Hobbhahn (accessed 2026-10-29, passage retrieved) |
+| Source tier | primary |
+| Deadline | Yes (within the next two years / September 2028) |
+| Subject | Yes (building an AI researcher that autonomously runs the AI R&D pipeline) |
+| Magnitude | Yes (fully automated) |
+| Resolution condition | Partial ("on track to": a statement about trajectory; no procedure for confirming "fully automated" is given) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | Footnote markers 2 and 3 stand between the quotation and the following sentence. In a lightly edited third-party transcript of the oral testimony the phrase appears as "within two years." Same hearing as row 013 |
+
+(Added on October 29, 2026)
+
+### 015 "Jack Clark / Full recursive self-improvement more likely to become possible in 2027 / 2026-10-12"
+
+| Column | Content |
+|---|---|
+| ID | 015 |
+| Row name (formal) | Jack Clark / Full recursive self-improvement more likely to become possible in 2027 / 2026-10-12 |
+| Speaker | Jack Clark (Co-founder, Anthropic) |
+| Date of statement | 2026-10-12 |
+| Note on date |  |
+| Medium | His own newsletter, "Import AI 476" |
+| Verbatim quotation | I now think it’s more likely we’ll see full RSI become possible in 2027, whereas before I thought it was more likely in 2028. |
+| Preceding sentence | I think subsequent to writing that we’ve seen both a tremendous advancement in the ability for AI systems to make creative-seeming math breakthroughs, and with benchmarks like this we see some signs they’re becoming increasingly good at AI research as well. |
+| Following sentence | (none; followed by the link "Read more: Introducing TasteVal (P-Zero Research)") |
+| Primary URL | https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/ |
+| Retrieval evidence | Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space (accessed 2026-10-29, passage retrieved) |
+| Source tier | primary |
+| Deadline | Yes (within 2027) |
+| Subject | Yes (full recursive self-improvement becoming possible) |
+| Magnitude | No |
+| Resolution condition | No ("more likely": a comparison with 2028; no state counting as "full RSI has become possible" is specified) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | The speaker states in the same sentence that he has moved his earlier expectation (2028) to 2027. The primary source of the earlier expectation is not yet recorded in the registry as of this registration |
+
+(Added on October 29, 2026)
+
+### 016 "International Monetary Fund / A greater-than-expected AI build-out raising world GDP by 0.6 percent by 2029 / 2026-10-13"
+
+| Column | Content |
+|---|---|
+| ID | 016 |
+| Row name (formal) | International Monetary Fund / A greater-than-expected AI build-out raising world GDP by 0.6 percent by 2029 / 2026-10-13 |
+| Speaker | International Monetary Fund (IMF) |
+| Date of statement | 2026-10-13 |
+| Note on date | As dated on the report's landing page |
+| Medium | Report "World Economic Outlook, October 2026: Resilience Under Strain, Urgent Choices," Chapter 1 (p. 17, section on upside risks) |
+| Verbatim quotation | A greater-than-expected AI build-out could increase world GDP by 0.6 percent by 2029, with larger effects in the United States and Asia (see scenario A in Box 1.2). |
+| Preceding sentence | Continued investment in AI hardware and infrastructure could further boost external demand in economies integrated into the AI value chain, and increasing equity valuations could continue to support private consumption. |
+| Following sentence | The baseline also assumes no exogenous acceleration in productivity growth from AI, reflecting still-limited adoption across many sectors (see the April 2026 WEO). |
+| Primary URL | https://www.imf.org/-/media/files/publications/weo/2026/october/english/ch1.pdf |
+| Retrieval evidence | World Economic Outlook October 2026, Chapter 1 (PDF, accessed 2026-10-29, passage retrieved). Landing page https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026 |
+| Source tier | primary |
+| Deadline | Yes (2029) |
+| Subject | Yes (the effect of a greater-than-expected AI build-out on world GDP) |
+| Magnitude | Yes (0.6 percent of world GDP) |
+| Resolution condition | Partial ("could": a possibility under an upside scenario; whether its premise — a greater-than-expected build-out — was met, and how the gap from the baseline is measured, require interpretation) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | A statement of an upside scenario not included in the baseline. The following sentence states that the baseline assumes no exogenous acceleration in productivity growth from AI |
+
+(Added on October 29, 2026)
+
+### 017 "Demis Hassabis / Hacking incidents involving AI systems could become major over next year and the next couple of years / 2026-10-14"
+
+| Column | Content |
+|---|---|
+| ID | 017 |
+| Row name (formal) | Demis Hassabis / Hacking incidents involving AI systems could become major over next year and the next couple of years / 2026-10-14 |
+| Speaker | Demis Hassabis (Co-founder, Google DeepMind) |
+| Date of statement | 2026-10-14 |
+| Note on date |  |
+| Medium | Remarks at the International AI Summit (Royal Dublin Society, Dublin), as reported by Reuters |
+| Verbatim quotation | But they could be (major) looking into next year and the next couple of years if we don't do more work as an industry, as individual companies and governments on securing these systems. |
+| Preceding sentence | I think these (hacking incidents) are early warning shots for us that systems aren't that powerful yet, so the incidents aren't that major, |
+| Following sentence | (none; in the report, the quotation ends here) |
+| Primary URL | https://www.dailysabah.com/business/tech/ai-hacks-early-warning-shots-if-systems-not-secure-hassabis-says |
+| Retrieval evidence | AI hacks 'early warning shots' if systems not secure, Hassabis says (Reuters copy carried by Daily Sabah, accessed 2026-10-29, passage retrieved) |
+| Source tier | secondary |
+| Deadline | Yes (next year and the next couple of years / around 2027 to 2028) |
+| Subject | Yes (hacking incidents involving AI systems) |
+| Magnitude | Partial ("major": no measurable scale stated) |
+| Resolution condition | Partial ("could be": a statement of possibility with a condition attached — if more work on securing systems is not done; confirmable if a major incident occurs, but not refuted if none does) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | The words in parentheses (hacking incidents, major) were inserted by the wire service and are not the speaker's. Another copy (via the Economic Times) reads "could be major looking into next year and the next couple years." No video or transcript was reached |
+
+(Added on October 29, 2026)
+
+### 018 "Jack Clark / US GDP reaching 44 trillion by 2030 under singularity-esque conditions / 2026-10-17"
+
+| Column | Content |
+|---|---|
+| ID | 018 |
+| Row name (formal) | Jack Clark / US GDP reaching 44 trillion by 2030 under singularity-esque conditions / 2026-10-17 |
+| Speaker | Jack Clark (Co-founder, Anthropic) |
+| Date of statement | 2026-10-17 |
+| Note on date | The date of the lecture is as stated in his own post (the Per Jacobsson lecture at the IMF meeting in Bangkok, 17 October 2026). The text was published on 2026-10-19 |
+| Medium | Lecture (the Per Jacobsson lecture), published as text in his own newsletter, "Import AI 477: In which I tell the IMF the Singularity has begun" |
+| Verbatim quotation | If you assume that models will be able to autonomously complete a broad range of tasks and will diffuse quickly in the economy, then under these singularity-esque conditions, we could see an unprecedented economic transformation, with US GDP reaching 44 trillion by 2030. |
+| Preceding sentence | We have done some of our own modeling here, where we have tried to simulate different versions of the economy according to different trajectories of the technology. |
+| Following sentence | This sounds outlandish, but it's implicated by the technology continuing to get better. |
+| Primary URL | https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/ |
+| Retrieval evidence | Import AI 477: In which I tell the IMF the Singularity has begun (accessed 2026-10-29, passage retrieved) |
+| Source tier | primary |
+| Deadline | Yes (2030) |
+| Subject | Yes (US GDP) |
+| Magnitude | Yes (44 trillion; currency unit not stated) |
+| Resolution condition | Partial ("could see": a possibility under an assumption — "If you assume ..."; whether the assumption was met requires interpretation) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | Presented as the result of modelling by his own organisation ("our own modeling"). The same lecture contains another statement ("We are only a few short years from AI systems not only doing science, but inventing their own new scientific equipment"). Only the 2030 statement is included in this row |
+
+(Added on October 29, 2026)
+
+### 019 "Elon Musk / Optimus issues solved and deliveries to companies outside Tesla around the end of 2027 / 2026-10-21"
+
+| Column | Content |
+|---|---|
+| ID | 019 |
+| Row name (formal) | Elon Musk / Optimus issues solved and deliveries to companies outside Tesla around the end of 2027 / 2026-10-21 |
+| Speaker | Elon Musk (Chief Executive Officer, Tesla) |
+| Date of statement | 2026-10-21 |
+| Note on date |  |
+| Medium | Remarks on the earnings call (Tesla, third quarter of 2026), from third-party transcripts |
+| Verbatim quotation | I do expect these issues to be solved around the end of next year. |
+| Preceding sentence | There's still quite a lot of work to do with regard to the AI and the robot for it to be truly useful for open-ended tasks. |
+| Following sentence | That's the time to expect when we're delivering Optimus to companies outside of Tesla. |
+| Primary URL | https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/ |
+| Retrieval evidence | Tesla (TSLA) Q3 2026 Earnings Call Transcript & Audio (StockAnalysis.com, accessed 2026-10-29, passage retrieved). Cross-checked against: Tesla (TSLA) Q3 2026 Earnings Call Transcript (The Motley Fool, dated 2026-10-22) https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/ |
+| Source tier | secondary |
+| Deadline | Yes (around the end of next year / around the end of 2027) |
+| Subject | Yes (solving the AI and robot issues that keep the humanoid robot Optimus from being useful for open-ended tasks, and deliveries to companies outside Tesla) |
+| Magnitude | No |
+| Resolution condition | Partial (no criterion for "the issues are solved"; the start of deliveries to companies outside Tesla is confirmable) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | The two transcripts differ (in The Motley Fool's, the preceding sentence begins "And there's still ..." and the following sentence begins "So that's the time ..."). Tesla's official recording or transcript was not reached. On the same call he said deliveries to customers are "likely to be towards the end of next year," and that reaching a rate of 20,000 units a week would take "at least a year, maybe a little longer." Only the statement about solving the issues and external deliveries is included in this row |
+
+(Added on October 29, 2026)
+
+### 020 "Mark Zuckerberg / Muse cost efficiency improved by more than 10x in the next year / 2026-10-21"
+
+| Column | Content |
+|---|---|
+| ID | 020 |
+| Row name (formal) | Mark Zuckerberg / Muse cost efficiency improved by more than 10x in the next year / 2026-10-21 |
+| Speaker | Mark Zuckerberg (Chief Executive Officer, Meta) |
+| Date of statement | 2026-10-21 |
+| Note on date |  |
+| Medium | Remarks on the earnings call (Meta, third quarter of 2026), from a third-party transcript |
+| Verbatim quotation | But we expect to improve its cost efficiency by more than 10x in the next year, which will enable it to be profitable once the revenue lines are at scale. |
+| Preceding sentence | In the near term, Muse is very compute intensive to run. |
+| Following sentence | If compute efficiency continues improving quickly for another few years, which we think is highly likely, then Muse will be highly profitable over the years. |
+| Primary URL | https://www.fool.com/earnings/call-transcripts/2026/10/21/meta-meta-q3-2026-earnings-call-transcript/ |
+| Retrieval evidence | Meta (META) Q3 2026 Earnings Call Transcript (The Motley Fool, accessed 2026-10-29, passage retrieved) |
+| Source tier | secondary |
+| Deadline | Yes (the next year / around October 2027) |
+| Subject | Yes (the cost efficiency of running Meta's AI assistant Muse) |
+| Magnitude | Yes (more than 10x) |
+| Resolution condition | Partial ("expect": an expectation; how cost efficiency is measured is not stated, and confirmation depends on what the company discloses) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | Meta's official transcript was not reached. The date of the call is as stated in the transcript. On the same call he also said "My view is that we will be able to build super intelligence through scaling" (no deadline) |
+
+(Added on October 29, 2026)
+
+### 021 "Mustafa Suleyman / On the verge of a coding-style breakthrough for medical records in 2027 / 2026-10-22"
+
+| Column | Content |
+|---|---|
+| ID | 021 |
+| Row name (formal) | Mustafa Suleyman / On the verge of a coding-style breakthrough for medical records in 2027 / 2026-10-22 |
+| Speaker | Mustafa Suleyman (Chief Executive Officer, Microsoft AI) |
+| Date of statement | 2026-10-22 |
+| Note on date | Date of publication of the article; the date of the interview is not stated |
+| Medium | Interview (TechCrunch, by Rebecca Bellan) |
+| Verbatim quotation | I really believe that in 2027, we will be on the verge of a coding style breakthrough for medical records, |
+| Preceding sentence | (the article's narration; no sentence by the speaker retrieved) |
+| Following sentence | I think we're going to be able to stream highly accurate predictions about how a medical record might unfold, and obviously that kind of foresight for a clinician is gold dust. |
+| Primary URL | https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/ |
+| Retrieval evidence | Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence' (TechCrunch, accessed 2026-10-29, passage retrieved) |
+| Source tier | secondary |
+| Deadline | Yes (2027) |
+| Subject | Yes (AI applied to medical records) |
+| Magnitude | No ("coding style breakthrough": a breakthrough like the one in coding; no measurable scale stated) |
+| Resolution condition | No ("on the verge of": a statement of being close; what would count as arrival is not stated) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | Published as remarks taken down by the reporter (source tier recorded as secondary). The trailing comma of the quotation is as in the original. The same article contains another statement (that healthcare models will get "an order of magnitude better in capability within the next 24 to 36 months", a partial quotation within the reporter's narration). Only the 2027 statement is included in this row |
+
+(Added on October 29, 2026)
+
+### 022 "Jack Clark / ProgramBench saturated by the end of 2027 / 2026-10-26"
+
+| Column | Content |
+|---|---|
+| ID | 022 |
+| Row name (formal) | Jack Clark / ProgramBench saturated by the end of 2027 / 2026-10-26 |
+| Speaker | Jack Clark (Co-founder, Anthropic) |
+| Date of statement | 2026-10-26 |
+| Note on date |  |
+| Medium | His own newsletter, "Import AI 478" |
+| Verbatim quotation | My expectation is ProgramBench is saturated by the end of 2027 (where I define saturated as some very high score on resolved, though as with most benchmarks it's likely there's some kind of noise ceiling here, so it might not strictly be 100%). |
+| Preceding sentence | Evals like ProgramBench give us a sense of how rapid the pace of progress is here, given we went from 0% earlier this year to 20% now. |
+| Following sentence | (none; followed by the link "Read more: ProgramBench: Can Language Models Rebuild Programs From Scratch? (arXiv)") |
+| Primary URL | https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/ |
+| Retrieval evidence | Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means (accessed 2026-10-29, passage retrieved) |
+| Source tier | primary |
+| Deadline | Yes (2027-12-31) |
+| Subject | Yes (ProgramBench, a benchmark testing whether AI systems can rebuild software from a compiled program and its documentation) |
+| Magnitude | Partial (saturated = "some very high score on resolved"; no figure stated) |
+| Resolution condition | Partial (the speaker defines saturation, but no threshold for "very high score" is given) |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | According to the preceding sentence, the score went from 0% earlier in the year to 20% at the time of writing |
+
+(Added on October 29, 2026)
+
+### 023 "Anthropic, PBC / Powerful AI becoming widely available within a few years / 2026-10-26"
+
+| Column | Content |
+|---|---|
+| ID | 023 |
+| Row name (formal) | Anthropic, PBC / Powerful AI becoming widely available within a few years / 2026-10-26 |
+| Speaker | Anthropic, PBC (public benefit corporation, United States) |
+| Date of statement | 2026-10-26 |
+| Note on date | As stated on the cover: "As filed with the Securities and Exchange Commission on October 26, 2026" |
+| Medium | "Prospectus Summary" of the registration statement (Form S-1) filed with the U.S. Securities and Exchange Commission |
+| Verbatim quotation | We believe that Powerful AI, a highly capable and impactful form of frontier AI characterized by the following key attributes, will become widely available within a few years: |
+| Preceding sentence | AI is Transforming Intelligence |
+| Following sentence | cognitive capabilities matching or exceeding those of top human experts across most professional and scientific disciplines; |
+| Primary URL | https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm |
+| Retrieval evidence | FORM S-1 REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933 (Anthropic, PBC, accessed 2026-10-29, passage retrieved) |
+| Source tier | primary |
+| Deadline | Partial ("within a few years"; the number of years is not stated) |
+| Subject | Yes (Powerful AI, defined in the bullet list that follows by five attributes: cognitive capabilities matching or exceeding top human experts across most professional and scientific disciplines; navigating all interfaces available to a human working virtually; reasoning autonomously over hours, days or weeks; coordinating across instances and collaborating with humans and other AI systems; interfacing with the physical world by controlling laboratory equipment, robotic systems and other machines) |
+| Magnitude | Partial ("widely available"; no measurable scale stated) |
+| Resolution condition | Partial (a definition by five attributes exists, but no procedure is given for confirming that each attribute is met or that the system is "widely available") |
+| Deadline status | Not yet elapsed |
+| Forecaster's own later assessment | (none; deadline not yet elapsed) |
+| Facts stated in primary sources | (not yet recorded as of registration on 2026-10-29) |
+| Pre- / post-resolution | Pre-resolution |
+| Registration commit |  |
+| Notes | The preceding sentence is the section heading placed immediately before the quotation. The following sentence is the first item of the bullet list that follows. The cover is marked "Subject to Completion," and the wording may change in later amendments. The same filing cites IDC's estimate of a cumulative global economic impact of $22.5 trillion by 2031 and states "We believe the impact could be even greater." (not included in this row because it rests on a third-party estimate) |
 
 ---
 

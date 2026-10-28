@@ -26,12 +26,17 @@
 > On September 16, 2026, rows 009 and 010 were registered. The registry
 > now carries ten rows: five post-resolution, five pre-resolution; nine
 > primary, one secondary.
+>
+> (Added on October 29, 2026)
+> On October 29, 2026, rows 011 to 023 were registered. The registry
+> now carries twenty-three rows: five post-resolution, eighteen
+> pre-resolution; seventeen primary, six secondary.
 
 ## Book Content
 
 - [Full text (Japanese)](docs/jp/the-ai-forecast-registry_JP.md): 序章・全8章・終章収録
 - [Full text (English)](docs/en/the-ai-forecast-registry_EN.md): Complete English edition
-- [Registry (canonical)](data/registry.json): Single registry shared by both editions, 10 rows as of September 16, 2026 (8 in the first edition), 38 columns, with column definitions and operating rules
+- [Registry (canonical)](data/registry.json): Single registry shared by both editions, 23 rows as of October 29, 2026 (8 in the first edition), 38 columns, with column definitions and operating rules
 - [Registry (derived)](data/registry.csv): Spreadsheet form generated from the canonical file
 - [Update runbook](docs/RUNBOOK.md): Japanese-only. The operational procedure the sole author follows to add, revise, and append outcomes to rows, published so readers can verify how the registry is maintained, not itself a source of Key Facts below
 
@@ -253,6 +258,19 @@
   row 009 as a row whose predicate leaves interpretation and row 010 as
   a row awaiting its author's adjudication, so that of ten rows, two
   can still be settled by a third party
+
+- (Added on October 29, 2026) On October 29, 2026, the book registered
+  thirteen rows, 011 to 023, all pre-resolution: statements made between
+  September 16 and October 26, 2026 by Geoffrey Hinton, a 22-author
+  working paper led by Alan Chan, Daniel Kokotajlo and Marius Hobbhahn
+  (both in Senate testimony on September 30), Jack Clark (three rows),
+  the International Monetary Fund, Demis Hassabis, Elon Musk, Mark
+  Zuckerberg, Mustafa Suleyman, and Anthropic, PBC in its Form S-1
+  ("will become widely available within a few years"). Eight are from
+  primary sources and five from secondary ones. None of the thirteen
+  states all four requisites explicitly; four carry no resolution
+  condition and nine carry one that requires interpretation, so that of
+  twenty-three rows, two can still be settled by a third party
 
 - The book discloses what it has not reached in primary form as of the
   first edition: the "AI 2027" document itself at ai-2027.com, whose

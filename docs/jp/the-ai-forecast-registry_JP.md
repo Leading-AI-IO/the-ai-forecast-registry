@@ -114,6 +114,11 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 
 ただし、2026年9月16日に追記した009と010の資料は、同日に著者が直接到達したものである。
 
+（2026年10月29日追記）
+
+2026年10月29日に追記した011から023の資料は、同日に著者が到達したものである。
+到達は該当箇所の取得であり、全文の取得ではない。各行の到達証明の欄に、その旨を記す。
+
 ### 参考文献
 
 - Future of Life Institute, "Pause Giant AI Experiments: An Open Letter," March 22, 2023. https://futureoflife.org/open-letter/pause-giant-ai-experiments/
@@ -485,6 +490,19 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 | 008 | Dario Amodei／6〜12か月以内のエージェント群によるインターネット掌握能力／2026-09 | ○ | ○ | ○ | △ | 決着前 |
 | （2026年9月16日追記）<br>009 | Bernie Sanders／米中首脳会談での先端AI開発停止と超知能禁止の条約交渉への期待／2026-09-15 | ○ | ○ | ○ | △ | 決着前 |
 | （2026年9月16日追記）<br>010 | Bill Gates／AIの恩恵の行き先を決める今後12〜18か月の決定／2026-09-15 | ○ | ○ | × | × | 決着前 |
+| （2026年10月29日追記）<br>011 | Geoffrey Hinton／議会がAIに安全策を設けるまでの猶予は1年ほど／2026-09-16 | ○ | ○ | × | × | 決着前 |
+| （2026年10月29日追記）<br>012 | Alan Chan ほか22名／2028年半ばまでの数か月規模のAI研究開発プロジェクトの自動化／2026-09 | ○ | ○ | ○ | △ | 決着前 |
+| （2026年10月29日追記）<br>013 | Daniel Kokotajlo／2028年末までにAIが研究の全工程を担う確率は約50%／2026-09-30 | ○ | ○ | ○ | × | 決着前 |
+| （2026年10月29日追記）<br>014 | Marius Hobbhahn／今後2年以内の完全に自動化されたAI研究者の構築／2026-09-30 | ○ | ○ | ○ | △ | 決着前 |
+| （2026年10月29日追記）<br>015 | Jack Clark／完全な再帰的自己改善が可能になる時期の2027年への前倒し／2026-10-12 | ○ | ○ | × | × | 決着前 |
+| （2026年10月29日追記）<br>016 | 国際通貨基金（IMF）／想定を上回るAI投資による2029年までの世界GDPの0.6%押し上げ／2026-10-13 | ○ | ○ | ○ | △ | 決着前 |
+| （2026年10月29日追記）<br>017 | Demis Hassabis／来年以降の数年でAIシステムへのハッキング事件が重大化しうる／2026-10-14 | ○ | ○ | △ | △ | 決着前 |
+| （2026年10月29日追記）<br>018 | Jack Clark／特異点的な条件下での2030年までの米国GDP44兆ドル到達／2026-10-17 | ○ | ○ | ○ | △ | 決着前 |
+| （2026年10月29日追記）<br>019 | Elon Musk／2027年末頃のOptimusの課題解決とTesla外の企業への出荷／2026-10-21 | ○ | ○ | × | △ | 決着前 |
+| （2026年10月29日追記）<br>020 | Mark Zuckerberg／今後1年でのMuseのコスト効率の10倍超の改善／2026-10-21 | ○ | ○ | ○ | △ | 決着前 |
+| （2026年10月29日追記）<br>021 | Mustafa Suleyman／2027年の医療記録における「コーディング型」の飛躍の目前到達／2026-10-22 | ○ | ○ | × | × | 決着前 |
+| （2026年10月29日追記）<br>022 | Jack Clark／2027年末までのProgramBenchの飽和／2026-10-26 | ○ | ○ | △ | △ | 決着前 |
+| （2026年10月29日追記）<br>023 | Anthropic, PBC／数年以内のPowerful AIの広範な利用可能化／2026-10-26 | △ | ○ | △ | △ | 決着前 |
 
 ○＝明示されている　△＝あるが判定に解釈を要する　×＝明示されていない
 
@@ -622,6 +640,78 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 
 10行のうち、第三者が答えを確認できるのは、引き続き2行である。
 
+（2026年10月29日追記）
+
+2026年10月29日に、次の13行を追記した。
+
+- 011「Geoffrey Hinton／議会がAIに安全策を設けるまでの猶予は1年ほど／2026-09-16」
+- 012「Alan Chan ほか22名／2028年半ばまでの数か月規模のAI研究開発プロジェクトの自動化／2026-09」
+- 013「Daniel Kokotajlo／2028年末までにAIが研究の全工程を担う確率は約50%／2026-09-30」
+- 014「Marius Hobbhahn／今後2年以内の完全に自動化されたAI研究者の構築／2026-09-30」
+- 015「Jack Clark／完全な再帰的自己改善が可能になる時期の2027年への前倒し／2026-10-12」
+- 016「国際通貨基金（IMF）／想定を上回るAI投資による2029年までの世界GDPの0.6%押し上げ／2026-10-13」
+- 017「Demis Hassabis／来年以降の数年でAIシステムへのハッキング事件が重大化しうる／2026-10-14」
+- 018「Jack Clark／特異点的な条件下での2030年までの米国GDP44兆ドル到達／2026-10-17」
+- 019「Elon Musk／2027年末頃のOptimusの課題解決とTesla外の企業への出荷／2026-10-21」
+- 020「Mark Zuckerberg／今後1年でのMuseのコスト効率の10倍超の改善／2026-10-21」
+- 021「Mustafa Suleyman／2027年の医療記録における「コーディング型」の飛躍の目前到達／2026-10-22」
+- 022「Jack Clark／2027年末までのProgramBenchの飽和／2026-10-26」
+- 023「Anthropic, PBC／数年以内のPowerful AIの広範な利用可能化／2026-10-26」
+
+13行のうち、四要件をすべて明示した行はない。
+決着条件が「なし」の行は4行、「△」の行は9行である。
+
+「なし」の行は、述語の形が三つに分かれる。
+
+- 確率の言明 ── 013（about 50% chance）
+- 比較による見込み ── 015（more likely）
+- 確認する状態が述べられていない言明 ── 011（Maybe a year）、021（on the verge of）
+
+「△」の行は、述語の形が四つに分かれる。
+
+- 仮定や条件のもとでの可能性 ── 016（could、上振れシナリオ）、017（could be、条件節つき）、018（If you assume ... could see）
+- 軌道や外挿の言明 ── 012（suggest that）、014（on track to）
+- 見込み ── 019（expect）、020（expect）、022（My expectation is）
+- 確信の言明 ── 023（We believe ... will）
+
+023は期限そのものも「within a few years」であり、年数を明示していない。
+
+追記後の分布は、次のとおりである。
+
+**第三者が期限到来時に当否を確定できる行 ── 2行（変化なし）**
+
+- 001「Future of Life Institute／GPT-4超の訓練の6か月停止要求」
+- 007「Global Call for AI Red Lines／2026年末までのAIレッドライン国際合意要求」
+
+**本人の判定を待つ行 ── 9行**
+
+- 002「Gary Marcus／2024年内の画期的GPT不出現」
+- 003「Gary Marcus／生成AIバブルの崩壊開始時期」
+- 004「Gary Marcus／生成AIバブルの崩壊時期の修正」
+- 005「Gary Marcus／2025年内のAGI不到来」
+- 010「Bill Gates／AIの恩恵の行き先を決める今後12〜18か月の決定」
+- 011「Geoffrey Hinton／議会がAIに安全策を設けるまでの猶予は1年ほど」
+- 013「Daniel Kokotajlo／2028年末までにAIが研究の全工程を担う確率は約50%」
+- 015「Jack Clark／完全な再帰的自己改善が可能になる時期の2027年への前倒し」
+- 021「Mustafa Suleyman／2027年の医療記録における「コーディング型」の飛躍の目前到達」
+
+**定義または述語に解釈が残る行 ── 12行**
+
+- 006「AI Futures Project／2027年3月の超人的コーダー到達」
+- 008「Dario Amodei／6〜12か月以内のエージェント群によるインターネット掌握能力」
+- 009「Bernie Sanders／米中首脳会談での先端AI開発停止と超知能禁止の条約交渉への期待」
+- 012「Alan Chan ほか22名／2028年半ばまでの数か月規模のAI研究開発プロジェクトの自動化」
+- 014「Marius Hobbhahn／今後2年以内の完全に自動化されたAI研究者の構築」
+- 016「国際通貨基金（IMF）／想定を上回るAI投資による2029年までの世界GDPの0.6%押し上げ」
+- 017「Demis Hassabis／来年以降の数年でAIシステムへのハッキング事件が重大化しうる」
+- 018「Jack Clark／特異点的な条件下での2030年までの米国GDP44兆ドル到達」
+- 019「Elon Musk／2027年末頃のOptimusの課題解決とTesla外の企業への出荷」
+- 020「Mark Zuckerberg／今後1年でのMuseのコスト効率の10倍超の改善」
+- 022「Jack Clark／2027年末までのProgramBenchの飽和」
+- 023「Anthropic, PBC／数年以内のPowerful AIの広範な利用可能化」
+
+23行のうち、第三者が答えを確認できるのは、引き続き2行である。
+
 ## 形が示すこと
 
 この章の表は、予測の良し悪しを示していない。示しているのは、**誰がその予測に答えを出せるか**である。
@@ -697,10 +787,29 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 |---|---|---|---|
 | 009 | Bernie Sanders／米中首脳会談での先端AI開発停止と超知能禁止の条約交渉への期待／2026-09-15 | 一次 | 決着前 |
 | 010 | Bill Gates／AIの恩恵の行き先を決める今後12〜18か月の決定／2026-09-15 | 一次 | 決着前 |
+| （2026年10月29日追記）<br>011 | Geoffrey Hinton／議会がAIに安全策を設けるまでの猶予は1年ほど／2026-09-16 | 二次 | 決着前 |
+| （2026年10月29日追記）<br>012 | Alan Chan ほか22名／2028年半ばまでの数か月規模のAI研究開発プロジェクトの自動化／2026-09 | 一次 | 決着前 |
+| （2026年10月29日追記）<br>013 | Daniel Kokotajlo／2028年末までにAIが研究の全工程を担う確率は約50%／2026-09-30 | 一次 | 決着前 |
+| （2026年10月29日追記）<br>014 | Marius Hobbhahn／今後2年以内の完全に自動化されたAI研究者の構築／2026-09-30 | 一次 | 決着前 |
+| （2026年10月29日追記）<br>015 | Jack Clark／完全な再帰的自己改善が可能になる時期の2027年への前倒し／2026-10-12 | 一次 | 決着前 |
+| （2026年10月29日追記）<br>016 | 国際通貨基金（IMF）／想定を上回るAI投資による2029年までの世界GDPの0.6%押し上げ／2026-10-13 | 一次 | 決着前 |
+| （2026年10月29日追記）<br>017 | Demis Hassabis／来年以降の数年でAIシステムへのハッキング事件が重大化しうる／2026-10-14 | 二次 | 決着前 |
+| （2026年10月29日追記）<br>018 | Jack Clark／特異点的な条件下での2030年までの米国GDP44兆ドル到達／2026-10-17 | 一次 | 決着前 |
+| （2026年10月29日追記）<br>019 | Elon Musk／2027年末頃のOptimusの課題解決とTesla外の企業への出荷／2026-10-21 | 二次 | 決着前 |
+| （2026年10月29日追記）<br>020 | Mark Zuckerberg／今後1年でのMuseのコスト効率の10倍超の改善／2026-10-21 | 二次 | 決着前 |
+| （2026年10月29日追記）<br>021 | Mustafa Suleyman／2027年の医療記録における「コーディング型」の飛躍の目前到達／2026-10-22 | 二次 | 決着前 |
+| （2026年10月29日追記）<br>022 | Jack Clark／2027年末までのProgramBenchの飽和／2026-10-26 | 一次 | 決着前 |
+| （2026年10月29日追記）<br>023 | Anthropic, PBC／数年以内のPowerful AIの広範な利用可能化／2026-10-26 | 一次 | 決着前 |
 
 2026年9月16日時点で、台帳は10行になった。
 決着後 5行、決着前 5行。
 一次 9行、二次 1行。
+
+（2026年10月29日追記）
+
+2026年10月29日時点で、台帳は23行になった。
+決着後 5行、決着前 18行。
+一次 17行、二次 6行。
 
 ---
 
@@ -989,6 +1098,396 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 | 決着前／後 | 決着前 |
 | 登録コミット | `c90b814d48feebab1f43f7af81de5f9af07cc10d` |
 | 補足 | 直前の一文は、逐語引用の直前に置かれた節見出し。同報告書内に別の期限付き言明あり（「Within three years, if we make the right choices, the most promising AI tools will be broadly deployed ...」）。本行は12〜18か月の言明のみ収載 |
+
+（2026年10月29日追記）
+
+### 011「Geoffrey Hinton／議会がAIに安全策を設けるまでの猶予は1年ほど／2026-09-16」
+
+| 列 | 内容 |
+|---|---|
+| ID | 011 |
+| 行名（正式名称） | Geoffrey Hinton／議会がAIに安全策を設けるまでの猶予は1年ほど／2026-09-16 |
+| 発言者 | Geoffrey Hinton（トロント大学名誉教授・2024年ノーベル物理学賞受賞者） |
+| 発言日 | 2026-09-16 |
+| 発言日の注記 | 二次報道（The Next Web、2026-09-18付）は「on Wednesday」とする。2026年9月16日は水曜日 |
+| 媒体 | 発言（Bernie Sanders上院議員が議会内で開いた非公開・約1時間のブリーフィング）。NBC Newsの報道による |
+| 逐語引用 | Maybe a year, but not much more than a year |
+| 直前の一文 | （登録時点で未取得） |
+| 直後の一文 | （登録時点で未取得） |
+| 参考訳 | たぶん1年。ただ、1年をそれほど超えることはない。 |
+| 一次URL | https://thenextweb.com/news/hinton-senate-briefing-ai-regulation-year |
+| 到達証明 | 'Maybe a year': Geoffrey Hinton gives the Senate a deadline on AI（The Next Web、2026-10-29到達・該当箇所を取得）。初出のNBC News記事 https://www.nbcnews.com/politics/congress/godfather-ai-warns-congress-maybe-year-left-regulate-ai-rcna598330 には到達できていない |
+| 出典の階層 | 二次 |
+| 期限 | あり（1年ほど／2027年9月頃） |
+| 対象 | あり（議会がAIに安全策（ガードレール）を設けることのできる猶予） |
+| 尺度 | なし |
+| 決着条件 | なし（猶予の長さの見積もり。期限が来たときに何を確かめればよいかが述べられていない） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | 非公開のブリーフィングであり、速記録は存在しないと二次報道が記す。問い（議会に残された時間）は記者の地の文によるもので、逐語ではない。ブリーフィングを開いたBernie Sandersは009の発言者 |
+
+（2026年10月29日追記）
+
+### 012「Alan Chan ほか22名／2028年半ばまでの数か月規模のAI研究開発プロジェクトの自動化／2026-09」
+
+| 列 | 内容 |
+|---|---|
+| ID | 012 |
+| 行名（正式名称） | Alan Chan ほか22名／2028年半ばまでの数か月規模のAI研究開発プロジェクトの自動化／2026-09 |
+| 発言者 | Alan Chan、Christoph Winter ほか計22名（Geoffrey Hinton、Yoshua Bengio、Jakub Pachocki、Jack Clark、Eric Horvitz、Dawn Songらを含む） |
+| 発言日 | 2026-09 |
+| 発言日の注記 | 表紙の表示は「September 2026」で日なし |
+| 媒体 | 論文「What if automating AI R&D triggers an intelligence explosion?」（Frontier AI Working Paper Series No. 2/2026） |
+| 逐語引用 | Some tentative extrapolations of recent trends suggest that months-long AI R&D projects will be automated by mid-2028. |
+| 直前の一文 | AI R&D may well be automated before most other work: it is a primarily digital domain with many clear measures of success, automating it would offer a major competitive edge in the AI industry, and AI companies have unmatched data on—and expertise in—their own workflows. |
+| 直後の一文 | Overall, we should expect much more substantial automation of AI R&D over the next few years, and even full automation within this timeframe should be taken seriously. |
+| 参考訳 | 近年の傾向をいくつか暫定的に外挿すると、数か月を要するAI研究開発プロジェクトが2028年半ばまでに自動化されることが示唆される。 |
+| 一次URL | https://casp.ac/__l5e/assets-v1/5efd4b41-deb5-4513-a0a3-b4f82d2b79ea/intelligence-explosion.pdf |
+| 到達証明 | What if automating AI R&D triggers an intelligence explosion?（PDF、2026-10-29到達・該当箇所を取得） |
+| 出典の階層 | 一次 |
+| 期限 | あり（2028年半ば） |
+| 対象 | あり（AI研究開発プロジェクトの自動化） |
+| 尺度 | あり（数か月を要するプロジェクト） |
+| 決着条件 | △（suggest that＝外挿が示唆するという言明。「自動化された」と言える状態の確認手続きが定められていない） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | 逐語引用の文末の脚注番号は省いた。同論文の要旨に「AI systems are on track to automate most AI R&D work within a few years, and possibly all of it.」とある。本行は2028年半ばの言明のみ収載。著者に015・018・022の発言者Jack Clarkを含む |
+
+（2026年10月29日追記）
+
+### 013「Daniel Kokotajlo／2028年末までにAIが研究の全工程を担う確率は約50%／2026-09-30」
+
+| 列 | 内容 |
+|---|---|
+| ID | 013 |
+| 行名（正式名称） | Daniel Kokotajlo／2028年末までにAIが研究の全工程を担う確率は約50%／2026-09-30 |
+| 発言者 | Daniel Kokotajlo（AI Futures Project。元OpenAI研究者） |
+| 発言日 | 2026-09-30 |
+| 発言日の注記 | 証言日は本人投稿の記載（「On September 30, 2026, I testified to the Senate Subcommittee on Disaster Management, District of Columbia, and Census.」）による。投稿の掲載は2026-10-02 |
+| 媒体 | 議会証言（米上院 国土安全保障・政府問題委員会の小委員会の公聴会「Rogue AI: Securing the Homeland Against AI Agent Attacks」）。本人がAI Futures Projectのブログに証言として掲載 |
+| 逐語引用 | I personally would guess about 50% chance by end of 2028. |
+| 直前の一文 | It’s unclear when they will succeed but my team and I think it could happen any year now. |
+| 直後の一文 | The self-styled “Swarm” that attacked Hugging Face was about a thousand strong. |
+| 参考訳 | 私個人としては、2028年末までに約50%の確率だと推測する。 |
+| 一次URL | https://blog.aifutures.org/p/senate-testimony-sept-2026 |
+| 到達証明 | Senate Testimony Sept 2026（2026-10-29到達・該当箇所を取得） |
+| 出典の階層 | 一次 |
+| 期限 | あり（2028-12-31） |
+| 対象 | あり（AI企業が、コーディングだけでなく研究の全工程をAIに行わせることに成功すること） |
+| 尺度 | あり（約50%の確率） |
+| 決着条件 | なし（about 50% chance＝確率の言明。期限までに起きても起きなくても、単独では当否が定まらない） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | 対象は二文前の「They are already starting to work on training AIs to do the whole research process, not just the coding.」による（theyは先端AI企業）。委員会サイトに掲載された書面証言 https://www.hsgac.senate.gov/wp-content/uploads/Daniel-Kokotajlo-Testimony.pdf には本行の一文が含まれない。発言者は006の発言者AI Futures Projectの一員。同じ公聴会の証言に014がある |
+
+（2026年10月29日追記）
+
+### 014「Marius Hobbhahn／今後2年以内の完全に自動化されたAI研究者の構築／2026-09-30」
+
+| 列 | 内容 |
+|---|---|
+| ID | 014 |
+| 行名（正式名称） | Marius Hobbhahn／今後2年以内の完全に自動化されたAI研究者の構築／2026-09-30 |
+| 発言者 | Marius Hobbhahn（Apollo Research 最高経営責任者） |
+| 発言日 | 2026-09-30 |
+| 発言日の注記 |  |
+| 媒体 | 議会証言の書面（米上院 国土安全保障・政府問題委員会の小委員会の公聴会「Rogue AI: Securing the Homeland Against AI Agent Attacks」） |
+| 逐語引用 | Frontier AI companies are on track to build a fully automated AI researcher to autonomously run the AI research and development pipeline within the next two years. |
+| 直前の一文 | Research breakthroughs in alignment science, the science of ensuring that AI models reliably do what humans intend, are outpaced by AI models' capabilities, scale, and speed. |
+| 直後の一文 | Three weeks ago, OpenAI announced it reached an intermediate milestone: an automated research intern capable of tasks that would take a skilled researcher several days. |
+| 参考訳 | 先端AI企業は、今後2年以内に、AIの研究開発の工程を自律的に回す完全に自動化されたAI研究者を構築する軌道に乗っている。 |
+| 一次URL | https://www.hsgac.senate.gov/subcommittees/dmdcc/hearings/rogue-ai-securing-the-homeland-against-ai-agent-attacks/marius-hobbhahn-testimony/ |
+| 到達証明 | Written Testimony of Marius Hobbhahn（2026-10-29到達・該当箇所を取得） |
+| 出典の階層 | 一次 |
+| 期限 | あり（今後2年以内／2028年9月） |
+| 対象 | あり（AIの研究開発の工程を自律的に回すAI研究者の構築） |
+| 尺度 | あり（完全に自動化された） |
+| 決着条件 | △（on track to＝軌道に乗っているという言明。「完全に自動化された」の確認手続きが定められていない） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | 逐語引用と直後の一文のあいだに脚注番号2・3がある。口頭証言の書き起こし（第三者による軽い編集を経たもの）では「within two years」と表現されている。013と同じ公聴会 |
+
+（2026年10月29日追記）
+
+### 015「Jack Clark／完全な再帰的自己改善が可能になる時期の2027年への前倒し／2026-10-12」
+
+| 列 | 内容 |
+|---|---|
+| ID | 015 |
+| 行名（正式名称） | Jack Clark／完全な再帰的自己改善が可能になる時期の2027年への前倒し／2026-10-12 |
+| 発言者 | Jack Clark（Anthropic 共同創業者） |
+| 発言日 | 2026-10-12 |
+| 発言日の注記 |  |
+| 媒体 | 本人のニュースレター「Import AI 476」 |
+| 逐語引用 | I now think it’s more likely we’ll see full RSI become possible in 2027, whereas before I thought it was more likely in 2028. |
+| 直前の一文 | I think subsequent to writing that we’ve seen both a tremendous advancement in the ability for AI systems to make creative-seeming math breakthroughs, and with benchmarks like this we see some signs they’re becoming increasingly good at AI research as well. |
+| 直後の一文 | （該当なし。直後は参照リンク「Read more: Introducing TasteVal (P-Zero Research)」） |
+| 参考訳 | 私はいま、完全なRSI（再帰的自己改善）が可能になるのは2027年である可能性のほうが高いと考えている。以前は2028年の可能性のほうが高いと考えていた。 |
+| 一次URL | https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/ |
+| 到達証明 | Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space（2026-10-29到達・該当箇所を取得） |
+| 出典の階層 | 一次 |
+| 期限 | あり（2027年内） |
+| 対象 | あり（完全な再帰的自己改善（RSI）が可能になること） |
+| 尺度 | なし |
+| 決着条件 | なし（more likely＝2028年との比較による見込み。「完全なRSIが可能になった」と言える状態が定められていない） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | 本人が以前の見込み（2028年）を2027年に改めたことを、本人が同じ文の中で述べている。以前の見込みの一次資料は本行の登録時点で台帳に未収載 |
+
+（2026年10月29日追記）
+
+### 016「国際通貨基金（IMF）／想定を上回るAI投資による2029年までの世界GDPの0.6%押し上げ／2026-10-13」
+
+| 列 | 内容 |
+|---|---|
+| ID | 016 |
+| 行名（正式名称） | 国際通貨基金（IMF）／想定を上回るAI投資による2029年までの世界GDPの0.6%押し上げ／2026-10-13 |
+| 発言者 | 国際通貨基金（IMF） |
+| 発言日 | 2026-10-13 |
+| 発言日の注記 | 報告書の掲載ページの日付による |
+| 媒体 | 報告書「World Economic Outlook, October 2026: Resilience Under Strain, Urgent Choices」第1章（p.17、上振れリスクの節） |
+| 逐語引用 | A greater-than-expected AI build-out could increase world GDP by 0.6 percent by 2029, with larger effects in the United States and Asia (see scenario A in Box 1.2). |
+| 直前の一文 | Continued investment in AI hardware and infrastructure could further boost external demand in economies integrated into the AI value chain, and increasing equity valuations could continue to support private consumption. |
+| 直後の一文 | The baseline also assumes no exogenous acceleration in productivity growth from AI, reflecting still-limited adoption across many sectors (see the April 2026 WEO). |
+| 参考訳 | 想定を上回るAIの設備構築は、2029年までに世界GDPを0.6%押し上げる可能性があり、その効果は米国とアジアでより大きい（Box 1.2のシナリオAを参照）。 |
+| 一次URL | https://www.imf.org/-/media/files/publications/weo/2026/october/english/ch1.pdf |
+| 到達証明 | World Economic Outlook October 2026, Chapter 1（PDF、2026-10-29到達・該当箇所を取得）。掲載ページ https://www.imf.org/en/publications/weo/issues/2026/10/13/world-economic-outlook-october-2026 |
+| 出典の階層 | 一次 |
+| 期限 | あり（2029年） |
+| 対象 | あり（想定を上回るAIの設備構築が世界GDPに与える効果） |
+| 尺度 | あり（世界GDPの0.6%） |
+| 決着条件 | △（could＝上振れシナリオとしての可能性。前提（想定を上回る設備構築）が満たされたか、基準となる見通しとの差をどう測るかに解釈が要る） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | 基準となる見通しには含まれない上振れシナリオの言明。直後の一文は、基準となる見通しがAIによる生産性の外生的な加速を想定していないことを記す |
+
+（2026年10月29日追記）
+
+### 017「Demis Hassabis／来年以降の数年でAIシステムへのハッキング事件が重大化しうる／2026-10-14」
+
+| 列 | 内容 |
+|---|---|
+| ID | 017 |
+| 行名（正式名称） | Demis Hassabis／来年以降の数年でAIシステムへのハッキング事件が重大化しうる／2026-10-14 |
+| 発言者 | Demis Hassabis（Google DeepMind 共同創業者） |
+| 発言日 | 2026-10-14 |
+| 発言日の注記 |  |
+| 媒体 | 講演・発言（International AI Summit、ダブリンのRoyal Dublin Society）。Reutersの報道による |
+| 逐語引用 | But they could be (major) looking into next year and the next couple of years if we don't do more work as an industry, as individual companies and governments on securing these systems. |
+| 直前の一文 | I think these (hacking incidents) are early warning shots for us that systems aren't that powerful yet, so the incidents aren't that major, |
+| 直後の一文 | （該当なし。報道上、本人の引用はここで終わる） |
+| 参考訳 | しかし、業界として、個々の企業として、そして政府として、これらのシステムを守る取り組みをもっと進めなければ、来年、そしてその後の数年を見据えると、それら（の事件）は重大なものになりうる。 |
+| 一次URL | https://www.dailysabah.com/business/tech/ai-hacks-early-warning-shots-if-systems-not-secure-hassabis-says |
+| 到達証明 | AI hacks 'early warning shots' if systems not secure, Hassabis says（Daily Sabah掲載のReuters配信、2026-10-29到達・該当箇所を取得） |
+| 出典の階層 | 二次 |
+| 期限 | あり（来年とその後の数年／2027年〜2028年頃） |
+| 対象 | あり（AIシステムが関わるハッキング事件） |
+| 尺度 | △（major＝重大。測れる規模の明示なし） |
+| 決着条件 | △（could be＝可能性の言明で、条件節（安全確保の取り組みが進まなければ）を伴う。重大な事件が起きれば確認できるが、起きなくても否定されない） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | 引用中の丸括弧（hacking incidents・major）は配信社による補足で、本人の発言ではない。他の転載（Economic Times経由）では「could be major looking into next year and the next couple years」と表記が異なる。映像・書き起こしには未到達 |
+
+（2026年10月29日追記）
+
+### 018「Jack Clark／特異点的な条件下での2030年までの米国GDP44兆ドル到達／2026-10-17」
+
+| 列 | 内容 |
+|---|---|
+| ID | 018 |
+| 行名（正式名称） | Jack Clark／特異点的な条件下での2030年までの米国GDP44兆ドル到達／2026-10-17 |
+| 発言者 | Jack Clark（Anthropic 共同創業者） |
+| 発言日 | 2026-10-17 |
+| 発言日の注記 | 講演日は本人投稿の記載による（2026年10月17日、バンコクで開かれたIMFの会合でのPer Jacobsson講演）。講演原稿の掲載は2026-10-19 |
+| 媒体 | 講演（Per Jacobsson講演）。本人のニュースレター「Import AI 477: In which I tell the IMF the Singularity has begun」に講演の文面として掲載 |
+| 逐語引用 | If you assume that models will be able to autonomously complete a broad range of tasks and will diffuse quickly in the economy, then under these singularity-esque conditions, we could see an unprecedented economic transformation, with US GDP reaching 44 trillion by 2030. |
+| 直前の一文 | We have done some of our own modeling here, where we have tried to simulate different versions of the economy according to different trajectories of the technology. |
+| 直後の一文 | This sounds outlandish, but it's implicated by the technology continuing to get better. |
+| 参考訳 | モデルが幅広い作業を自律的にこなせるようになり、経済に急速に普及すると仮定すれば、こうした特異点的な条件のもとで、前例のない経済の変容が起こり、米国のGDPは2030年までに44兆に達しうる。 |
+| 一次URL | https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/ |
+| 到達証明 | Import AI 477: In which I tell the IMF the Singularity has begun（2026-10-29到達・該当箇所を取得） |
+| 出典の階層 | 一次 |
+| 期限 | あり（2030年） |
+| 対象 | あり（米国のGDP） |
+| 尺度 | あり（44兆。通貨単位の明示なし） |
+| 決着条件 | △（could see＝仮定（If you assume ...）のもとでの可能性。仮定が満たされたかの判断に解釈が要る） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | 本人が所属する組織（「our own modeling」）の試算として述べられている。同じ講演内に別の言明あり（「We are only a few short years from AI systems not only doing science, but inventing their own new scientific equipment」）。本行は2030年の言明のみ収載 |
+
+（2026年10月29日追記）
+
+### 019「Elon Musk／2027年末頃のOptimusの課題解決とTesla外の企業への出荷／2026-10-21」
+
+| 列 | 内容 |
+|---|---|
+| ID | 019 |
+| 行名（正式名称） | Elon Musk／2027年末頃のOptimusの課題解決とTesla外の企業への出荷／2026-10-21 |
+| 発言者 | Elon Musk（Tesla 最高経営責任者） |
+| 発言日 | 2026-10-21 |
+| 発言日の注記 |  |
+| 媒体 | 決算説明会（Tesla 2026年第3四半期）での発言。第三者による書き起こしによる |
+| 逐語引用 | I do expect these issues to be solved around the end of next year. |
+| 直前の一文 | There's still quite a lot of work to do with regard to the AI and the robot for it to be truly useful for open-ended tasks. |
+| 直後の一文 | That's the time to expect when we're delivering Optimus to companies outside of Tesla. |
+| 参考訳 | これらの課題は、来年の終わり頃に解決されると見込んでいる。 |
+| 一次URL | https://stockanalysis.com/stocks/tsla/transcripts/712902-q3-2026/ |
+| 到達証明 | Tesla (TSLA) Q3 2026 Earnings Call Transcript & Audio（StockAnalysis.com、2026-10-29到達・該当箇所を取得）。照合先：Tesla (TSLA) Q3 2026 Earnings Call Transcript（The Motley Fool、2026-10-22付）https://www.fool.com/earnings/call-transcripts/2026/10/22/tesla-tsla-q3-2026-earnings-call-transcript/ |
+| 出典の階層 | 二次 |
+| 期限 | あり（来年の終わり頃／2027年末頃） |
+| 対象 | あり（人型ロボットOptimusを自由な作業に使えるものにするためのAIとロボットの課題の解決と、Tesla外の企業への出荷） |
+| 尺度 | なし |
+| 決着条件 | △（「課題が解決された」の判定基準がない。Tesla外の企業への出荷の開始は確認できる） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | 二つの書き起こしで表記が異なる（The Motley Fool版は直前の一文が「And there's still ...」、直後の一文が「So that's the time ...」）。Tesla公式の録画・書き起こしには未到達。同じ説明会で本人は、顧客への出荷開始を「likely to be towards the end of next year」と述べ、2万台/週の生産ペースへの到達に「at least a year, maybe a little longer」かかるとも述べている。本行は課題解決と外部出荷の言明のみ収載 |
+
+（2026年10月29日追記）
+
+### 020「Mark Zuckerberg／今後1年でのMuseのコスト効率の10倍超の改善／2026-10-21」
+
+| 列 | 内容 |
+|---|---|
+| ID | 020 |
+| 行名（正式名称） | Mark Zuckerberg／今後1年でのMuseのコスト効率の10倍超の改善／2026-10-21 |
+| 発言者 | Mark Zuckerberg（Meta 最高経営責任者） |
+| 発言日 | 2026-10-21 |
+| 発言日の注記 |  |
+| 媒体 | 決算説明会（Meta 2026年第3四半期）での発言。第三者による書き起こしによる |
+| 逐語引用 | But we expect to improve its cost efficiency by more than 10x in the next year, which will enable it to be profitable once the revenue lines are at scale. |
+| 直前の一文 | In the near term, Muse is very compute intensive to run. |
+| 直後の一文 | If compute efficiency continues improving quickly for another few years, which we think is highly likely, then Muse will be highly profitable over the years. |
+| 参考訳 | しかし私たちは、今後1年でそのコスト効率を10倍超改善すると見込んでおり、それによって、収益源が規模に達した時点でMuseは利益を生めるようになる。 |
+| 一次URL | https://www.fool.com/earnings/call-transcripts/2026/10/21/meta-meta-q3-2026-earnings-call-transcript/ |
+| 到達証明 | Meta (META) Q3 2026 Earnings Call Transcript（The Motley Fool、2026-10-29到達・該当箇所を取得） |
+| 出典の階層 | 二次 |
+| 期限 | あり（今後1年／2027年10月頃） |
+| 対象 | あり（MetaのAIアシスタントMuseを動かすコスト効率） |
+| 尺度 | あり（10倍超） |
+| 決着条件 | △（expect＝見込み。コスト効率の測り方が示されておらず、確認は会社の開示に依存する） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | Meta公式の書き起こしには未到達。説明会の日付は書き起こしの記載による。同じ説明会で本人は「My view is that we will be able to build super intelligence through scaling」とも述べている（期限なし） |
+
+（2026年10月29日追記）
+
+### 021「Mustafa Suleyman／2027年の医療記録における「コーディング型」の飛躍の目前到達／2026-10-22」
+
+| 列 | 内容 |
+|---|---|
+| ID | 021 |
+| 行名（正式名称） | Mustafa Suleyman／2027年の医療記録における「コーディング型」の飛躍の目前到達／2026-10-22 |
+| 発言者 | Mustafa Suleyman（Microsoft AI 最高経営責任者） |
+| 発言日 | 2026-10-22 |
+| 発言日の注記 | 記事の掲載日。インタビューの実施日は記事に記載なし |
+| 媒体 | インタビュー（TechCrunch、聞き手Rebecca Bellan） |
+| 逐語引用 | I really believe that in 2027, we will be on the verge of a coding style breakthrough for medical records, |
+| 直前の一文 | （記事の地の文。本人の発言としては未取得） |
+| 直後の一文 | I think we're going to be able to stream highly accurate predictions about how a medical record might unfold, and obviously that kind of foresight for a clinician is gold dust. |
+| 参考訳 | 私は本当に、2027年には、医療記録においてコーディングのような飛躍の目前に来ていると信じている。 |
+| 一次URL | https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/ |
+| 到達証明 | Microsoft's Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases 'medical superintelligence'（TechCrunch、2026-10-29到達・該当箇所を取得） |
+| 出典の階層 | 二次 |
+| 期限 | あり（2027年） |
+| 対象 | あり（医療記録を扱うAI） |
+| 尺度 | なし（coding style breakthrough＝コーディングで起きたような飛躍。測れる尺度の明示なし） |
+| 決着条件 | なし（on the verge of＝目前にあるという言明。何をもって到達とするかが述べられていない） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | 記者が本人から聞き取った発言として記事に掲載されたもの（出典の階層は二次とした）。逐語引用の末尾の読点は原文のまま。同記事に別の言明あり（医療向けモデルが「an order of magnitude better in capability within the next 24 to 36 months」になるとの見込み。記事の地の文に含まれる部分引用）。本行は2027年の言明のみ収載 |
+
+（2026年10月29日追記）
+
+### 022「Jack Clark／2027年末までのProgramBenchの飽和／2026-10-26」
+
+| 列 | 内容 |
+|---|---|
+| ID | 022 |
+| 行名（正式名称） | Jack Clark／2027年末までのProgramBenchの飽和／2026-10-26 |
+| 発言者 | Jack Clark（Anthropic 共同創業者） |
+| 発言日 | 2026-10-26 |
+| 発言日の注記 |  |
+| 媒体 | 本人のニュースレター「Import AI 478」 |
+| 逐語引用 | My expectation is ProgramBench is saturated by the end of 2027 (where I define saturated as some very high score on resolved, though as with most benchmarks it's likely there's some kind of noise ceiling here, so it might not strictly be 100%). |
+| 直前の一文 | Evals like ProgramBench give us a sense of how rapid the pace of progress is here, given we went from 0% earlier this year to 20% now. |
+| 直後の一文 | （該当なし。直後は参照リンク「Read more: ProgramBench: Can Language Models Rebuild Programs From Scratch? (arXiv)」） |
+| 参考訳 | 私の見込みでは、ProgramBenchは2027年末までに飽和する（ここでいう飽和とは、resolved（解決）で非常に高い得点を取ることを指す。ただし多くのベンチマークと同様に、何らかのノイズによる上限がありそうなので、厳密に100%にはならないかもしれない）。 |
+| 一次URL | https://jack-clark.net/2026/10/26/import-ai-478-math-for-alignment-programbench-and-mirendil-shows-what-rsi-means/ |
+| 到達証明 | Import AI 478: Math for alignment; ProgramBench; and Mirendil shows what RSI means（2026-10-29到達・該当箇所を取得） |
+| 出典の階層 | 一次 |
+| 期限 | あり（2027-12-31） |
+| 対象 | あり（ProgramBench＝コンパイル済みのプログラムと文書から、AIがそのソフトウェアを作り直せるかを測るベンチマーク） |
+| 尺度 | △（飽和＝resolvedで「非常に高い得点」。数値の明示なし） |
+| 決着条件 | △（本人が飽和を定義しているが、「非常に高い得点」の閾値が定められていない） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | 直前の一文によれば、得点は同年初めの0%から投稿時点で20% |
+
+（2026年10月29日追記）
+
+### 023「Anthropic, PBC／数年以内のPowerful AIの広範な利用可能化／2026-10-26」
+
+| 列 | 内容 |
+|---|---|
+| ID | 023 |
+| 行名（正式名称） | Anthropic, PBC／数年以内のPowerful AIの広範な利用可能化／2026-10-26 |
+| 発言者 | Anthropic, PBC（米国・パブリック・ベネフィット・コーポレーション） |
+| 発言日 | 2026-10-26 |
+| 発言日の注記 | 表紙の記載「As filed with the Securities and Exchange Commission on October 26, 2026」による |
+| 媒体 | 米国証券取引委員会（SEC）に提出した登録届出書（Form S-1）の「Prospectus Summary」 |
+| 逐語引用 | We believe that Powerful AI, a highly capable and impactful form of frontier AI characterized by the following key attributes, will become widely available within a few years: |
+| 直前の一文 | AI is Transforming Intelligence |
+| 直後の一文 | cognitive capabilities matching or exceeding those of top human experts across most professional and scientific disciplines; |
+| 参考訳 | 私たちは、以下の主要な属性を特徴とする、高度な能力と大きな影響力を持つフロンティアAIの一形態であるPowerful AIが、数年以内に広く利用可能になると考えている。 |
+| 一次URL | https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm |
+| 到達証明 | FORM S-1 REGISTRATION STATEMENT UNDER THE SECURITIES ACT OF 1933（Anthropic, PBC、2026-10-29到達・該当箇所を取得） |
+| 出典の階層 | 一次 |
+| 期限 | △（within a few years＝数年以内。年数の明示なし） |
+| 対象 | あり（Powerful AI。直後の箇条書きで5つの属性により定義：専門職・科学の大半の分野で最高水準の人間の専門家に並ぶか上回る認知能力／人間が仮想的に使うすべてのインターフェースの操作／数時間〜数週間にわたる自律的な推論／複数の実体の協調と人間・他のAIとの協働／実験機器・ロボット等の制御による物理世界との接続） |
+| 尺度 | △（widely available＝広く利用可能。測れる尺度の明示なし） |
+| 決着条件 | △（5つの属性による定義はあるが、各属性が満たされたことと「広く利用可能」の確認手続きが定められていない） |
+| 期限の到来 | 未到来 |
+| 本人の事後評価 | （なし。期限未到来） |
+| 一次資料の記載 | （2026-10-29の登録時点で未収載） |
+| 決着前／後 | 決着前 |
+| 登録コミット |  |
+| 補足 | 直前の一文は、逐語引用の直前に置かれた節見出し。直後の一文は、続く箇条書きの第1項。表紙に「Subject to Completion」の表示がある登録届出書であり、文言は今後の改訂で変わりうる。同書類は、IDCによる2031年までの累積経済効果22.5兆ドルの推計を引用し、「We believe the impact could be even greater.」と記す（第三者の推計の引用を含むため本行に含めない） |
 
 ---
 

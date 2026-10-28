@@ -5,7 +5,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Rows](https://img.shields.io/badge/Rows-10-informational)](data/registry.csv)
+[![Rows](https://img.shields.io/badge/Rows-23-informational)](data/registry.csv)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--14-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
 
 <p align="left">
@@ -146,6 +146,7 @@ Future of Life Instituteの書簡について、本書は「停止は実現し�
 | --- | --- | --- |
 | **v1.0** | 2026-09-14 | 初版公開（8行／決着後5・決着前3／一次7・二次1） |
 | — | 2026-09-16 | 009・010を登録（10行／決着後5・決着前5／一次9・二次1）。版は据え置き |
+| — | 2026-10-29 | 011〜023を登録（23行／決着後5・決着前18／一次17・二次6）。版は据え置き |
 
 ---
 

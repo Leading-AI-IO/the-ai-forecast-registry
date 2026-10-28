@@ -4,7 +4,7 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
-[![Rows](https://img.shields.io/badge/Rows-10-informational)](data/registry.csv)
+[![Rows](https://img.shields.io/badge/Rows-23-informational)](data/registry.csv)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--09--14-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
 
 <p align="left">
@@ -135,6 +135,7 @@ The next test is the week of 21 to 27 September 2026.
 | --- | --- | --- |
 | **v1.0** | 2026-09-14 | First edition (8 rows / 5 post-resolution, 3 pre-resolution / 7 primary, 1 secondary) |
 | — | 2026-09-16 | Registered rows 009 and 010 (10 rows / 5 post-resolution, 5 pre-resolution / 9 primary, 1 secondary). Version unchanged |
+| — | 2026-10-29 | Registered rows 011 to 023 (23 rows / 5 post-resolution, 18 pre-resolution / 17 primary, 6 secondary). Version unchanged |
 
 ---
 
