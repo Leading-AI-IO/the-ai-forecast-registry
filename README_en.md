@@ -184,6 +184,7 @@ This book is cross-connected with the following open-source projects.
 | **The Forward Deployed Shift**      | Where value sits once AI has finished "building" | [GitHub](https://github.com/Leading-AI-IO/the-forward-deployed-shift)     |
 | **Earned AI Model Optionality**     | You can choose your AI model — if you built the ability to choose | [GitHub](https://github.com/Leading-AI-IO/earned-ai-model-optionality)    |
 | **the Japan Breach Registry 2026** | The Japan Breach Registry 2026 | [GitHub](https://github.com/Leading-AI-IO/the-japan-breach-registry-2026)  |
+| **Enterprise Security in The AI Era** | Where the Patch Ends — Reading Enterprise Security in the AI Era from the World’s Proposals | [GitHub](https://github.com/Leading-AI-IO/enterprise-security-in-the-ai-era)  |
 
 ---
 
