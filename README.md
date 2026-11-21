@@ -7,6 +7,7 @@
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
 [![Rows](https://img.shields.io/badge/Rows-23-informational)](data/registry.csv)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--22-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24429813.svg)](https://doi.org/10.5281/zenodo.24429813)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="80%">
@@ -161,6 +162,7 @@ Future of Life Instituteの書簡について、本書は「停止は実現し�
 | — | 2026-10-29 | 011〜023を登録（23行／決着後5・決着前18／一次17・二次6）。版は据え置き |
 | — | 2026-11-22 | 009の帰結を追記（期限の到来・一次資料の記載。本人の事後評価は未到達）。23行／決着後5・決着前18は変わらない |
 | **v1.1** | 2026-11-22 | 版を固定し、Zenodoで保存（DOIを付与）。決着前に登録した行に帰結を追記した後の最初の版。`CITATION.cff` と `.zenodo.json` を追加し、更新手順書に帰結の扱い（2-3〜2-6）、更新の頻度（第6章）、版とDOIの手順（第7章）、期限の一覧（付録F）を追記し、`registry.json` の `rules` に帰結層の定義を追加 |
+| — | 2026-11-22 | v1.1のDOIを `CITATION.cff` とREADMEに記載（版のDOI 10.5281/zenodo.24429814、全版のDOI 10.5281/zenodo.24429813）。DOIはReleaseの後でしか分からないため、Zenodoに保存された版のファイルには含まれない |
 
 ---
 

@@ -6,6 +6,7 @@
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
 [![Rows](https://img.shields.io/badge/Rows-23-informational)](data/registry.csv)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--22-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24429813.svg)](https://doi.org/10.5281/zenodo.24429813)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="80%">
@@ -150,6 +151,7 @@ In a month in which an outcome is appended, the version is raised and archived o
 | — | 2026-10-29 | Registered rows 011 to 023 (23 rows / 5 post-resolution, 18 pre-resolution / 17 primary, 6 secondary). Version unchanged |
 | — | 2026-11-22 | Appended the outcome of row 009 (deadline status and facts stated in primary sources; no later assessment by the speaker reached). The counts of 23 rows / 5 post-resolution, 18 pre-resolution are unchanged |
 | **v1.1** | 2026-11-22 | Version fixed and archived on Zenodo with a DOI. The first version after an outcome was appended to a row registered before resolution. Added `CITATION.cff` and `.zenodo.json`; added to the update runbook the handling of outcomes (2-3 to 2-6), the update frequency (chapter 6), the version and DOI procedure (chapter 7) and the list of deadlines (appendix F); added outcome-layer definitions to `rules` in `registry.json` |
+| — | 2026-11-22 | Recorded the DOI of v1.1 in `CITATION.cff` and the README (version DOI 10.5281/zenodo.24429814; DOI for all versions 10.5281/zenodo.24429813). The DOI is known only after the Release, so it is not contained in the files archived on Zenodo |
 
 ---
 
