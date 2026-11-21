@@ -1039,6 +1039,18 @@ Primary 17, secondary 6.
 | Registration commit | `c90b814d48feebab1f43f7af81de5f9af07cc10d` |
 | Notes | This is the text of remarks as prepared for delivery; it has not been checked against what was actually said at the event. The same remarks contain another statement (plans to introduce, the following week with Rep. Greg Casar, legislation permanently banning the development of superintelligence). Only the hope for treaty negotiations is included in this row |
 
+(Added on November 22, 2026)
+
+The deadline of row 009 (the week of 21 to 27 September 2026) has passed.
+The three columns of the outcome layer were appended as follows, in a commit separate from the registration. The table as registered is kept above, unchanged.
+In the data, too, row 009 is not rewritten; the outcome is appended to `outcomes` in `data/registry.json` (and emitted to `data/outcomes.csv`).
+
+| Column | Content |
+|---|---|
+| Deadline status | Elapsed |
+| Forecaster's own later assessment | (as of 2026-11-22, no statement in which the speaker directly revisits this particular forecast has been reached) |
+| Facts stated in primary sources | 2026-09-25 ｜ (1) The two leaders agreed to use the term “super intelligence” rather than “artificial intelligence” to describe the applicable emerging technologies. (2) The two countries established the U.S.-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits related to SI. (3) The next exchange will occur by November 2026. (4) The United States and China also agreed to establish a bilateral communication channel for SI incidents. ｜ https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/ (White House fact sheet "Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit" (accessed 2026-11-22). These four sentences are its statements on artificial intelligence; the words "treaty," "pause" and "ban" do not appear) |
+
 (Added on September 16, 2026)
 
 ### 010 "Bill Gates / Decisions in the next 12 to 18 months that determine who benefits from AI / 2026-09-15"
@@ -1459,6 +1471,13 @@ The rows of this chapter are emitted, from the same data, into two further files
 - `data/registry.json` — **the canonical registry.** For reading from a program. Column definitions and operating rules precede the rows, and every column label carries both a Japanese and an English form
 - `data/registry.csv` — openable in a spreadsheet. Generated from the canonical file. First line column names, subsequent lines the rows. Encoded UTF-8 with BOM
 
+(Added on November 22, 2026)
+
+An outcome is appended to `outcomes` in the canonical file as a separate record, without rewriting the row.
+The outcome-layer columns of `data/registry.csv` keep their values as registered. Appended outcomes are also emitted to the following file.
+
+- `data/outcomes.csv` — the list of appended outcomes. Each line is one appending, with the row ID, the formal name, the date appended and the three outcome-layer columns. Generated from the canonical file. Encoded UTF-8 with BOM
+
 **There is one registry, shared by the Japanese and English editions.** The statement layer — verbatim quotation and the sentences before and after — is held in the original language and is identical in both. Only the form and outcome layers carry separate Japanese and English columns. A reader arriving from either edition opens the same file and cites the same row.
 
 The prose tables and the two files **are updated in the same commit.** A state in which one is newer than the other does not exist under this book's operating rules. A reader may open `data/registry.csv` without reading the prose at all.
@@ -1516,6 +1535,10 @@ Three speakers: the Future of Life Institute, Gary Marcus, and the AI Futures Pr
 - 008 "Dario Amodei / Capability of an agent swarm to take over the entire internet within 6-12 months / 2026-09" — deadline not yet elapsed
 
 That two rows whose deadlines have not arrived carry no assessment is unremarkable. For 004 "Gary Marcus / Revision of the timing of the generative-AI bubble collapse," the book has merely failed to reach one. It does not write that none exists.
+
+(Added on November 22, 2026)
+
+- 009 "Bernie Sanders / Hope that a treaty pausing advanced AI development and banning superintelligence will be negotiated at the US-China summit / 2026-09-15" — the deadline has passed (the week of 21 to 27 September 2026). As of 22 November 2026, this book has not reached a statement in which the speaker revisits this particular forecast
 
 ---
 
@@ -1995,6 +2018,14 @@ The original paragraph is kept as the first-edition text, and the correction is 
 The first deadline to arrive is now that of row 009.
 The first test of this book against its own proposition has moved forward from 31 December 2026 to that week.
 When that deadline passes, whether an outcome is appended in a commit separate from the registration will be asked here for the first time.
+
+(Added on November 22, 2026)
+
+The deadline of row 009 arrived in the week of 21 to 27 September 2026.
+The White House published the results of the summit in a fact sheet dated 25 September 2026.
+On 22 November 2026, this book appended the outcome layer of row 009 in a commit separate from the registration, 56 days after the last day of the deadline week.
+No later assessment by the speaker has been reached.
+The next row to reach its deadline is 007 "Global Call for AI Red Lines / Call for an international agreement on AI red lines by the end of 2026 / 2025-09-22," on 31 December 2026.
 
 In other words, **this book has not yet proved its own proposition.** Proof occurs row by row, in the course of pre-resolution rows acquiring their outcomes. What the first edition can show is only that the registry is placed in a shape where that course is possible.
 

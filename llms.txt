@@ -31,6 +31,13 @@
 > On October 29, 2026, rows 011 to 023 were registered. The registry
 > now carries twenty-three rows: five post-resolution, eighteen
 > pre-resolution; seventeen primary, six secondary.
+>
+> (Added on November 22, 2026)
+> On November 22, 2026, the outcome layer of row 009 was appended in a
+> commit separate from its registration: its deadline has elapsed, a White
+> House fact sheet dated September 25, 2026 is recorded as a primary
+> source, and no later assessment by the speaker has been reached. The
+> next deadline is December 31, 2026 (row 007).
 
 ## Book Content
 
@@ -38,6 +45,7 @@
 - [Full text (English)](docs/en/the-ai-forecast-registry_EN.md): Complete English edition
 - [Registry (canonical)](data/registry.json): Single registry shared by both editions, 23 rows as of October 29, 2026 (8 in the first edition), 38 columns, with column definitions and operating rules
 - [Registry (derived)](data/registry.csv): Spreadsheet form generated from the canonical file
+- [Outcomes (derived)](data/outcomes.csv): Appended outcomes, one line per appending (added on November 22, 2026). Rows are never rewritten; outcomes are appended to `outcomes` in the canonical file, and the outcome columns of registry.csv keep their values as registered
 - [Update runbook](docs/RUNBOOK.md): Japanese-only. The operational procedure the sole author follows to add, revise, and append outcomes to rows, published so readers can verify how the registry is maintained, not itself a source of Key Facts below
 
 ## Key Facts (as stated in the book)
@@ -271,6 +279,23 @@
   states all four requisites explicitly; four carry no resolution
   condition and nine carry one that requires interpretation, so that of
   twenty-three rows, two can still be settled by a third party
+
+- (Added on November 22, 2026) On November 22, 2026, the book appended the
+  outcome layer of row 009 "Bernie Sanders / Hope that a treaty pausing
+  advanced AI development and banning superintelligence will be negotiated
+  at the US-China summit / 2026-09-15" in a commit separate from its
+  registration, 56 days after the last day of the deadline week. It records
+  the deadline as elapsed; as the fact stated in a primary source, the four
+  sentences on artificial intelligence in the White House fact sheet of
+  September 25, 2026 (the two leaders agreed to use the term "super
+  intelligence," established the U.S.-China Super Intelligence (SI)
+  Dialogue with the next exchange by November 2026, and agreed to establish
+  a bilateral communication channel for SI incidents), noting that the
+  words "treaty," "pause" and "ban" do not appear in it; and, for the
+  speaker's own later assessment, that none has been reached. It writes no
+  verdict, and it does not rewrite row 009: the outcome is appended as a
+  separate record. The next row to reach its deadline is 007, on December
+  31, 2026
 
 - The book discloses what it has not reached in primary form as of the
   first edition: the "AI 2027" document itself at ai-2027.com, whose

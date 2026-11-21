@@ -5,7 +5,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
 [![Rows](https://img.shields.io/badge/Rows-23-informational)](data/registry.csv)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--29-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--22-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="80%">
@@ -100,6 +100,7 @@ The epilogue lists what could not be recorded: the truth of forecasts without de
 | --- | --- | --- |
 | [registry.json](./data/registry.json) | **Canonical** | Column definitions and operating rules precede the rows. Every column label carries both a Japanese and an English form |
 | [registry.csv](./data/registry.csv) | Derived | Openable in a spreadsheet (UTF-8 with BOM, 38 columns) |
+| (Added on November 22, 2026)<br>[outcomes.csv](./data/outcomes.csv) | Derived | The list of appended outcomes (UTF-8 with BOM). Outcomes are appended to `outcomes` in the canonical file without rewriting rows; the outcome-layer columns of `registry.csv` keep their values as registered |
 
 **The prose tables and the two files are updated in the same commit.** A state in which one is newer than the other does not exist under this book's operating rules. A reader may open `data/registry.csv` without reading the prose at all.
 
@@ -131,11 +132,18 @@ The original paragraph is kept as the first-edition text.
 
 The next test is the week of 21 to 27 September 2026.
 
+(Added on November 22, 2026)
+
+The deadline of row 009 has passed. On 22 November 2026, the outcome layer of row 009 (deadline status, the forecaster's own later assessment, and facts stated in primary sources) was appended in a commit separate from the registration.
+
+The next test is 31 December 2026 (007 "Global Call for AI Red Lines / Call for an international agreement on AI red lines by the end of 2026 / 2025-09-22").
+
 | Version | Date | Contents |
 | --- | --- | --- |
 | **v1.0** | 2026-09-14 | First edition (8 rows / 5 post-resolution, 3 pre-resolution / 7 primary, 1 secondary) |
 | — | 2026-09-16 | Registered rows 009 and 010 (10 rows / 5 post-resolution, 5 pre-resolution / 9 primary, 1 secondary). Version unchanged |
 | — | 2026-10-29 | Registered rows 011 to 023 (23 rows / 5 post-resolution, 18 pre-resolution / 17 primary, 6 secondary). Version unchanged |
+| — | 2026-11-22 | Appended the outcome of row 009 (deadline status and facts stated in primary sources; no later assessment by the speaker reached). The counts of 23 rows / 5 post-resolution, 18 pre-resolution are unchanged |
 
 ---
 

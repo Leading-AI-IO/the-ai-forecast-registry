@@ -1069,6 +1069,18 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 | 登録コミット | `c90b814d48feebab1f43f7af81de5f9af07cc10d` |
 | 補足 | 講演原稿（as prepared for delivery）であり、当日の実際の発言との照合は未実施。同原稿内に別の言明あり（翌週にGreg Casar下院議員と超知能の開発を恒久的に禁止する法案を提出する予定）。本行は条約の交渉への期待のみ収載 |
 
+（2026年11月22日追記）
+
+009の期限（2026年9月21日から27日の週）は到来した。
+帰結層の3欄を、登録とは別のコミットで次のとおり追記した。登録時の表は、上にそのまま残す。
+データでも行009は書き換えず、帰結を `data/registry.json` の `outcomes` に追記した（`data/outcomes.csv` にも出力）。
+
+| 列 | 内容 |
+|---|---|
+| 期限の到来 | 到来済 |
+| 本人の事後評価 | （2026-11-22時点で、この予測を直接振り返った本人発言に未到達） |
+| 一次資料の記載 | 2026-09-25 ｜ (1) The two leaders agreed to use the term “super intelligence” rather than “artificial intelligence” to describe the applicable emerging technologies. (2) The two countries established the U.S.-China Super Intelligence (SI) Dialogue to exchange views on risks and benefits related to SI. (3) The next exchange will occur by November 2026. (4) The United States and China also agreed to establish a bilateral communication channel for SI incidents. ｜ https://www.whitehouse.gov/fact-sheets/2026/09/fact-sheet-president-donald-j-trump-advances-a-fair-and-reciprocal-relationship-with-china-while-hosting-historic-state-visit/（ホワイトハウスのファクトシート「Fact Sheet: President Donald J. Trump Advances a Fair and Reciprocal Relationship with China While Hosting Historic State Visit」（2026-11-22到達）。人工知能に関する記載は上の4文。条約（treaty）・一時停止（pause）・禁止（ban）の語はない） |
+
 （2026年9月16日追記）
 
 ### 010「Bill Gates／AIの恩恵の行き先を決める今後12〜18か月の決定／2026-09-15」
@@ -1503,6 +1515,13 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 - `data/registry.json` ── **台帳の正本。** プログラムから読む形式。列の定義と運用規則を先頭に含み、列ラベルは日英の両方を持つ
 - `data/registry.csv` ── 表計算ソフトで開ける形式。正本から生成される派生物。1行目が列名、2行目以降が各行。文字コードはUTF-8（BOM付き）
 
+（2026年11月22日追記）
+
+帰結は、行を書き換えずに、正本の `outcomes` に別の記録として追記する。
+`data/registry.csv` の帰結層の欄は、登録時の値のままである。帰結の追記は、次のファイルにも出力される。
+
+- `data/outcomes.csv` ── 帰結の追記の一覧。1行が1回の追記で、行ID・正式名称・追記日と、帰結層の3欄を持つ。正本から生成される派生物。文字コードはUTF-8（BOM付き）
+
 **台帳は日本語版・英語版で1本である。** 発言層（逐語引用・直前と直後の一文）は原文の言語のまま両版で同一であり、形式層と帰結層の記述だけが日英の両方の列を持つ。どちらの版から来た読者も、同じファイルを開き、同じ行を引用する。
 
 本文の表と2ファイルは、**同じコミットで更新される。** どちらか一方だけが新しい状態は、本書の運用上、存在しない。読者は本文を読まずに `data/registry.csv` だけを開いてもよい。
@@ -1560,6 +1579,10 @@ FLIの書簡について、本書は「停止は実現しなかった」と書�
 - 008「Dario Amodei／6〜12か月以内のエージェント群によるインターネット掌握能力／2026-09」── 期限未到来
 
 期限が来ていない2行に事後評価がないのは当然である。004「Gary Marcus／生成AIバブルの崩壊時期の修正」については、本書が到達できていないだけであって、存在しないとは書かない。
+
+（2026年11月22日追記）
+
+- 009「Bernie Sanders／米中首脳会談での先端AI開発停止と超知能禁止の条約交渉への期待／2026-09-15」── 期限は到来済（2026年9月21日から27日の週）。2026年11月22日時点で、本書はこの予測を直接振り返った本人の発言に到達していない
 
 ---
 
@@ -2050,6 +2073,14 @@ AI Impactsは、機械学習の研究者を対象に、AIの到達時期につ�
 最初に期限が来る行は、009である。
 本書が自らの命題を最初に試される時点は、2026年12月31日から、この一週間へ前倒しされた。
 期限が過ぎたとき、帰結が登録とは別のコミットで追記されるかどうかが、ここで最初に問われる。
+
+（2026年11月22日追記）
+
+009の期限は、2026年9月21日から27日の週に到来した。
+ホワイトハウスは、2026年9月25日付のファクトシートで会談の結果を公表した。
+本書は2026年11月22日に、009の帰結層を登録とは別のコミットで追記した。期限の週の最終日から56日後である。
+本人の事後評価には、到達していない。
+次に期限が来る行は、007「Global Call for AI Red Lines／2026年末までのAIレッドライン国際合意要求／2025-09-22」で、2026年12月31日である。
 
 つまり、**本書はまだ自らの命題を証明していない。** 証明は、決着前の行が帰結を得る過程の中で、行ごとに起きる。第1版の時点で本書が示せているのは、その過程が起きうる形に台帳が置かれている、ということだけである。
 

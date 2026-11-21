@@ -6,7 +6,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Language](https://img.shields.io/badge/Language-Japanese%20%7C%20English-blue)](docs/)
 [![Rows](https://img.shields.io/badge/Rows-23-informational)](data/registry.csv)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--29-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--11--22-brightgreen)](https://github.com/Leading-AI-IO/the-ai-forecast-registry/releases)
 
 <p align="left">
   <img src="./assets/ogp_design.png" width="80%">
@@ -111,6 +111,7 @@ Future of Life Instituteの書簡について、本書は「停止は実現し�
 | --- | --- | --- |
 | [registry.json](./data/registry.json) | **正本** | 列定義と運用規則を先頭に含む。列ラベルは日英の両方を持つ |
 | [registry.csv](./data/registry.csv) | 派生 | 表計算ソフトで開ける形式（UTF-8 BOM付き・38列） |
+| （2026年11月22日追記）<br>[outcomes.csv](./data/outcomes.csv) | 派生 | 帰結の追記の一覧（UTF-8 BOM付き）。帰結は行を書き換えずに正本の `outcomes` に追記し、`registry.csv` の帰結層の欄は登録時の値のまま |
 
 **本文の表と2ファイルは、同じコミットで更新される。** どちらか一方だけが新しい状態は、本書の運用上、存在しない。読者は本文を読まずに `data/registry.csv` だけを開いてもよい。
 
@@ -142,11 +143,18 @@ Future of Life Instituteの書簡について、本書は「停止は実現し�
 
 次の検証点は、2026年9月21日から27日の週である。
 
+（2026年11月22日追記）
+
+009の期限は到来した。2026年11月22日に、009の帰結層（期限の到来・本人の事後評価・一次資料の記載）を、登録とは別のコミットで追記した。
+
+次の検証点は、2026年12月31日である（007「Global Call for AI Red Lines／2026年末までのAIレッドライン国際合意要求／2025-09-22」）。
+
 | 版 | 日付 | 内容 |
 | --- | --- | --- |
 | **v1.0** | 2026-09-14 | 初版公開（8行／決着後5・決着前3／一次7・二次1） |
 | — | 2026-09-16 | 009・010を登録（10行／決着後5・決着前5／一次9・二次1）。版は据え置き |
 | — | 2026-10-29 | 011〜023を登録（23行／決着後5・決着前18／一次17・二次6）。版は据え置き |
+| — | 2026-11-22 | 009の帰結を追記（期限の到来・一次資料の記載。本人の事後評価は未到達）。23行／決着後5・決着前18は変わらない |
 
 ---
 
