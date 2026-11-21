@@ -1,0 +1,32 @@
+{
+  "title": "The AI Forecast Registry",
+  "upload_type": "dataset",
+  "publication_date": "2026-11-22",
+  "description": "<p>An append-only registry by Satoshi Yamauchi (Japanese title: 予測の名簿) of public forecasts about AI. Each row records the statement verbatim in its original language, with the sentence before and after, the date and the primary URL; describes the form of the forecast (the presence or absence of a deadline, a subject, a magnitude and a resolution condition) independently of whether it proves true; and fills the outcome only with what the forecaster later said about their own forecast and what a primary source states as fact. No verdict by the recorder appears. Registration and outcome are recorded as separate PGP-signed commits, so that a third party can verify that a forecast was registered before its outcome was known. Only the author writes to the registry; every forecast that meets the admission criteria is admitted, whether it warns of danger, argues for safety or denies that a capability is near. The registry begins on 22 March 2023 with the Future of Life Institute's open letter \"Pause Giant AI Experiments.\" Rows are never rewritten: outcomes are appended to the canonical data as separate records. The canonical data is data/registry.json; data/registry.csv (rows as registered) and data/outcomes.csv (appended outcomes) are generated from it. Japanese and English editions. This archived version (v1.1, 22 November 2026) holds 23 rows (5 recorded after resolution, 18 before) and is the first version archived after an outcome was appended to a row registered before resolution: row 009, whose deadline was the week of 21 to 27 September 2026. The registry is updated roughly once a month, and a new version is archived in each month in which an outcome is appended.</p><p>AIをめぐる公開の予測を記録する、山内怜史による追記専用の台帳。各行は、発言を原文の言語のまま直前・直後の一文とともに逐語で記録し、発言日と一次URLを付す。予測の形（期限・対象・尺度・決着条件の有無）は、予測が当たるかどうかとは独立に記述する。帰結には、予測者本人が後から自分の予測について述べた言葉と、一次資料に記載された事実だけを置き、記録者の判定は書かない。登録と帰結は別々の署名付きコミットで記録し、予測が帰結より前に登録されたことを第三者が検証できる。台帳に書くのは著者一人であり、収載基準を満たす予測は、危険を警告するものも、安全を主張するものも、能力の到来を否定するものも、同じ基準で載せる。起点は2023年3月22日のFuture of Life Institute公開書簡「Pause Giant AI Experiments」。行は書き換えず、帰結は正本に別の記録として追記する。正本は data/registry.json で、data/registry.csv（登録時の行）と data/outcomes.csv（帰結の追記）はそこから生成する。日本語版・英語版を収録。この版（v1.1、2026年11月22日）は23行（決着後に登録5行・決着前に登録18行）で、決着前に登録した行に帰結を追記した後の最初の保存版である（009、期限は2026年9月21日から27日の週）。台帳は月に1回程度更新し、帰結を追記した月ごとに新しい版を保存する。</p>",
+  "creators": [
+    {
+      "name": "Yamauchi, Satoshi",
+      "affiliation": "Leading.AI LLC",
+      "orcid": "0009-0002-1976-656X"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "language": "jpn",
+  "keywords": [
+    "AI forecasting",
+    "forecast registry",
+    "pre-resolution recording",
+    "artificial intelligence",
+    "AI safety",
+    "superintelligence",
+    "prediction",
+    "予測"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Leading-AI-IO/the-ai-forecast-registry",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

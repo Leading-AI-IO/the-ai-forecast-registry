@@ -38,6 +38,11 @@
 > House fact sheet dated September 25, 2026 is recorded as a primary
 > source, and no later assessment by the speaker has been reached. The
 > next deadline is December 31, 2026 (row 007).
+>
+> (Added on November 22, 2026)
+> Version 1.1 (November 22, 2026) is archived on Zenodo with a DOI. The
+> registry is updated roughly once a month; in a month in which an outcome
+> is appended, the version is raised and archived again.
 
 ## Book Content
 
@@ -45,8 +50,9 @@
 - [Full text (English)](docs/en/the-ai-forecast-registry_EN.md): Complete English edition
 - [Registry (canonical)](data/registry.json): Single registry shared by both editions, 23 rows as of October 29, 2026 (8 in the first edition), 38 columns, with column definitions and operating rules
 - [Registry (derived)](data/registry.csv): Spreadsheet form generated from the canonical file
+- [Citation metadata](CITATION.cff): How to cite this registry (added on November 22, 2026 with version 1.1)
 - [Outcomes (derived)](data/outcomes.csv): Appended outcomes, one line per appending (added on November 22, 2026). Rows are never rewritten; outcomes are appended to `outcomes` in the canonical file, and the outcome columns of registry.csv keep their values as registered
-- [Update runbook](docs/RUNBOOK.md): Japanese-only. The operational procedure the sole author follows to add, revise, and append outcomes to rows, published so readers can verify how the registry is maintained, not itself a source of Key Facts below
+- [Update runbook](docs/RUNBOOK.md): Japanese-only (identical to docs/UPDATE_RUNBOOK.md; chapters 6 and 7 and appendix F, added on November 22, 2026, give the monthly update, the version and DOI procedure, and the list of deadlines). The operational procedure the sole author follows to add, revise, and append outcomes to rows, published so readers can verify how the registry is maintained, not itself a source of Key Facts below
 
 ## Key Facts (as stated in the book)
 

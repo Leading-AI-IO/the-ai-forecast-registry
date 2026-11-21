@@ -5,8 +5,8 @@
   },
   "repository": "https://github.com/Leading-AI-IO/the-ai-forecast-registry",
   "license": "CC BY 4.0",
-  "version": "1.0",
-  "snapshot_date": "2026-09-14",
+  "version": "1.1",
+  "snapshot_date": "2026-11-22",
   "origin": {
     "ja": "2023-03-22（Future of Life Institute「Pause Giant AI Experiments」）",
     "en": "2023-03-22 (Future of Life Institute, \"Pause Giant AI Experiments\")"
@@ -26,6 +26,29 @@
     "row_name_format": {
       "ja": "発言者／予測の対象と内容／発言日",
       "en": "Speaker / subject and content of the forecast / date of statement"
+    },
+    "rows_never_rewritten_outcomes_appended": true,
+    "outcome_layer": {
+      "ja": {
+        "期限の到来": "予測の期限が過ぎたか否か（未到来／到来済）。日付の比較という事実だけを書く",
+        "本人の事後評価": "発言者本人が後から自分の予測について述べた言葉。逐語・日付・一次URLの3つが揃うものだけを書く",
+        "一次資料の記載": "一次資料に記載された、予測の対象に関する事実。逐語・日付・一次URLの3つが揃うものだけを書く",
+        "書かないもの": "当否の判定（当たった・外れた等）、重要性の評価、動機の推測"
+      },
+      "en": {
+        "Deadline status": "Whether the forecast's deadline has passed (not yet elapsed / elapsed). Only the fact of a date comparison is written",
+        "Forecaster's own later assessment": "Words the speaker later said about their own forecast. Written only when verbatim text, a date and a primary URL are all present",
+        "Facts stated in primary sources": "Facts about the subject of the forecast stated in a primary source. Written only when verbatim text, a date and a primary URL are all present",
+        "Not written": "Verdicts (correct, wrong, etc.), assessments of importance, and conjecture about motive"
+      }
+    },
+    "outcome_appending": {
+      "ja": "行は書き換えない。帰結は、登録とは別の署名付きコミット（件名は「Append outcome for row NNN」で始める）で、outcomes に別の記録として追記する。同じ行に後から帰結を追記するときも、新しい記録を加え、前の記録は残す。ある行の現在の帰結は、その行の最も新しい記録である。rows の帰結層の欄は登録時の値のまま残る",
+      "en": "Rows are never rewritten. An outcome is appended to outcomes as a separate record, in a signed commit separate from the registration whose subject begins \"Append outcome for row NNN\". A later outcome for the same row is appended as a new record and earlier records are kept. The current outcome of a row is its most recent record. The outcome-layer columns in rows keep their values as registered"
+    },
+    "empty_field_notation": {
+      "ja": "到達していない欄は空欄として扱い、値の代わりに状態を示す定型文を括弧書きで置く。期限未到来の本人の事後評価は「（なし。期限未到来）」、期限到来後に到達していない本人の事後評価は「（YYYY-MM-DD時点で、この予測を直接振り返った本人発言に未到達）」、到達していない一次資料の記載は「（…時点で未収載）」。いずれも「存在しない」という意味ではなく、判定でもない",
+      "en": "A field not yet reached is treated as empty and holds, in parentheses, a fixed phrase stating its status instead of a value: \"(none; deadline not yet elapsed)\" for the assessment before the deadline; \"(as of YYYY-MM-DD, no statement in which the speaker directly revisits this particular forecast has been reached)\" after it; and \"(not yet recorded as of ...)\" for facts stated in primary sources. None of these means that the thing does not exist, and none is a verdict"
     }
   },
   "statement_layer_policy": {

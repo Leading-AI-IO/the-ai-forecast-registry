@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this registry, please cite it as below."
+title: "The AI Forecast Registry"
+type: dataset
+authors:
+  - family-names: Yamauchi
+    given-names: Satoshi
+    affiliation: "Leading.AI LLC"
+    orcid: "https://orcid.org/0009-0002-1976-656X"
+version: "1.1"
+date-released: "2026-11-22"
+license: CC-BY-4.0
+repository-code: "https://github.com/Leading-AI-IO/the-ai-forecast-registry"
+keywords:
+  - AI forecasting
+  - forecast registry
+  - pre-resolution recording
+  - artificial intelligence
+preferred-citation:
+  type: data
+  title: "The AI Forecast Registry"
+  authors:
+    - family-names: Yamauchi
+      given-names: Satoshi
+  year: 2026
+  date-published: "2026-11-22"
+  version: "1.1"
+  url: "https://github.com/Leading-AI-IO/the-ai-forecast-registry"

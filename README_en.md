@@ -138,12 +138,18 @@ The deadline of row 009 has passed. On 22 November 2026, the outcome layer of ro
 
 The next test is 31 December 2026 (007 "Global Call for AI Red Lines / Call for an international agreement on AI red lines by the end of 2026 / 2025-09-22").
 
+(Added on November 22, 2026)
+
+The registry is updated roughly once a month. Checking the outcome layer of rows whose deadlines have arrived and registering new rows are done together on that occasion.
+In a month in which an outcome is appended, the version is raised and archived on Zenodo with a DOI. The procedure is in chapters 6 and 7 of the update runbook (Japanese), and the list of deadlines is in its appendix F. How outcomes are handled (appended without rewriting rows; how unreached fields are written) is set out in sections 2-3 to 2-6 of the runbook and in `rules` in `data/registry.json`.
+
 | Version | Date | Contents |
 | --- | --- | --- |
 | **v1.0** | 2026-09-14 | First edition (8 rows / 5 post-resolution, 3 pre-resolution / 7 primary, 1 secondary) |
 | — | 2026-09-16 | Registered rows 009 and 010 (10 rows / 5 post-resolution, 5 pre-resolution / 9 primary, 1 secondary). Version unchanged |
 | — | 2026-10-29 | Registered rows 011 to 023 (23 rows / 5 post-resolution, 18 pre-resolution / 17 primary, 6 secondary). Version unchanged |
 | — | 2026-11-22 | Appended the outcome of row 009 (deadline status and facts stated in primary sources; no later assessment by the speaker reached). The counts of 23 rows / 5 post-resolution, 18 pre-resolution are unchanged |
+| **v1.1** | 2026-11-22 | Version fixed and archived on Zenodo with a DOI. The first version after an outcome was appended to a row registered before resolution. Added `CITATION.cff` and `.zenodo.json`; added to the update runbook the handling of outcomes (2-3 to 2-6), the update frequency (chapter 6), the version and DOI procedure (chapter 7) and the list of deadlines (appendix F); added outcome-layer definitions to `rules` in `registry.json` |
 
 ---
 
